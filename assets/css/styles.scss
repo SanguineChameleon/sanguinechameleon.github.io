@@ -1,0 +1,139 @@
+---
+---
+
+@mixin noto-sans-display {
+  font-family: "Noto Sans Display", sans-serif;
+  font-optical-sizing: auto;
+  font-style: normal;
+  font-weight: 400;
+}
+
+@mixin regular-font {
+  font-weight: 400;
+}
+
+@mixin semi-bold-font {
+  font-weight: 550;
+}
+
+@mixin bold-font {
+  font-weight: 700;
+}
+
+@mixin italic-font {
+  font-style: italic;
+}
+
+html {
+  background-color: rgb(25, 35, 30);
+  color: rgb(222, 222, 222);
+  font-size: 100%;
+  @include noto-sans-display;
+}
+
+.red {
+  color: rgb(222, 0, 0);
+}
+
+.green {
+  color: rgb(0, 222, 0);
+}
+
+* {
+  box-sizing: border-box;
+}
+
+@mixin box {
+  max-width: 45rem;
+  margin: 0 auto;
+}
+
+.header {
+  @include box;
+  @include semi-bold-font;
+  font-size: 3.2rem;
+  text-align: center;
+  margin-bottom: 1rem;
+}
+
+.post {
+  @include box;
+  background-color: rgb(35, 50, 45);
+  border-radius: 0.75rem;
+  padding: 0.1rem 1rem 1rem 1rem;
+  font-size: 1.1rem;
+  margin-bottom: 1.5rem;
+}
+
+h1 {
+  @include semi-bold-font;
+  margin-top: 0.6rem;
+  margin-bottom: 0.6rem;
+  font-size: 2.7rem;
+  line-height: 120%;
+}
+
+h2 {
+  @include semi-bold-font;
+  margin-top: 1rem;
+  margin-bottom: 0.4rem;
+  font-size: 2.1rem;
+}
+
+h3 {
+  @include semi-bold-font;
+  margin-top: 0.8rem;
+  margin-bottom: 0.4rem;
+  font-size: 1.5rem;
+}
+
+p {
+  @include regular-font;
+  margin-top: 0.3rem;
+  margin-bottom: 0.4rem;
+  font-size: 1.1rem;
+}
+
+ul {
+  @include regular-font;
+  margin-top: 0.5rem;
+  margin-bottom: 0.7rem;
+  font-size: 1.1rem;
+  padding-left: 2rem;
+}
+
+li {
+  margin: 0.4rem 0;
+}
+
+a:link {
+  color: rgb(120, 170, 120);
+  text-decoration: none;
+}
+
+a:visited {
+  color: rgb(160, 200, 100);
+  text-decoration: none;
+}
+
+a:hover {
+  text-decoration: underline;
+}
+
+.header a {
+  color: inherit;
+  text-decoration: none;
+}
+
+code {
+  font-family: Consolas, monospace;
+  background-color: rgb(15, 30, 20);
+}
+
+strong {
+  @include bold-font;
+}
+
+em {
+  @include italic-font;
+}

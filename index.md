@@ -1,5 +1,6 @@
 ---
 layout: post
+title: "About"
 ---
 
 <meta http-equiv="refresh" content="0; url=/leon" />
