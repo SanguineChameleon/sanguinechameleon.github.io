@@ -26,7 +26,9 @@
             </nav>
             <div class="post">
                 <h1>{{ page.title }}</h1>
-                {{ content }}
+                {% unless page.hide_date %}
+                <div class="date">{{ page.date | date: "%d-%b-%Y"}}</div>
+                {% endunless %} {{ content }}
             </div>
         </div>
     </body>
