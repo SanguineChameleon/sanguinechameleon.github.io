@@ -10,12 +10,24 @@
         <link href="assets/css/styles.css" rel="stylesheet" />
     </head>
     <body>
-        <div class="header">
-            <a href="/leon"><span class="red">sanguine</span><span class="green">cha</span>.<span class="green">me</span>/<span class="green">leon</span></a>
-        </div>
-        <div class="post">
-            <h1>{{ page.title }}</h1>
-            {{ content }}
+        <div class="body-container">
+            <div class="header">
+                <a href="/leon"><span class="red">sanguine</span><span class="green">cha</span>.<span class="green">me</span>/<span class="green">leon</span></a>
+            </div>
+            <nav class="header-nav">
+                <ul>
+                    <li>
+                        <a href="/leon">About</a>
+                    </li>
+                    <li>
+                        <a href="/all">All Posts</a>
+                    </li>
+                </ul>
+            </nav>
+            <div class="post">
+                <h1>{{ page.title }}</h1>
+                {{ content }}
+            </div>
         </div>
     </body>
 </html>
