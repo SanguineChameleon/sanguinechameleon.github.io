@@ -27,7 +27,7 @@
 html {
   background-color: rgb(25, 35, 30);
   color: rgb(222, 222, 222);
-  font-size: 100%;
+  font-size: clamp(60%, 2vw, 100%);
   @include noto-sans-display;
 }
 
