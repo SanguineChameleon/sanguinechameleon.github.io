@@ -24,19 +24,27 @@
   font-style: italic;
 }
 
-html {
-  background-color: rgb(25, 35, 30);
-  color: rgb(222, 222, 222);
-  font-size: clamp(0%, 2vw, 100%);
-  @include noto-sans-display;
-}
-
 .red {
   color: rgb(222, 0, 0);
 }
 
 .green {
   color: rgb(0, 222, 0);
+}
+
+$darker-green: rgb(25, 35, 30);
+
+$dark-green: rgb(35, 50, 45);
+
+$white: rgb(222, 222, 222);
+
+$gray: rgb(111, 111, 111);
+
+html {
+  background-color: $darker-green;
+  color: $white;
+  font-size: clamp(0%, 2vw, 100%);
+  @include noto-sans-display;
 }
 
 * {
@@ -61,7 +69,7 @@ html {
 }
 
 .header-nav li {
-  background-color: rgb(35, 50, 45);
+  background-color: $dark-green;
   border-radius: 0.3rem 0.3rem 0rem 0rem;
   padding: 0.1rem 0.7rem 0.1rem 0.7rem;
   font-size: 0.9rem;
@@ -71,7 +79,7 @@ html {
 }
 
 .post {
-  background-color: rgb(35, 50, 45);
+  background-color: $dark-green;
   border-radius: 0.7rem;
   padding: 0.1rem 1rem 0.5rem 1rem;
   font-size: 1.1rem;
@@ -153,4 +161,22 @@ strong {
 
 em {
   @include italic-font;
+}
+
+.note {
+  margin-top: 1rem;
+  margin-bottom: 0rem;
+  border: 0.2rem dashed $gray;
+  border-radius: 0.5rem;
+  padding: 0.1rem 0.5rem 0.1rem 0.5rem;
+}
+
+img {
+  margin-top: 0.8rem;
+  margin-bottom: 0.8rem;
+  border: 0.15rem solid $gray;
+  border-radius: 0.6rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
