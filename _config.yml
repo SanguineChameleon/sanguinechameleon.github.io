@@ -9,3 +9,5 @@ exclude:
   - "vendor/gems/"
   - "vendor/ruby/"
   - "LICENSE"
+kramdown:
+  smart_quotes: ["apos", "apos", "quot", "quot"]
