@@ -190,7 +190,6 @@ blockquote {
 img {
   margin-top: 0.8rem;
   margin-bottom: 0.8rem;
-  border: 0.15rem solid $gray;
   border-radius: 0.6rem;
   display: block;
   margin-left: auto;
@@ -203,4 +202,14 @@ hr {
   background-image: repeating-linear-gradient(to right, $gray, $gray 0.3rem, transparent 0.3rem, transparent 0.5rem);
   margin-top: 0.8rem;
   margin-bottom: 0.7rem;
+}
+
+iframe {
+  margin-top: 0.9rem;
+  margin-bottom: 0.9rem;
+  border: 0;
+  border-radius: 0.6rem;
+  display: block;
+  margin-left: auto;
+  margin-right: auto;
 }
