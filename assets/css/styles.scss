@@ -46,7 +46,7 @@ $gray: rgb(111, 111, 111);
 html {
   background-color: $darker-green;
   color: $white;
-  font-size: clamp(0%, 2vw, 100%);
+  font-size: min(2vw, 100%);
   @include noto-sans-display;
 }
 
