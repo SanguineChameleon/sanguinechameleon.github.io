@@ -1,7 +1,7 @@
 ---
 ---
 
-@import "monokai";
+@use "monokai";
 
 @mixin noto-sans-display {
   font-family: "Noto Sans Display", sans-serif;
