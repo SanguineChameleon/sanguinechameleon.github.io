@@ -1,6 +1,6 @@
 source "https://rubygems.org"
 
-gem "github-pages", "~> 232", group: :jekyll_plugins
+gem "jekyll", "~> 4.4"
 
 platforms :mingw, :x64_mingw, :mswin, :jruby do
   gem "tzinfo", ">= 1", "< 3"
@@ -10,3 +10,5 @@ end
 gem "wdm", "~> 0.1", :platforms => [:mingw, :x64_mingw, :mswin]
 
 gem "http_parser.rb", "~> 0.6.0", :platforms => [:jruby]
+
+gem "rouge", "~> 4.5.2"
