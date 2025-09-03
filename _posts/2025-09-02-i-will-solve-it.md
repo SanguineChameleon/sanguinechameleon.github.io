@@ -42,3 +42,13 @@ I will solve it.
 I will solve it!
 
 ~~*Please* do your homework.~~
+
+> **Update**: Literally the next day after writing this, I solved it.
+>
+> So there's 2 possibilities:
+> 1. This post was useful, and I should write more motivational posts for myself
+> 2. This post was useless, and I only solved it because I can't stop procrastinating
+>
+> Either way, I need a well-deserved break from Project Euler.
+>
+> I'm gonna go do my homework now. Promise.
