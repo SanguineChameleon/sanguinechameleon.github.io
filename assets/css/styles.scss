@@ -247,3 +247,8 @@ pre.highlight {
   background-color: transparent;
   font-size: 0.9rem;
 }
+
+span.mono {
+  @include noto-sans-mono;
+  font-size: 1rem;
+}
