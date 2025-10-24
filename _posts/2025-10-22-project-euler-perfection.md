@@ -6,7 +6,7 @@ title: "Project Euler: Perfection"
 > **Note**: This post was migrated from Codeforces with some small clean-ups, and is here for archival purposes. You can check out the original [here](https://codeforces.com/blog/entry/147687).
 > I'll write a proper post about Project Euler soon(ish).
 >
-> Unrelated, but I find it kind of funny that my previous post nearly 2 months ago was me complaining about not being able to solve a problem.
+> Unrelated, but I find it kind of funny that [my previous post]({% post_url 2025-09-02-i-will-solve-it %}) nearly 2 months ago was me complaining about not being able to solve a problem.
 
 ### *I've been dreaming of writing this for so long.*
 
