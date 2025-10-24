@@ -69,9 +69,9 @@ I've never considered myself "good at math". The only things I'd say I'm good at
 
 Although, after talking to a few Discord members, I realize I haven't gotten my point across, so I'll try again.
 
-Taking a look at the *About* section of PE...
+Taking a look at the [*About*](https://projecteuler.net/) section of PE...
 
-> *The intended audience include students for whom the basic curriculum is not feeding their hunger to learn...*
+> *"The intended audience include students for whom the basic curriculum is not feeding their hunger to learn..."*
 
 So yes, if there is one thing that I am good at, it's **being willing to learn**.
 
