@@ -460,7 +460,7 @@ Anyway, I hope you enjoy this work as much as I enjoyed writing it. That is to s
 
 * No. I think I have a tummy ache.
 
-~ Okay, well Daddy's going to get you some warm water, okay?
+~ Alright, well Daddy's going to get you some warm water, okay?
 
 * No. I think I'm going to-
 
