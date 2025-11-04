@@ -23,6 +23,8 @@ title: In Sickness
     }
 </style>
 
+### [*AO3 Mirror*](https://archiveofourown.org/works/73659606)
+
 Now for something a bit different.
 
 This is a fictional work I wrote about a month ago, titled *In Sickness*. After some tweaking, it now has its own little space here on my website. It also feels fitting to share now, since I'm actually sick. Nothing too bad, just a slight cold.
