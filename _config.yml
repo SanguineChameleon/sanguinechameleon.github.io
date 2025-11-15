@@ -11,3 +11,4 @@ exclude:
   - "LICENSE"
 kramdown:
   smart_quotes: ["apos", "apos", "quot", "quot"]
+future: true
