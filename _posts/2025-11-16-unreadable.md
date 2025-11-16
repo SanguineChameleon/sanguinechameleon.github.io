@@ -27,6 +27,8 @@ title: Unreadable
     }
 </style>
 
+### [*AO3 Mirror*](https://archiveofourown.org/works/74282926)
+
 I'm back with another story! This one's about two college boys named Vincent and... well, you'll just have to read it to find out the other one's name!
 
 They're so cute and so them. I want to put them in a blender (affectionately).
