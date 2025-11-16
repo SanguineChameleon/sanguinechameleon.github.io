@@ -1850,3 +1850,41 @@ Heat rushes to my cheeks.
 "Ugh. I love you too."
 
 ---
+
+<h2 id="notes" style="margin-top:2rem">Notes</h2>
+
+Hi! Thank you for reading (or at least, thank you for scrolling all the way down here).
+
+I originally came up with this idea after reading one too many telepathy fics. I never liked the imbalanced dynamic where only one character was a telepath.
+
+So naturally, the next step was to make both of them telepaths.
+
+But then, how would they interact with each other?
+
+It reminds me of a writing prompt [on Reddit](http://redd.it/5ozqb9) about a chess game where one player is a telepath, and the other is a prophet. I imagine the two of them would give each other a massive headache from overthinking.
+
+So naturally, the next step was to make them unable to read each other.
+
+But that's a bit bittersweet. Two people destined to be together, and yet they can never truly understand one another?
+
+So naturally, the next step was to make their abilities only work under certain conditions.
+
+What are those conditions? When they kiss, of course.
+
+The backstory between Vincent and Oliver felt fitting too. If they were soulmates, then they should've crossed paths early on, long before they properly knew each other.
+
+The rest of the story came together as I went along.
+
+I originally wanted to include a scene where Vincent joins one of Oliver's study sessions, and gleans from Oliver's friends that Oliver is into him. But that wouldn't really make sense. Vincent reads minds only when he absolutely has to. So I dropped it.
+
+Funnily enough, I inadvertently followed the in-story timeline in real life. I wrote their first date around the time I finished midterms, and I wrote the confrontation and epilogue right before finals. I should probably be studying for them.
+
+Lastly, the names. I always struggle with naming my characters. I'd rather have them be nameless, to be honest. But there's no way that'd work here, so I grudgingly had to pick some. Their personalities ended up fitting their names, which I'm pretty happy about.
+
+Oliver is named after Oliver Spring in Heartstopper. Sorry not sorry.
+
+The rest (including the fictional middle schools) came from tediously looking at random name generators.
+
+That's all I want to say for now.
+
+Vincent and Oliver are very cute. I love them.
