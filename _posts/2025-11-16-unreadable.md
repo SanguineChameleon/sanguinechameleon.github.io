@@ -1107,7 +1107,7 @@ Taylor looks me in the eyes.
 
 "But--"
 
-"I get it, finals are soon and everyone is stressing out, but trust me on this, yeah?"
+"I get it, finals are coming and everyone is stressing out, but trust me on this, okay?"
 
 "Fine."
 
