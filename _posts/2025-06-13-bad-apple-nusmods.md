@@ -147,7 +147,7 @@ Let's take a closer look at the course data. Here's the data for CS2030S, with i
             "day": "Thursday",
             "lessonType": "Laboratory"
         },
-        ...
+        "... more classes ..."
     ],
     "examDate": "2025-04-30T05:00:00.000Z",
     "examDuration": 120
