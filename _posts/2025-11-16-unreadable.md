@@ -831,7 +831,7 @@ Jack's mood drops. I immediately feel guilty.
 
 Ugh, I really gotta stop doing this. He didn't deserve that.
 
-"Woah, hey, was it really that bad?" He asks, worried.
+"Woah, hey, was it really that bad?" he asks, worried.
 
 "No no, I just--"
 
@@ -1515,7 +1515,7 @@ I steel myself before I ask.
 
 He seems thrown off by the question.
 
-"Uh, yeah?" He replies, confused.
+"Uh, yeah?" he replies, confused.
 
 Then, his eyes widen in realization.
 
@@ -1745,7 +1745,7 @@ He gives me a knowing smirk.
 
 "Melissa! There you are!" I run over to her, frantically.
 
-"Woah, hey, Oliver. What's up?"
+"Woah, Oliver. What's up?"
 
 "Do you have concealer?"
 
