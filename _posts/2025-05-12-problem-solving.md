@@ -3,6 +3,12 @@ layout: post
 title: "On Problem-Solving"
 ---
 
+> **Update** (<span class="mono">06-Dec-2025</span>): As enthusiastic as I was about this post back when I wrote it, it's now unfortunately pretty outdated. While I still agree with most of the points here, there are two main issues:
+> 1. I think the comparison between Project Euler and Codeforces is unfair. Or at least, I very clearly implied that Project Euler is "good" and Codeforces is "bad". This is no longer true; I enjoy both now.
+> 2. "Giving my utmost respect" to school is now an unrealistic pipe dream. I used to imagine university as this wonderful, magical place where I could learn the secrets of the universe, and the professors were gods among men or something like that. The novelty has since worn off. Not sure if this is senioritis or just me being disappointed with reality.
+>
+> In any case, I hope you still get something out of this post.
+
 > **Note**: This post is intended for a general audience, so some concepts have been deliberately simplified.
 
 If someone were to ask me what I like to do in my free time, I would want to say that it's solving problems. But conversations are short, and time is limited, which means I wouldn't do a good job of explaining what problem-solving is. So this write-up is an attempt to clarify what I mean by it.
