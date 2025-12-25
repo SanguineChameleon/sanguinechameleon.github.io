@@ -208,7 +208,7 @@ I was first introduced to Project Euler when I was maybe 12 or 13, as a way to p
 
 Fast forward a few years to high school. During one of my comp-prog lessons, someone gave us Project Euler problems to try. I got hooked again, and I told myself that after IOI, I'd finally return to Project Euler. Almost 2 years later, I'm still having a ton of fun.
 
-### PE $>$ CF?
+### PE > CF?
 
 I'm not sure exactly when it happened, but at some point, I realized that I prefer solving Project Euler problems to Codeforces problems. It's a subtle reason, but I'll try to explain.
 
