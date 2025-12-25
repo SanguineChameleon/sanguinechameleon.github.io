@@ -320,7 +320,7 @@ I might have really low self-esteem, lol.
 
 I guess my point is: none of this is *that* important.
 
-I think it's non-controversial to say that everyone probably won't revere me even if I did manage to do it.
+I think it's fair to say that everyone probably won't revere me even if I did manage to do it.
 
 But that doesn't mean that literally no one cares, and I think that's a crucial distinction to make!
 
