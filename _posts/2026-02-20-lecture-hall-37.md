@@ -516,7 +516,7 @@ It looks like he's thinking about something.
 
 He packs his stuff and starts walking up the stairs again.
 
-"Wait, wait, let me explain--"
+"Wait, wait, I wanna know--"
 
 "You'll figure it out. You always do."
 
