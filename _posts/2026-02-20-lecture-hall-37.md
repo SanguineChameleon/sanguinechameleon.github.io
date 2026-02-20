@@ -538,9 +538,11 @@ I take a stroll around the hall.
 
 It's honestly kinda creepy, now that I think about it. With the dim lights and everything.
 
+...
+
 Oh, there's a crumpled-up piece of paper over there. I should pick it up.
 
-Out of curiosity, I open it up.
+Out of curiosity, I open it.
 
 It's a photograph.
 
