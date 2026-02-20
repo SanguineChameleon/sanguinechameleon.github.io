@@ -500,11 +500,11 @@ I cringe at what I'm about to say.
 
 "...I dunno, I'm trying to figure you out, you know?"
 
-"I know", he says so quietly that I almost didn't catch him.
+"I know," he says so quietly that I almost didn't catch him.
 
 "Huh?"
 
-"I know", he repeats, louder.
+"I know," he repeats, louder.
 
 His eyes are closed.
 
