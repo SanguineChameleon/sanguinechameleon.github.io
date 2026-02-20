@@ -448,7 +448,7 @@ He's hiding himself again. Damn it.
 
 "I have class."
 
-"No you don't! I know your next one isn't until--"
+"No you don't! You told me your next one isn't until--"
 
 "I said I'm going."
 
