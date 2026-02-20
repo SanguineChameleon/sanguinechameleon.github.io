@@ -674,6 +674,8 @@ I wouldn't have asked for anything else.
 
 I pour two glasses of wine for us.
 
+...
+
 "You know, since you're a philosophy nut and everything, I wanna ask you something."
 
 "Yes, love?"
