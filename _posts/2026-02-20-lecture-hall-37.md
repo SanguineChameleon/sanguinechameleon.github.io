@@ -238,7 +238,7 @@ In that moment, his eyes look a bit too dreamy.
 
 Thankfully, I immediately snap out of it.
 
-"Dude, what is with you and your lucky guesses?"
+"Look, what is with you and your lucky guesses?"
 
 His eyes widen.
 
@@ -250,7 +250,7 @@ His eyes widen.
 
 My voice rises higher than it should.
 
-"What is your problem, man? Knock it off, I'm not interested!"
+"What is your problem? Knock it off, I'm not interested!"
 
 His face deflates.
 
@@ -442,7 +442,7 @@ That look.
 
 He's hiding himself again. Damn it.
 
-"I'm going now."
+"I'm going now," he says, before I even get a chance to say anything.
 
 "W-wait, I--"
 
@@ -490,11 +490,11 @@ I decide to break the silence.
 
 Nothing. Not even a glance.
 
-"All the stalker accusations. Me lashing out. Pushing boundaries. That wasn't okay."
+"All the stalker accusations, me lashing out, pushing boundaries. That wasn't okay."
 
 Still nothing.
 
-"I don't know how to say this nicely, but..."
+"I don't know how to put this nicely, but..."
 
 I cringe at what I'm about to say.
 
@@ -606,7 +606,7 @@ Alas, we both still have exams.
 
 "Okay, this was emotional and all, but I have a final in 30 minutes."
 
-"See you at the usual spot, then?"
+"See you at the usual spot, then?" he asks.
 
 "What? This one?"
 
