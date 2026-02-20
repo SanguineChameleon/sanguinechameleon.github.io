@@ -540,7 +540,7 @@ It's honestly kinda creepy, now that I think about it. With the dim lights and e
 
 ...
 
-Oh, there's a crumpled-up piece of paper over there. I should pick it up.
+There's a crumpled-up piece of paper over there. I should pick it up.
 
 Out of curiosity, I open it.
 
