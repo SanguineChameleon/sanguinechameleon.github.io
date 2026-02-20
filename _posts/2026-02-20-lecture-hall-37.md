@@ -700,6 +700,6 @@ My heart skips a beat.
 
 "Awfully romantic tonight, huh?"
 
-"I'm always romantic, thank you. Come on, the food's getting cold."
+"I'm always romantic, thank you very much. Come on, the food's getting cold."
 
 ---
