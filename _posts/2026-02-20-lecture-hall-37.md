@@ -676,7 +676,7 @@ I pour two glasses of wine for us.
 
 ...
 
-"You know, since you're a philosophy nut and everything, I wanna ask you something."
+"You know, since you're such a philosophy nut, I want to ask you something."
 
 "Yes, love?"
 
