@@ -660,7 +660,7 @@ We found this tree when we were still in college.
 
 I've lost count of how many dates we've spent here.
 
-Amidst the chaos of the world, this place was always here.
+Amidst the chaos of the world, it was always there.
 
 For us.
 
