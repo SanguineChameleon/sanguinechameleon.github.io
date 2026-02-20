@@ -194,7 +194,7 @@ I need to find a new spot.
 
 Everywhere else is crowded. Everyone's panicking over midterms.
 
-Man, this sucks.
+This sucks.
 
 I have this whole chunk of time before my evening class on Tuesday.
 
