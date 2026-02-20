@@ -196,7 +196,7 @@ Everywhere else is crowded. Everyone's panicking over midterms.
 
 This sucks.
 
-I have this whole chunk of time before my evening class on Tuesday.
+I have a whole chunk of time before my evening class on Tuesday.
 
 I don't wanna head home either. Takes too long to go and then come back.
 
