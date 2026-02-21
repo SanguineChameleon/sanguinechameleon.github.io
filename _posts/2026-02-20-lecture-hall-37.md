@@ -632,7 +632,7 @@ They must be tired.
 
 I'm tired too.
 
-No matter, though. I have a special someone I'm meeting later.
+No matter, though. I have a special someone I'm meeting tonight.
 
 But right now, some eager students are coming up to ask questions.
 
