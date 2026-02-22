@@ -654,7 +654,7 @@ There he is. Under that tree.
 
 "Bleh." He sticks his tongue out. Still childish as always.
 
-I lean in closer to him.
+I shift closer to him.
 
 We found this tree when we were still in college.
 
