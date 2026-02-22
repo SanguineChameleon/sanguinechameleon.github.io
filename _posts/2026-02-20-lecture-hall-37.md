@@ -386,7 +386,7 @@ We briefly considered being lecturers.
 
 But honestly, I don't think that'll work out for either of us.
 
-It'd be kind of funny though. Imagine if we both taught at the same uni.
+It'd be kind of funny though. Imagine if we both taught at the same university.
 
 Agh. No. Stop daydreaming. He's not even that cute.
 
