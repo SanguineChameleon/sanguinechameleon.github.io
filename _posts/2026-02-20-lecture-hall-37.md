@@ -16,6 +16,8 @@ title: Lecture Hall 37
     }
 </style>
 
+### [*AO3 Mirror*](https://archiveofourown.org/works/80888266)
+
 I was getting groceries, when I suddenly had the masculine urge to write slash fiction.
 
 So here you go. I wrote this in one sitting. You're welcome.
