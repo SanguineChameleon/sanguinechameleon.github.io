@@ -42,11 +42,11 @@
                 </ul>
                 {% if page.collection == "posts" %}
                 <ul class="header-nav-right">
-                    <li><a href="/404"><<</a></li
+                    <li><a href="{{ site.posts.last.url }}"><<</a></li
                     ><li><a href="{{ page.previous.url }}"><</a></li
                     ><li><a href="/404">?</a></li
                     ><li><a href="{{ page.next.url }}">></a></li
-                    ><li><a href="/404">>></a></li>
+                    ><li><a href="{{ site.posts.first.url }}">>></a></li>
                 </ul>
                 {% endif %}
             </nav>
