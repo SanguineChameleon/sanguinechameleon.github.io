@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "About"
-hide_date: true
-hide_from_list: true
 ---
 
 Hi! I'm SanguineChameleon.
@@ -63,7 +61,7 @@ I have a [YouTube channel](https://www.youtube.com/@SanguineChameleon) that I sp
 
 Most of my videos are decent. A few are questionable. In the end, though, all of them are expressions of myself, and I'm fine with keeping them up online.
 
-I go into more detail about my videos in [this post]({% post_url 2025-06-07-youtube %}).
+I go into more detail about my videos in [this post]({% link _pages/youtube.md %}).
 
 ### Miscellaneous
 

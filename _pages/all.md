@@ -1,8 +1,6 @@
 ---
 layout: post
 title: "All Posts"
-hide_date: true
-hide_from_list: true
 ---
 
 Here are all the posts I've written so far. I try not to write about the same things too often, but I also don't force myself to cover a wide range of topics. Actually, I don't even force myself to write in the first place, so don't expect regular updates to this site.
@@ -37,10 +35,6 @@ Okay, you're getting bored.
 
 {% for post in site.posts %}
 
-{% unless post.hide_from_list %}
-
 {% include post_item.html post=post %}
-
-{% endunless %}
 
 {% endfor %}
