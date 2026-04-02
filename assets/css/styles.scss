@@ -57,6 +57,7 @@ html {
 .body-container {
   width: 45rem;
   margin: 0 auto;
+  margin-bottom: 1.5rem;
 }
 
 .header {
@@ -77,11 +78,13 @@ html {
   display: flex;
   justify-content: space-between;
   align-items: flex-end;
+  margin-bottom: -0.5rem;
 }
 
 .header-nav ul {
   margin-top: 0.5rem;
   margin-bottom: 0rem;
+  padding: 0;
 }
 
 .header-nav li {
@@ -92,25 +95,68 @@ html {
   justify-content: center;
 }
 
-.header-nav-left {
+.header-nav .header-nav-left {
   padding-left: 0.8rem;
   text-align: left;
 }
 
 .header-nav-left li {
-  margin: 0rem 0.3rem -0.5rem 0rem;
+  margin: 0rem 0.3rem 0rem 0rem;
   padding: 0.1rem 0.7rem 0.6rem 0.7rem;
 }
 
-.header-nav-right {
+.header-nav .header-nav-right {
+  margin-left: auto;
   padding-right: 0.8rem;
   text-align: right;
 }
 
 .header-nav-right li {
-  margin: 0rem 0rem -0.5rem 0.3rem;
+  margin: 0rem 0rem 0rem 0.3rem;
   padding: 0.1rem 0.5rem 0.6rem 0.5rem;
   @include noto-sans-mono;
+}
+
+.footer-nav {
+  display: flex;
+  justify-content: space-between;
+  align-items: flex-start;
+  margin-top: -0.5rem;
+}
+
+.footer-nav ul {
+  margin-top: 0rem;
+  margin-bottom: 0rem;
+  padding: 0;
+}
+
+.footer-nav li {
+  background-color: $dark-green;
+  border-radius: 0rem 0rem 0.3rem 0.3rem;
+  font-size: 0.9rem;
+  display: inline-flex;
+  justify-content: center;
+}
+
+.footer-nav .footer-nav-left {
+  padding-left: 0.8rem;
+  text-align: left;
+}
+
+.footer-nav-left li {
+  margin: 0rem 0.3rem 0rem 0rem;
+  padding: 0.6rem 0.5rem 0.25rem 0.5rem;
+}
+
+.footer-nav .footer-nav-right {
+  margin-left: auto;
+  padding-right: 0.8rem;
+  text-align: right;
+}
+
+.footer-nav-right li {
+  margin: 0rem 0rem 0rem 0.3rem;
+  padding: 0.6rem 0.5rem 0.25rem 0.5rem;
 }
 
 .date {
@@ -125,7 +171,6 @@ html {
   border-radius: 0.7rem;
   padding: 0.1rem 1rem 0.5rem 1rem;
   font-size: 1.1rem;
-  margin-bottom: 1.5rem;
 }
 
 h1 {
@@ -194,6 +239,10 @@ a:hover {
 }
 
 .header-nav a {
+  color: inherit;
+}
+
+.footer-nav a {
   color: inherit;
 }
 
