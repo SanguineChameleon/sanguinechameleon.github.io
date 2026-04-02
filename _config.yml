@@ -14,3 +14,7 @@ kramdown:
 future: true
 sass:
   sourcemap: never
+collections:
+  pages:
+    output: true
+    permalink: /:name
