@@ -40,19 +40,21 @@
                     <li><a href="/leon">About</a></li
                     ><li><a href="/all">All Posts</a></li>
                 </ul>
+                {% if page.collection == "posts" %}
                 <ul class="header-nav-right">
                     <li><a href="/404"><<</a></li
-                    ><li><a href="/404"><</a></li
+                    ><li><a href="{{ page.previous.url }}"><</a></li
                     ><li><a href="/404">?</a></li
-                    ><li><a href="/404">></a></li
+                    ><li><a href="{{ page.next.url }}">></a></li
                     ><li><a href="/404">>></a></li>
                 </ul>
+                {% endif %}
             </nav>
             <div class="post">
                 <h1>{{ page.title }}</h1>
-                {% unless page.hide_date %}
+                {% if page.collection == "posts" %}
                 <div class="date">{{ page.date | date: "%d-%b-%Y"}}</div>
-                {% endunless %} {{ content }}
+                {% endif %} {{ content }}
             </div>
             <nav class="footer-nav">
                 <ul class="footer-nav-right">
