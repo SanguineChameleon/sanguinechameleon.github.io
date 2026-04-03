@@ -32,11 +32,11 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         ><li><button type="button" onclick="goToNext()">></button></li
         ><li><button type="button" onclick="goToLast()">>></button></li>
     </ul>
-    <span class="caption"></span>
+    <span class="caption">loading...</span>
     <div class="img-frame">
-        <img />
+        <img style="visibility: hidden"/>
     </div>
-    <span class="mirror"><a href="">IG Mirror</a></span>
+    <span class="mirror" style="visibility: hidden"><a href="">IG Mirror</a></span>
 </div>
 
 <script>
@@ -55,11 +55,21 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
     let mirror = document.querySelector(".art-container .mirror a");
 
     let id;
-    function setId(value) {
-        id = value;
-        img.src = `/assets/images/{{page.slug}}/${data[id].name}.png`;
+
+    img.onload = () => {
+        img.style.visibility = "visible";
         caption.textContent = data[id].caption;
         mirror.href = data[id].mirror;
+        mirror.style.visibility = "visible";
+    };
+
+    function setId(value) {
+        id = value;
+        img.style.visibility = "hidden";
+        caption.textContent = "loading...";
+        mirror.style.visibility = "hidden";
+
+        img.src = `/assets/images/{{page.slug}}/${data[id].name}.png`;
     }
 
     let firstId = 0;
