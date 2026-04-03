@@ -50,9 +50,6 @@
                         {% endfor %}
                     ];
                     function goToRandom() {
-                        if (otherPosts.length == 0) {
-                            return;
-                        }
                         let id = Math.floor(Math.random() * otherPosts.length);
                         window.location.href = otherPosts[id];
                     }
