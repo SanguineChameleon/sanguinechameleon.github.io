@@ -79,7 +79,7 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
             img.style.visibility = "hidden";
             caption.textContent = "loading...";
             mirror.style.visibility = "hidden";
-        }, 200);
+        }, 150);
 
         img.src = `/assets/images/{{page.slug}}/${data[id].name}.png`;
     }
