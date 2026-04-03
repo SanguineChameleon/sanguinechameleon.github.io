@@ -32,9 +32,9 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         ><li><button type="button" onclick="goToNext()">></button></li
         ><li><button type="button" onclick="goToLast()">>></button></li>
     </ul>
-    <span class="caption">you can do it!</span>
+    <span class="caption"></span>
     <img style="height: 25rem" />
-    <span class="ig-mirror"><a href="">IG Mirror</a></span>
+    <span class="mirror"><a href="">IG Mirror</a></span>
 </div>
 
 <script>
@@ -42,18 +42,22 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         {% for item in site.data.art %}
         {
             name: "{{ item.name }}",
+            caption: "{{ item.caption }}",
+            mirror: "{{ item.mirror }}",
         },
         {% endfor %}
     ]
 
     let img = document.querySelector(".art-container img");
     let caption = document.querySelector(".art-container .caption"); 
+    let mirror = document.querySelector(".art-container .mirror a");
 
     let id;
     function setId(value) {
         id = value;
         img.src = `/assets/images/{{page.slug}}/${data[id].name}.png`;
-        caption.textContent = data[id].name;
+        caption.textContent = data[id].caption;
+        mirror.href = data[id].mirror;
     }
 
     let firstId = 0;
