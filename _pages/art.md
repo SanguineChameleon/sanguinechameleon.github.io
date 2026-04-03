@@ -22,3 +22,17 @@ I like being a soft boi. But I also like being an edgy boi.
 In that sense, Leo's a representation of myself, but he's also my lovely punching bag >:3
 
 ---
+{: style="margin-bottom: 1.5rem;"}
+
+<div class="art-container">
+    <ul>
+        <li><button type="button" onclick=""><<</button></li
+        ><li><button type="button" onclick=""><</button></li
+        ><li><button type="button" onclick="">?</button></li
+        ><li><button type="button" onclick="">></button></li
+        ><li><button type="button" onclick="">>></button></li>
+    </ul>
+    <span class="caption">you can do it!</span>
+    <img src="/assets/images/art/you-can-do-it.png" style="width: 32rem" />
+    <span class="ig-mirror"><a href="https://www.instagram.com/p/DU5BeBRk1r0/">IG Mirror</a></span>
+</div>
