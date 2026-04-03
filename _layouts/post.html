@@ -41,10 +41,26 @@
                     ><li><a href="/all">All Posts</a></li>
                 </ul>
                 {% if page.collection == "posts" %}
+                <script>
+                    let otherPosts = [
+                        {% for post in site.posts %}
+                        {% if post.url != page.url %}
+                        "{{ post.url }}",
+                        {% endif %}
+                        {% endfor %}
+                    ];
+                    function goToRandom() {
+                        if (otherPosts.length == 0) {
+                            return;
+                        }
+                        let id = Math.floor(Math.random() * otherPosts.length);
+                        window.location.href = otherPosts[id];
+                    }
+                </script>
                 <ul class="header-nav-right">
                     <li><a href="{{ site.posts.last.url }}"><<</a></li
                     ><li><a href="{{ page.previous.url }}"><</a></li
-                    ><li><a href="/404">?</a></li
+                    ><li><button type="button" onclick="goToRandom()">?</button></li
                     ><li><a href="{{ page.next.url }}">></a></li
                     ><li><a href="{{ site.posts.first.url }}">>></a></li>
                 </ul>
