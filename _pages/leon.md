@@ -35,9 +35,9 @@ Here's a list of my interests, in descending order of relevance.
 
 ### Drawing
 
-I recently started learning how to draw! You can check out my work on [Instagram](https://www.instagram.com/sanguinechameleon/). There's not much there yet, but I'll try to post roughly every day.
+I recently started learning how to draw! You can check out my work on [Instagram](https://www.instagram.com/sanguinechameleon/) or right [here]({% link _pages/art.md %}) on this site. I try to post every day or so, when I'm not busy with other things.
 
-I'm still figuring out where I'm headed with this. For now, I've just been using my original character as practice. More details about the little rascal sometime soon!
+I usually draw my original character, Leo. More details about the rascal sometime soon!
 
 ### Competitive Programming
 
