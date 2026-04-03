@@ -32,11 +32,12 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         ><li><button type="button" onclick="goToNext()">></button></li
         ><li><button type="button" onclick="goToLast()">>></button></li>
     </ul>
-    <span class="caption">loading...</span>
+    {% assign init = site.data.art.last %}
+    <span class="caption">{{ init.caption }}</span>
     <div class="img-frame">
-        <img style="visibility: hidden"/>
+        <img src="/assets/images/{{ page.slug }}/{{ init.name }}.png"/>
     </div>
-    <span class="mirror" style="visibility: hidden"><a href="">IG Mirror</a></span>
+    <span class="mirror"><a href="{{ init.mirror }}">IG Mirror</a></span>
 </div>
 
 <script>
@@ -54,9 +55,15 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
     let caption = document.querySelector(".art-container .caption"); 
     let mirror = document.querySelector(".art-container .mirror a");
 
-    let id;
+    let firstId = 0;
+    let lastId = data.length - 1;
+
+    let id = lastId;
+    let timeout;
 
     img.onload = () => {
+        clearTimeout(timeout);
+
         img.style.visibility = "visible";
         caption.textContent = data[id].caption;
         mirror.href = data[id].mirror;
@@ -65,16 +72,17 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
 
     function setId(value) {
         id = value;
-        img.style.visibility = "hidden";
-        caption.textContent = "loading...";
-        mirror.style.visibility = "hidden";
+
+        clearTimeout(timeout);
+
+        timeout = setTimeout(() => {
+            img.style.visibility = "hidden";
+            caption.textContent = "loading...";
+            mirror.style.visibility = "hidden";
+        }, 200);
 
         img.src = `/assets/images/{{page.slug}}/${data[id].name}.png`;
     }
-
-    let firstId = 0;
-    let lastId = data.length - 1;
-    setId(lastId);
 
     function goToFirst() {
         setId(firstId);
