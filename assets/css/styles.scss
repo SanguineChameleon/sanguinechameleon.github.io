@@ -42,6 +42,7 @@ $darkest-green: rgb(15, 30, 20);
 $unvisited-green: rgb(120, 170, 120);
 $visited-green: rgb(160, 200, 100);
 $white: rgb(222, 222, 222);
+$light-gray: rgb(160, 160, 160);
 $gray: rgb(111, 111, 111);
 
 html {
@@ -397,6 +398,10 @@ button:hover {
     @include noto-sans-mono;
     @include semi-bold-font;
     font-size: 1.6rem;
+
+    &.loading {
+      color: $light-gray;
+    }
   }
 
   span.mirror {
