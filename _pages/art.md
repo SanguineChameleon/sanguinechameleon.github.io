@@ -22,7 +22,7 @@ I like being a soft boi. But I also like being an edgy boi.
 In that sense, Leo's a representation of myself, but he's also my lovely punching bag >:3
 
 ---
-{: style="margin-bottom: 1.5rem;"}
+{: style="margin-bottom: 1.7rem;"}
 
 <div class="art-container">
     <ul>
@@ -33,7 +33,9 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         ><li><button type="button" onclick="goToLast()">>></button></li>
     </ul>
     <span class="caption"></span>
-    <img style="height: 25rem" />
+    <div class="img-frame">
+        <img />
+    </div>
     <span class="mirror"><a href="">IG Mirror</a></span>
 </div>
 
@@ -93,5 +95,4 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         }
         setId(newId);
     }
-
 </script>
