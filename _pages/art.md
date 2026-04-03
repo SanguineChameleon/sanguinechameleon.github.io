@@ -33,7 +33,7 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         ><li><button type="button" onclick="goToLast()">>></button></li>
     </ul>
     {% assign init = site.data.art.last %}
-    <span class="caption">{{ init.caption }}</span>
+    <span class="caption">{{ init.caption | escape }}</span>
     <div class="img-frame">
         <img src="/assets/images/{{ page.slug }}/{{ init.name }}.png"/>
     </div>
@@ -45,7 +45,7 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         {% for item in site.data.art %}
         {
             name: "{{ item.name }}",
-            caption: "{{ item.caption }}",
+            caption: {{ item.caption | jsonify }},
             mirror: "{{ item.mirror }}",
         },
         {% endfor %}
@@ -66,6 +66,7 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
 
         img.style.visibility = "visible";
         caption.textContent = data[id].caption;
+        caption.classList.remove("loading");
         mirror.href = data[id].mirror;
         mirror.style.visibility = "visible";
     };
@@ -78,6 +79,7 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         timeout = setTimeout(() => {
             img.style.visibility = "hidden";
             caption.textContent = "loading...";
+            caption.classList.add("loading");
             mirror.style.visibility = "hidden";
         }, 150);
 
