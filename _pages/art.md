@@ -26,13 +26,68 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
 
 <div class="art-container">
     <ul>
-        <li><button type="button" onclick=""><<</button></li
-        ><li><button type="button" onclick=""><</button></li
-        ><li><button type="button" onclick="">?</button></li
-        ><li><button type="button" onclick="">></button></li
-        ><li><button type="button" onclick="">>></button></li>
+        <li><button type="button" onclick="goToFirst()"><<</button></li
+        ><li><button type="button" onclick="goToPrev()"><</button></li
+        ><li><button type="button" onclick="goToRandom()">?</button></li
+        ><li><button type="button" onclick="goToNext()">></button></li
+        ><li><button type="button" onclick="goToLast()">>></button></li>
     </ul>
     <span class="caption">you can do it!</span>
-    <img src="/assets/images/art/you-can-do-it.png" style="width: 32rem" />
-    <span class="ig-mirror"><a href="https://www.instagram.com/p/DU5BeBRk1r0/">IG Mirror</a></span>
+    <img style="width: 32rem" />
+    <span class="ig-mirror"><a href="">IG Mirror</a></span>
 </div>
+
+<script>
+    let data = [
+        {% for item in site.data.art %}
+        {
+            name: "{{ item.name }}",
+        },
+        {% endfor %}
+    ]
+
+    let img = document.querySelector(".art-container img");
+    let caption = document.querySelector(".art-container .caption"); 
+
+    let id;
+    function setId(value) {
+        id = value;
+        img.src = `/assets/images/{{page.slug}}/${data[id].name}.png`;
+        caption.textContent = data[id].name;
+    }
+
+    let firstId = 0;
+    let lastId = data.length - 1;
+    setId(lastId);
+
+    function goToFirst() {
+        setId(firstId);
+    }
+
+    function goToLast() {
+        setId(lastId);
+    }
+
+    function goToPrev() {
+        if (id == firstId) {
+            return;
+        }
+        setId(id - 1);
+    }
+
+    function goToNext() {
+        if (id == lastId) {
+            return;
+        }
+        setId(id + 1);
+    }
+
+    function goToRandom() {
+        let newId = Math.floor(Math.random() * (data.length - 1));
+        if (newId >= id) {
+            newId++;
+        }
+        setId(newId);
+    }
+
+</script>
