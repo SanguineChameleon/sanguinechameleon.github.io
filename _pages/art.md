@@ -33,7 +33,7 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         ><li><button type="button" onclick="goToLast()">>></button></li>
     </ul>
     <span class="caption">you can do it!</span>
-    <img style="width: 32rem" />
+    <img style="height: 25rem" />
     <span class="ig-mirror"><a href="">IG Mirror</a></span>
 </div>
 
