@@ -22,7 +22,7 @@ I like being a soft boi. But I also like being an edgy boi.
 In that sense, Leo's a representation of myself, but he's also my lovely punching bag >:3
 
 ---
-{: style="margin-bottom: 1.7rem;"}
+{: style="margin-bottom: 1.6rem;"}
 
 <div class="art-container">
     <div class="art-header">
@@ -91,12 +91,17 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
     };
 
     function setId(value) {
+        document.querySelector(".art-container").scrollIntoView({ 
+            behavior: "smooth", 
+            block: "nearest",
+        });
+
+        window.history.replaceState(null, null, `#${value + 1}`);
+
         if (id == value) {
             return;
         }
         id = value;
-
-        window.history.replaceState(null, null, `#${id + 1}`);
 
         counter.textContent = `${String(id + 1).padStart(strLen, "0")}/${data.length}`;
 
@@ -119,17 +124,11 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
     }
 
     function goToPrev() {
-        if (id == firstId) {
-            return;
-        }
-        setId(id - 1);
+        setId(Math.max(firstId, id - 1));
     }
 
     function goToNext() {
-        if (id == lastId) {
-            return;
-        }
-        setId(id + 1);
+        setId(Math.min(lastId, id + 1));
     }
 
     function goToRandom() {
@@ -144,6 +143,12 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         let hashId = parseInt(window.location.hash.substring(1));
         if (!isNaN(hashId) && (1 <= hashId && hashId <= data.length)) {
             id = hashId - 1;
+            window.addEventListener("load", () => {
+                document.querySelector(".art-container").scrollIntoView({ 
+                    behavior: "smooth", 
+                    block: "nearest",
+                });
+            });
         }
         else {
             window.history.replaceState(null, null, window.location.pathname);
@@ -178,3 +183,14 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         }
     });
 </script>
+
+---
+{: style="margin-bottom: 1.5rem;"}
+
+<div class="highlight"><pre class="highlight"><code style="font-size: 1.05rem">
+{%- for item in site.data.art -%}
+<button type="button" onclick="setId({{ forloop.index0 }})">{{ forloop.index }}. {{ item.caption }}</button>
+{% unless forloop.last %}
+{% endunless %}
+{%- endfor -%}
+</code></pre></div>
