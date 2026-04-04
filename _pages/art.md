@@ -168,4 +168,13 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
             window.history.replaceState(null, null, window.location.pathname);
         }
     });
+
+    document.addEventListener("keydown", (e) => {
+        if (e.key === "ArrowLeft") {
+            goToPrev();
+        }
+        if (e.key == "ArrowRight") {
+            goToNext();
+        }
+    });
 </script>
