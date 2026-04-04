@@ -33,11 +33,11 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         ><li><button type="button" onclick="goToLast()">>></button></li>
     </ul>
     {% assign init = site.data.art.last %}
-    <span class="caption">{{ init.caption | escape }}</span>
+    <span class="caption loaded">{{ init.caption | escape }}</span>
     <div class="img-frame">
-        <img src="/assets/images/{{ page.slug }}/{{ init.name }}.png"/>
+        <img class="loaded" src="/assets/images/{{ page.slug }}/{{ init.name }}.png"/>
     </div>
-    <span class="mirror"><a href="{{ init.mirror }}">IG Mirror</a></span>
+    <span class="mirror loaded"><a href="{{ init.mirror }}">IG Mirror</a></span>
 </div>
 
 <script>
@@ -53,7 +53,8 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
 
     let img = document.querySelector(".art-container img");
     let caption = document.querySelector(".art-container .caption"); 
-    let mirror = document.querySelector(".art-container .mirror a");
+    let mirrorLink = document.querySelector(".art-container .mirror a");
+    let mirrorSpan = document.querySelector(".art-container .mirror");
 
     let firstId = 0;
     let lastId = data.length - 1;
@@ -62,28 +63,34 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
     let timeout;
 
     img.onload = () => {
-        clearTimeout(timeout);
+        img.classList.remove("loaded");
+        caption.classList.remove("loaded");
+        mirrorSpan.classList.remove("loaded");
 
-        img.style.visibility = "visible";
+        void img.offsetWidth;
+
         caption.textContent = data[id].caption;
-        caption.classList.remove("loading");
-        mirror.href = data[id].mirror;
-        mirror.style.visibility = "visible";
+        mirrorLink.href = data[id].mirror;
+
+        img.classList.add("loaded");
+        caption.classList.add("loaded");
+        mirrorSpan.classList.add("loaded");
     };
 
     function setId(value) {
+        if (id == value) {
+            return;
+        }
         id = value;
 
+        img.classList.remove("loaded");
+        caption.classList.remove("loaded");
+        mirrorSpan.classList.remove("loaded");
+
         clearTimeout(timeout);
-
         timeout = setTimeout(() => {
-            img.style.visibility = "hidden";
-            caption.textContent = "loading...";
-            caption.classList.add("loading");
-            mirror.style.visibility = "hidden";
-        }, 150);
-
-        img.src = `/assets/images/{{page.slug}}/${data[id].name}.png`;
+            img.src = `/assets/images/{{page.slug}}/${data[id].name}.png`;
+        }, 120);
     }
 
     function goToFirst() {

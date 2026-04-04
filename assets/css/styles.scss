@@ -346,6 +346,8 @@ button:hover {
 }
 
 .art-container {
+  $transition: opacity 0.12s ease-in-out;
+
   display: flex;
   flex-direction: column;
   justify-content: center;
@@ -387,6 +389,14 @@ button:hover {
   .img-frame img {
     max-height: 100%;
     max-width: 100%;
+
+    opacity: 0;
+    transition: $transition;
+
+    &.loaded {
+      opacity: 1;
+      transition: $transition;
+    }
   }
 
   span.caption {
@@ -399,8 +409,12 @@ button:hover {
     @include semi-bold-font;
     font-size: 1.6rem;
 
-    &.loading {
-      color: $light-gray;
+    opacity: 0;
+    transition: $transition;
+
+    &.loaded {
+      opacity: 1;
+      transition: $transition;
     }
   }
 
@@ -410,5 +424,13 @@ button:hover {
 
     @include semi-bold-font;
     font-size: 1.45rem;
+
+    opacity: 0;
+    transition: $transition;
+
+    &.loaded {
+      opacity: 1;
+      transition: $transition;
+    }
   }
 }
