@@ -350,6 +350,8 @@ button:hover {
 }
 
 .art-container {
+  scroll-margin-top: 2.5rem;
+  scroll-margin-bottom: 1.7rem;
   $transition: opacity 0.12s ease-in-out;
 
   display: flex;
