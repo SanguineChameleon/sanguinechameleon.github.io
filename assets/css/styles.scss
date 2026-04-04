@@ -392,6 +392,7 @@ button:hover {
   }
 
   span.counter {
+    margin: 0rem;
     position: absolute;
     right: 0;
   }
@@ -440,7 +441,7 @@ button:hover {
 
   span.mirror {
     margin-top: 0.8rem;
-    margin-bottom: 0.7rem;
+    margin-bottom: 0.6rem;
 
     @include semi-bold-font;
     font-size: 1.45rem;
