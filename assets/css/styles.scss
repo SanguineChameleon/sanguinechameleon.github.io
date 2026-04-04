@@ -353,16 +353,22 @@ button:hover {
   justify-content: center;
   align-items: center;
 
+  .art-header {
+    display: flex;
+    justify-content: center;
+    position: relative;
+    align-items: center;
+    width: 100%;
+  }
+
   ul {
     margin-top: 0rem;
     margin-bottom: 0rem;
     padding: 0;
   }
 
-  li {
-    display: inline-flex;
-    justify-content: center;
-
+  li,
+  span.counter {
     background-color: $light-green;
     border-radius: 0.5rem;
     margin: 0rem 0.4rem 0rem 0.4rem;
@@ -374,6 +380,16 @@ button:hover {
     a {
       color: inherit;
     }
+  }
+
+  li {
+    display: inline-flex;
+    justify-content: center;
+  }
+
+  span.counter {
+    position: absolute;
+    right: 0;
   }
 
   .img-frame {

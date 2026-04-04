@@ -25,13 +25,18 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
 {: style="margin-bottom: 1.7rem;"}
 
 <div class="art-container">
-    <ul>
-        <li><button type="button" onclick="goToFirst()"><<</button></li
-        ><li><button type="button" onclick="goToPrev()"><</button></li
-        ><li><button type="button" onclick="goToRandom()">?</button></li
-        ><li><button type="button" onclick="goToNext()">></button></li
-        ><li><button type="button" onclick="goToLast()">>></button></li>
-    </ul>
+    <div class="art-header">
+        <nav>
+            <ul>
+                <li><button type="button" onclick="goToFirst()"><<</button></li
+                ><li><button type="button" onclick="goToPrev()"><</button></li
+                ><li><button type="button" onclick="goToRandom()">?</button></li
+                ><li><button type="button" onclick="goToNext()">></button></li
+                ><li><button type="button" onclick="goToLast()">>></button></li>
+            </ul>
+        </nav>
+        <span class="counter">{{ site.data.art.size }}/{{ site.data.art.size }}</span>
+    </div>
     {% assign init = site.data.art.last %}
     <span class="caption loaded">{{ init.caption | escape }}</span>
     <div class="img-frame">
@@ -55,6 +60,9 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
     let caption = document.querySelector(".art-container .caption"); 
     let mirrorLink = document.querySelector(".art-container .mirror a");
     let mirrorSpan = document.querySelector(".art-container .mirror");
+    let counter = document.querySelector(".art-container .counter");
+
+    let strLen = String(data.length).length;
 
     let firstId = 0;
     let lastId = data.length - 1;
@@ -82,6 +90,8 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
             return;
         }
         id = value;
+
+        counter.textContent = `${String(id + 1).padStart(strLen, "0")}/${data.length}`;
 
         img.classList.remove("loaded");
         caption.classList.remove("loaded");
