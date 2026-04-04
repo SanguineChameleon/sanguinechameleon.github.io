@@ -18,3 +18,8 @@ collections:
   pages:
     output: true
     permalink: /:name
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: post
