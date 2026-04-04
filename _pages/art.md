@@ -190,8 +190,14 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
 {: style="margin-bottom: 1.5rem;"}
 
 <div class="highlight"><pre class="highlight"><code style="font-size: 1.05rem">
+{%- assign str_len = site.data.art.size | append: "" | size -%}
+{%- assign minus_str_len = 0 | minus: str_len -%}
+{%- assign zeros = "" -%}
+{%- for _ in (1..str_len) -%}
+    {%- assign zeros = zeros | append: "0" -%}
+{%- endfor -%}
 {%- for item in site.data.art -%}
-<button type="button" onclick="setId({{ forloop.index0 }})">{{ forloop.index }}. {{ item.caption }}</button>
+<button type="button" onclick="setId({{ forloop.index0 }})">{{ zeros | append: forloop.index | slice: minus_str_len, str_len}}. {{ item.caption }}</button>
 {% unless forloop.last %}
 {% endunless %}
 {%- endfor -%}
