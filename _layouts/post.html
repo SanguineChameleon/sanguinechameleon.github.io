@@ -74,6 +74,13 @@
                     <li><button type="button" onclick="window.scrollTo({top: 0, behavior: 'smooth'});">Back to Top</button></li>
                 </ul>
             </nav>
+            <script>
+                document.addEventListener("click", (e) => {
+                    if (e.target.tagName == "IMG" && !e.target.closest("a")) {
+                        window.open(e.target.src, "_blank");
+                    }
+                });
+            </script>
         </div>
     </body>
 </html>

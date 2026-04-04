@@ -283,6 +283,10 @@ img {
   margin-right: auto;
 }
 
+img:not(a img) {
+  cursor: zoom-in;
+}
+
 hr {
   border: none;
   height: 0.15rem;
