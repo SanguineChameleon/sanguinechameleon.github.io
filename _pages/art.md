@@ -96,6 +96,8 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         }
         id = value;
 
+        window.history.replaceState(null, null, `#${id + 1}`);
+
         counter.textContent = `${String(id + 1).padStart(strLen, "0")}/${data.length}`;
 
         img.classList.remove("loaded");
@@ -139,7 +141,14 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
     }
 
     function init() {
-        id = lastId;
+        let hashId = parseInt(window.location.hash.substring(1));
+        if (!isNaN(hashId) && (1 <= hashId && hashId <= data.length)) {
+            id = hashId - 1;
+        }
+        else {
+            window.history.replaceState(null, null, window.location.pathname);
+            id = lastId;
+        }
 
         counter.textContent = `${String(id + 1).padStart(strLen, "0")}/${data.length}`;
         img.src = `/assets/images/{{page.slug}}/${data[id].name}.png`;
@@ -149,4 +158,14 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
     }
 
     init();
+
+    window.addEventListener("hashchange", () => {
+        let hashId = parseInt(window.location.hash.substring(1));
+        if (!isNaN(hashId) && (1 <= hashId && hashId <= data.length)) {
+            setId(hashId - 1);
+        }
+        else {
+            window.history.replaceState(null, null, window.location.pathname);
+        }
+    });
 </script>
