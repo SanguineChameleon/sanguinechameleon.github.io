@@ -35,14 +35,13 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
                 ><li><button type="button" onclick="goToLast()">>></button></li>
             </ul>
         </nav>
-        <span class="counter">{{ site.data.art.size }}/{{ site.data.art.size }}</span>
+        <span class="counter"></span>
     </div>
-    {% assign init = site.data.art.last %}
-    <span class="caption loaded">{{ init.caption | escape }}</span>
+    <span class="caption loaded"></span>
     <div class="img-frame">
-        <img class="loaded" src="/assets/images/{{ page.slug }}/{{ init.name }}.png"/>
+        <img class="loaded" />
     </div>
-    <span class="mirror loaded"><a href="{{ init.mirror }}">IG Mirror</a></span>
+    <span class="mirror loaded"><a href=""></a></span>
 </div>
 
 <script>
@@ -67,10 +66,16 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
     let firstId = 0;
     let lastId = data.length - 1;
 
-    let id = lastId;
+    let id;
     let timeout;
+    let isInit = true;
 
     img.onload = () => {
+        if (isInit) {
+            isInit = false;
+            return;
+        }
+
         img.classList.remove("loaded");
         caption.classList.remove("loaded");
         mirrorSpan.classList.remove("loaded");
@@ -132,4 +137,16 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         }
         setId(newId);
     }
+
+    function init() {
+        id = lastId;
+
+        counter.textContent = `${String(id + 1).padStart(strLen, "0")}/${data.length}`;
+        img.src = `/assets/images/{{page.slug}}/${data[id].name}.png`;
+        caption.textContent = data[id].caption;
+        mirrorLink.href = data[id].mirror;
+        mirrorLink.textContent = "IG Mirror";
+    }
+
+    init();
 </script>
