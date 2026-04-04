@@ -80,14 +80,16 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         caption.classList.remove("loaded");
         mirrorSpan.classList.remove("loaded");
 
-        void img.offsetWidth;
-
         caption.textContent = data[id].caption;
         mirrorLink.href = data[id].mirror;
 
-        img.classList.add("loaded");
-        caption.classList.add("loaded");
-        mirrorSpan.classList.add("loaded");
+        requestAnimationFrame(() => {
+            requestAnimationFrame(() => {
+                img.classList.add("loaded");
+                caption.classList.add("loaded");
+                mirrorSpan.classList.add("loaded");
+            });
+        });
     };
 
     function setId(value) {
