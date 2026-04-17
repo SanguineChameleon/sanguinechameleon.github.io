@@ -83,6 +83,10 @@ In that sense, Leo's a representation of myself, but he's also my lovely punchin
         caption.textContent = data[id].caption;
         mirrorLink.href = data[id].mirror;
 
+        void img.offsetWidth;
+        void caption.offsetWidth;
+        void mirrorSpan.offsetWidth;
+        
         requestAnimationFrame(() => {
             requestAnimationFrame(() => {
                 img.classList.add("loaded");

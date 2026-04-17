@@ -415,6 +415,7 @@ button:hover {
 
     opacity: 0;
     transition: $transition;
+    will-change: opacity;
 
     &.loaded {
       opacity: 1;
@@ -434,6 +435,7 @@ button:hover {
 
     opacity: 0;
     transition: $transition;
+    will-change: opacity;
 
     &.loaded {
       opacity: 1;
@@ -450,6 +452,7 @@ button:hover {
 
     opacity: 0;
     transition: $transition;
+    will-change: opacity;
 
     &.loaded {
       opacity: 1;
