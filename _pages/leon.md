@@ -31,45 +31,35 @@ Sometimes I will stumble across a stranger's blog, read a few posts, be mildly e
 
 ## My Interests
 
-Here's a list of my interests, in descending order of relevance.
+Here's a list of my interests, in (roughly) descending order of relevance.
 
-### Competitive Programming
+- **Competitive Programming**
 
-So, I like competitive programming. I was introduced to Codeforces when I was 10, and you could say that my life has gone downhill ever since.
+  I'm not nearly as competitive as I used to be, so these days, you're much more likely to find me as a problem setter than as a contestant.
 
-I'm not nearly as competitive as I used to be, so these days, you're much more likely to find me as a problem setter than as a contestant.
+- **Project Euler**
 
-### Project Euler
+  On October 22, 2025, I completed [all problems]({% post_url 2025-10-22-project-euler-perfection %}) on Project Euler. If you're reading this, either I still have all of them solved, or I'm working on a problem right now.
 
-<img onerror='this.style.display = "none"' src="https://projecteuler.net/profile/SanguineChameleon2.png" style="margin-top: 0rem; margin-bottom: 0rem; margin-left: 0; width: 10rem"/>
+- **Drawing**
 
-Project Euler is a series of mathematical and computational problems that can be solved through programming. I like myself a good challenge, and Project Euler has plenty of them. What's not to enjoy?
+  I recently started learning how to draw! You can browse my work on [Instagram](https://www.instagram.com/sanguinechameleon/) or right [here]({% link _pages/art.md %}) on this site. I try to post when I'm not busy with other things :P
 
-On October 22, 2025, I completed [all problems]({% post_url 2025-10-22-project-euler-perfection %}) on Project Euler. If you're reading this, either I still have all of them solved, or I'm working on some problem right now.
+- **Archive of Our Own**
+  
+  Sometimes I might read (and [write](https://archiveofourown.org/users/SanguineChameleon)) on AO3, especially romantic slash fiction. What can I say? I like seeing people be happy.
 
-### Drawing
+- **YouTube**
 
-I recently started learning how to draw! You can check out my work on [Instagram](https://www.instagram.com/sanguinechameleon/) or right [here]({% link _pages/art.md %}) on this site. I try to post when I'm not busy with other things :P
+  I have a [channel](https://www.youtube.com/@SanguineChameleon) that I sporadically upload videos to. I'm definitely not a "YouTuber" by any means. Check out [this page]({% link _pages/youtube.md %}) for more details.
 
-I usually draw my original character, Leo. More details about the rascal sometime soon!
+- **Music**
 
-### YouTube
+  I don't have a Spotify account or anything like that. I just listen on YouTube, mostly Vocaloid/SynthV/UTAU and rhythm game music.
 
-I have a [YouTube channel](https://www.youtube.com/@SanguineChameleon) that I sporadically post videos to. I'm not a \"YouTuber\" by any means. I just post things that I make in video form. I upload my music there too.
+- **Rhythm games**
 
-Most of my videos are decent. A few are questionable. In the end, though, all of them are expressions of myself, and I'm fine with keeping them up online.
-
-I go into more detail about my videos in [this post]({% link _pages/youtube.md %}).
-
-### Miscellaneous
-
-Lastly, some things that don't warrant an entire section:
-
-- **AO3**: Sometimes I might read (and [write](https://archiveofourown.org/users/SanguineChameleon)) on AO3, especially romantic slash fiction. What can I say? I like seeing people be happy.
-
-- **Music**: My music taste is horrible and non-existent. I don't have a Spotify account or anything like that. I just listen to songs on YouTube. I don't really have favorite artists, but I listen to a lot of Vocaloid/SynthV/UTAU songs. I also like listening to music that you'd find in rhythm games. And speaking of rhythm games...
-
-- **Rhythm games**: Sometimes I play rhythm games at the nearest arcade. I used to be obsessed with Pump It Up, but now I just go whenever. I also play Taiko no Tatsujin and maimai.
+  Sometimes I play rhythm games at the nearest arcade. I used to be obsessed with Pump It Up, but now I just go whenever. I also play Taiko no Tatsujin and maimai.
 
 ## Contact Me
 
