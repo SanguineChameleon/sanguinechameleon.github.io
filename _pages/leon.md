@@ -33,19 +33,11 @@ Sometimes I will stumble across a stranger's blog, read a few posts, be mildly e
 
 Here's a list of my interests, in descending order of relevance.
 
-### Drawing
-
-I recently started learning how to draw! You can check out my work on [Instagram](https://www.instagram.com/sanguinechameleon/) or right [here]({% link _pages/art.md %}) on this site. I try to post every day or so, when I'm not busy with other things.
-
-I usually draw my original character, Leo. More details about the rascal sometime soon!
-
 ### Competitive Programming
 
 So, I like competitive programming. I was introduced to Codeforces when I was 10, and you could say that my life has gone downhill ever since.
 
-While I'm still proud of my IOI gold medal, I understand that it's becoming increasingly irrelevant due to AI. Still, I think competitive programming is pretty neat.
-
-<span id="cf-rating"></span>
+I'm not nearly as competitive as I used to be, so these days, you're much more likely to find me as a problem setter than as a contestant.
 
 ### Project Euler
 
@@ -54,6 +46,12 @@ While I'm still proud of my IOI gold medal, I understand that it's becoming incr
 Project Euler is a series of mathematical and computational problems that can be solved through programming. I like myself a good challenge, and Project Euler has plenty of them. What's not to enjoy?
 
 On October 22, 2025, I completed [all problems]({% post_url 2025-10-22-project-euler-perfection %}) on Project Euler. If you're reading this, either I still have all of them solved, or I'm working on some problem right now.
+
+### Drawing
+
+I recently started learning how to draw! You can check out my work on [Instagram](https://www.instagram.com/sanguinechameleon/) or right [here]({% link _pages/art.md %}) on this site. I try to post when I'm not busy with other things :P
+
+I usually draw my original character, Leo. More details about the rascal sometime soon!
 
 ### YouTube
 
@@ -166,23 +164,4 @@ This website was made possible with [GitHub Pages](https://pages.github.com/) an
     catch (e) {
         console.log(e);
     }
-
-    async function setRating() {
-        try {
-            let getData = async (url) => fetch(url).then(response => response.json());
-            let data = await getData("https://codeforces.com/api/user.rating?handle=SanguineChameleon")
-            let ratings = data.result.map(contest => contest.newRating);
-            let maxRating = ratings.reduce((x, y) => Math.max(x, y), ratings[0]);
-            let curRating = ratings[ratings.length - 1];
-            let text =
-            (maxRating == curRating)
-            ? `My current rating on Codeforces is ${maxRating}.`
-            : `My maximum rating on Codeforces is ${maxRating}. Currently, it's at ${curRating}.`;
-            document.getElementById("cf-rating").textContent = text;
-        }
-        catch (e) {
-            console.log(e);
-        }
-    }
-    setRating();
 </script>
