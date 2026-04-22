@@ -57,7 +57,7 @@ Here's a list of my interests, in (roughly) descending order of relevance.
 
   I don't have a Spotify account or anything like that. I just listen on YouTube, mostly Vocaloid/SynthV/UTAU and rhythm game music.
 
-- **Rhythm games**
+- **Rhythm Games**
 
   Sometimes I play rhythm games at the nearest arcade. I used to be obsessed with Pump It Up, but now I just go whenever. I also play Taiko no Tatsujin and maimai.
 
