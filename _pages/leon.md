@@ -35,7 +35,7 @@ Here's a list of my interests, in (roughly) descending order of relevance.
 
 - **Competitive Programming**
 
-  I'm not nearly as competitive anymore, so these days, you're much more likely to find me as a problem setter than as a contestant.
+  I'm not nearly as competitive anymore, so these days, you're more likely to find me as a problem setter than as a contestant.
 
 - **Project Euler**
 
