@@ -35,7 +35,7 @@ Here's a list of my interests, in (roughly) descending order of relevance.
 
 - **Competitive Programming**
 
-  I'm not nearly as competitive as I used to be, so these days, you're much more likely to find me as a problem setter than as a contestant.
+  I'm not nearly as competitive anymore, so these days, you're much more likely to find me as a problem setter than as a contestant.
 
 - **Project Euler**
 
@@ -59,7 +59,7 @@ Here's a list of my interests, in (roughly) descending order of relevance.
 
 - **Rhythm Games**
 
-  Sometimes I play rhythm games at the nearest arcade. I used to be obsessed with Pump It Up, but now I just go whenever. I also play Taiko no Tatsujin, maimai, and osu!.
+  I used to be obsessed with them, but now I just play whenever. You might spot me at the nearest arcade playing PIU, DDR, Taiko, or maimai. I also play osu!.
 
 ## Contact Me
 
