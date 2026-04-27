@@ -59,7 +59,7 @@ Here's a list of my interests, in (roughly) descending order of relevance.
 
 - **Rhythm Games**
 
-  Sometimes I play rhythm games at the nearest arcade. I used to be obsessed with Pump It Up, but now I just go whenever. I also play Taiko no Tatsujin and maimai.
+  Sometimes I play rhythm games at the nearest arcade. I used to be obsessed with Pump It Up, but now I just go whenever. I also play Taiko no Tatsujin, maimai, and osu!.
 
 ## Contact Me
 
