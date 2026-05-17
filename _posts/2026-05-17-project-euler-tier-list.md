@@ -249,8 +249,8 @@ Wherever appropriate, I've left extra comments on (hopefully) most of the proble
                                 <div>{{ problem_info.tier }}-tier</div>
                                 {%- if problem_info.comment != "" %}
                                 <div class="smaller">{{ problem_info.comment }}</div>
-                                <a href="https://projecteuler.net/problem={{ problem_num }}">View Problem</a>
                                 {%- endif %}
+                                <a href="https://projecteuler.net/problem={{ problem_num }}">View Problem</a>
                             </div>
                         </div>
                         {%- endif %}
