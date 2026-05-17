@@ -13,7 +13,7 @@ date: 2030-01-01 01:00:00
 
 I'll be focusing on the "main campaign", so this list will not include extra DLC such as Problem #0 or any of the bonus problems, because I haven't unlocked all of them yet ;\_;
 
-Of course, all this is subjective, so feel free to have "intellectual debates" with me over at the [Project Euler Discord](https://discord.gg/28bQcA7pQQ) if you disagree.
+Of course, all this is subjective, so feel free to have "intellectual debates" with me over at the [Project Euler Discord](https://discord.gg/ZyeyhAMwCn) if you disagree.
 
 Lastly, for any special occasion, I'm basically obligated to write something cheesy and sentimental, so all my rambling about Project Euler's philosophy will go in [the appendix]({% post_url 2026-05-17-perfectionist-thoughts %}).
 
