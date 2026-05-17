@@ -210,6 +210,16 @@ Wherever appropriate, I've left extra comments on (hopefully) most of the proble
     }
 </style>
 
+<script>
+    window.addEventListener("pageshow", () => {
+        let active = document.activeElement;
+        let grid = document.getElementById("progress_page");
+        if (grid && active && grid.contains(active)) {
+            active.blur();
+        }
+    });
+</script>
+
 {% assign valid = true %}
 {% for grid_num in (0..9) %}
 {% for row_num in (0..9) %}
