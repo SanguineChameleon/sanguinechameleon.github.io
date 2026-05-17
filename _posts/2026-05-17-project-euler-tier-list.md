@@ -72,28 +72,32 @@ Wherever appropriate, I've left extra comments on (hopefully) most of the proble
         border: 0.05rem solid var(--color-border-default);
     }
 
-    #progress_page .grid {
-        .mystery_cell {
-            background-color: rgb(160, 160, 160);
-        }
-        .s_tier_cell {
-            background-color: rgb(255, 127, 127);
-        }
-        .a_tier_cell {
-            background-color: rgb(255, 191, 127);
-        }
-        .b_tier_cell {
-            background-color: rgb(255, 255, 127);
-        }
-        .c_tier_cell {
-            background-color: rgb(127, 255, 127);
-        }
-        .d_tier_cell {
-            background-color: rgb(127, 255, 255);
-        }
-        .f_tier_cell {
-            background-color: rgb(127, 127, 255);
-        }
+    #progress_page .grid .mystery_cell {
+        background-color: rgb(160, 160, 160);
+    }
+
+    #progress_page .grid .s_tier_cell {
+        background-color: rgb(255, 127, 127);
+    }
+
+    #progress_page .grid .a_tier_cell {
+        background-color: rgb(255, 191, 127);
+    }
+
+    #progress_page .grid .b_tier_cell {
+        background-color: rgb(255, 255, 127);
+    }
+
+    #progress_page .grid .c_tier_cell {
+        background-color: rgb(127, 255, 127);
+    }
+
+    #progress_page .grid .d_tier_cell {
+        background-color: rgb(127, 255, 255);
+    }
+
+    #progress_page .grid .f_tier_cell {
+        background-color: rgb(127, 127, 255);
     }
 
     #progress_page .tooltip {
@@ -240,7 +244,7 @@ Wherever appropriate, I've left extra comments on (hopefully) most of the proble
                     {%- else %}
                     {%- assign class_name = "mystery_cell" %}
                     {%- endif %}
-                    <td class="tooltip {{ class_name }} problem_solved">
+                    <td class="tooltip {{ class_name }} problem_solved" tabindex="0">
                         {%- if problem_info != nil %}
                         <div class="cell_content">
                             {{ problem_num }}
