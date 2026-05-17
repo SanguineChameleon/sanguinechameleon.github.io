@@ -51,7 +51,7 @@ Reserved for the problems that have achieved legendary status or left me with tr
 
 ### Additional Remarks
 
-Wherever appropriate, I've left extra comments on (hopefully) most of the problems. You can hover over each grid cell for more info. On mobile, assuming I've coded it correctly, you can tap instead.
+Wherever appropriate, I've left extra comments on (hopefully) most of the problems. You can tap or hover over each grid cell for more info.
 
 ---
 {: style="margin-top: 1.25rem;"}
@@ -59,11 +59,12 @@ Wherever appropriate, I've left extra comments on (hopefully) most of the proble
 <style>
     #progress_page {
         --color-almost-black: #111;
-
         --color-background-default: #222;
         --color-text-default: #ccc;
         --color-border-default: rgb(111, 111, 111);
         --color-border-variation-1: #666;
+        --color-text-link: #9d6f53;
+        --color-text-link-hover: #666;
     }
 
     #progress_page .grid td {
@@ -120,7 +121,12 @@ Wherever appropriate, I've left extra comments on (hopefully) most of the proble
         margin-left: -4.5rem;
     }
 
-    #progress_page .tooltip:hover .tooltiptext_narrow {
+    #progress_page .tooltiptext_narrow {
+        visibility: hidden;
+    }
+
+    #progress_page .tooltip:hover .tooltiptext_narrow,
+    #progress_page .tooltip:focus-within .tooltiptext_narrow {
         visibility: visible;
     }
 
@@ -150,7 +156,7 @@ Wherever appropriate, I've left extra comments on (hopefully) most of the proble
         text-align: center;
     }
 
-    #progress_page .problems_solved_table td a {
+    #progress_page .problems_solved_table td .cell_content {
         display: flex;
         width: 100%;
         height: 100%;
@@ -162,11 +168,21 @@ Wherever appropriate, I've left extra comments on (hopefully) most of the proble
         color: var(--color-text-default);
     }
 
+    #progress_page .problems_solved_table td .cell_content a {
+        font-weight: 600;
+        color: var(--color-text-link);
+    }
+
+    #progress_page .problems_solved_table td .cell_content a:hover {
+        text-decoration: none;
+        color: var(--color-text-link-hover);
+    }
+
     #progress_page .problems_solved_table .tooltiptext_narrow {
         font-size: 100%;
     }
 
-    #progress_page .problems_solved_grid a {
+    #progress_page .problems_solved_grid .cell_content {
         color: inherit;
         display: block;
         width: 100%;
@@ -174,7 +190,7 @@ Wherever appropriate, I've left extra comments on (hopefully) most of the proble
         font-weight: normal;
     }
 
-    #progress_page .problems_solved_grid .problem_solved a {
+    #progress_page .problems_solved_grid .problem_solved .cell_content {
         color: var(--color-almost-black);
     }
 
@@ -226,16 +242,17 @@ Wherever appropriate, I've left extra comments on (hopefully) most of the proble
                     {%- endif %}
                     <td class="tooltip {{ class_name }} problem_solved">
                         {%- if problem_info != nil %}
-                        <a href="https://projecteuler.net/problem={{ problem_num }}">
+                        <div class="cell_content">
                             {{ problem_num }}
-                            <span class="tooltiptext_narrow">
+                            <div class="tooltiptext_narrow">
                                 <div class="strong larger">Problem {{ problem_num }}</div>
                                 <div>{{ problem_info.tier }}-tier</div>
                                 {%- if problem_info.comment != "" %}
                                 <div class="smaller">{{ problem_info.comment }}</div>
+                                <a href="https://projecteuler.net/problem={{ problem_num }}">View Problem</a>
                                 {%- endif %}
-                            </span>
-                        </a>
+                            </div>
+                        </div>
                         {%- endif %}
                     </td>
                     {%- endfor %}
