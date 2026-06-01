@@ -1,0 +1,4002 @@
+{
+    "1": {
+        "tier": "S",
+        "comment": "I can't think of a better problem for this position. So many ways to solve it, with varying levels of efficiency. You don't even need a computer for this. A fantastic introduction to Project Euler."
+    },
+    "2": {
+        "tier": "B",
+        "comment": "Easy programming exercise."
+    },
+    "3": {
+        "tier": "B",
+        "comment": "If you're lazy, you can even use WolframAlpha."
+    },
+    "4": {
+        "tier": "B",
+        "comment": "Another straightforward programming exercise."
+    },
+    "5": {
+        "tier": "B",
+        "comment": "Now's a good chance to read the forums if you simply brute-forced it."
+    },
+    "6": {
+        "tier": "B",
+        "comment": "Just use a calculator."
+    },
+    "7": {
+        "tier": "B",
+        "comment": "Also brute-forceable if you don't know much about primes."
+    },
+    "8": {
+        "tier": "C",
+        "comment": "This is less math and more standard programming, so it's unfortunately the first C-tier."
+    },
+    "9": {
+        "tier": "B",
+        "comment": "B for brute force. I'll give it a pass since Pythagorean triples are cool."
+    },
+    "10": {
+        "tier": "S",
+        "comment": "S-tier for Lucy's legendary forum post. If you haven't already, definitely go read it. You'll need it for many more problems."
+    },
+    "11": {
+        "tier": "C",
+        "comment": "This is Problem 8, but worse."
+    },
+    "12": {
+        "tier": "B",
+        "comment": "Meh. More brute force."
+    },
+    "13": {
+        "tier": "C",
+        "comment": "Trivial with bignums, annoying otherwise."
+    },
+    "14": {
+        "tier": "B",
+        "comment": "Brute force, but the Collatz Conjecture is good to know."
+    },
+    "15": {
+        "tier": "B",
+        "comment": "Easy if you have the right combinatorics knowledge."
+    },
+    "16": {
+        "tier": "B",
+        "comment": "Giving this one B-tier since it's just a one-liner in Python."
+    },
+    "17": {
+        "tier": "B",
+        "comment": "Gonna be controversial here and say that if you found this tedious, you should have better programming practices."
+    },
+    "18": {
+        "tier": "A",
+        "comment": "One of the earliest occurrences of \"simple DP\". A-tier since I'm feeling generous, but also DP is pretty important."
+    },
+    "19": {
+        "tier": "C",
+        "comment": "Library problems are boring."
+    },
+    "20": {
+        "tier": "B",
+        "comment": "B for bignum."
+    },
+    "21": {
+        "tier": "B",
+        "comment": "You can just Google it if you're too lazy to code, so B-tier."
+    },
+    "22": {
+        "tier": "B",
+        "comment": "I would've given C-tier since this is barely math, but honestly, this type of problem is incredibly rare nowadays, so it has a certain charm to it."
+    },
+    "23": {
+        "tier": "B",
+        "comment": "Brute force again. Sure, I guess."
+    },
+    "24": {
+        "tier": "B",
+        "comment": "Would've been somewhat more interesting with higher limits, maybe."
+    },
+    "25": {
+        "tier": "C",
+        "comment": "C-tier only because it literally introduces nothing new. Also, bignums."
+    },
+    "26": {
+        "tier": "B",
+        "comment": "I'm not a huge fan of cycle detection of any kind, but I'll let it pass."
+    },
+    "27": {
+        "tier": "B",
+        "comment": "The prose is the only thing keeping this from C-tier."
+    },
+    "28": {
+        "tier": "C",
+        "comment": "C-tier because I remember brute-forcing this and finding it annoying when I was much younger. A higher limit would've encouraged me to find the formula."
+    },
+    "29": {
+        "tier": "B",
+        "comment": "Brute force..."
+    },
+    "30": {
+        "tier": "B",
+        "comment": "I was gonna say it's just brute force, but you actually need to prove an upper bound to confirm your answer is correct. I would just YOLO it though."
+    },
+    "31": {
+        "tier": "A",
+        "comment": "I remember struggling with this for hours. DP is just one of those things that suddenly clicks one day."
+    },
+    "32": {
+        "tier": "B",
+        "comment": "Somewhat intelligent brute force required."
+    },
+    "33": {
+        "tier": "A",
+        "comment": "A for anomalous cancellation. I like it."
+    },
+    "34": {
+        "tier": "B",
+        "comment": "Same as Problem 30. Brute force with a non-trivial upper bound."
+    },
+    "35": {
+        "tier": "B",
+        "comment": "Pretty much any property you can think of can be applied to prime numbers. I doubt this one is especially mathematically relevant."
+    },
+    "36": {
+        "tier": "B",
+        "comment": "More amusing number properties. B for base 10 and base 2."
+    },
+    "37": {
+        "tier": "B",
+        "comment": "Even more number properties. At least this one isn't trivially brute-forceable."
+    },
+    "38": {
+        "tier": "C",
+        "comment": "C-tier because brute force is getting stale now, and this problem adds nothing to the table."
+    },
+    "39": {
+        "tier": "B",
+        "comment": "I'm slowly realizing that brute force probably wouldn't have been that fast back when these problems were released. Oh well."
+    },
+    "40": {
+        "tier": "B",
+        "comment": "My brain wants to come up with something elegant, but my hands have already finished whacking it with brute force."
+    },
+    "41": {
+        "tier": "C",
+        "comment": "They're really milking the pandigital numbers, huh?"
+    },
+    "42": {
+        "tier": "B",
+        "comment": "Not a math problem, but honestly, I'm just glad it's not brute force."
+    },
+    "43": {
+        "tier": "C",
+        "comment": "I saw the word \"pandigital\" and I stopped reading. Sorry."
+    },
+    "44": {
+        "tier": "B",
+        "comment": "I genuinely can't remember how to justify the correctness of the brute force algorithm."
+    },
+    "45": {
+        "tier": "B",
+        "comment": "I'm beginning to see a theme of polygonal numbers. I hope it isn't prolonged..."
+    },
+    "46": {
+        "tier": "B",
+        "comment": "Brute force, but there's some smug satisfaction in proving a renowned mathematician wrong."
+    },
+    "47": {
+        "tier": "B",
+        "comment": "Proper sieving is for nerds. Just brute force, lol."
+    },
+    "48": {
+        "tier": "B",
+        "comment": "It's really easy, so it's not worth complaining about."
+    },
+    "49": {
+        "tier": "B",
+        "comment": "I'm happy for the person who discovered this sequence, but this is getting boring. Sorry."
+    },
+    "50": {
+        "tier": "B",
+        "comment": "Mildly interesting, but very much brute force."
+    },
+    "51": {
+        "tier": "B",
+        "comment": "Who keeps coming up with these uninteresting properties?"
+    },
+    "52": {
+        "tier": "B",
+        "comment": "I'd seen this before, so I solved it within a few seconds."
+    },
+    "53": {
+        "tier": "B",
+        "comment": "I mean, sure. I don't think they'd introduced binomial coefficients until this one."
+    },
+    "54": {
+        "tier": "A",
+        "comment": "Despite its apparent tedium, I enjoyed this one. I'd take a straightforward implementation problem any day at this point. If you didn't like this one, I think you just have a skill issue."
+    },
+    "55": {
+        "tier": "B",
+        "comment": "Aaand back to brute force. Oh well."
+    },
+    "56": {
+        "tier": "C",
+        "comment": "C for can't be bothered."
+    },
+    "57": {
+        "tier": "B",
+        "comment": "Whoops, I misread this problem. It's B-tier. Sorry."
+    },
+    "58": {
+        "tier": "C",
+        "comment": "No, I really don't want to."
+    },
+    "59": {
+        "tier": "S",
+        "comment": "Not even remotely math, but this is such a cool and unique problem that it deserves S-tier. I guess I just have a soft spot for cryptography. S for soft spot."
+    },
+    "60": {
+        "tier": "B",
+        "comment": "Just because they're primes doesn't mean the property is interesting, you know?"
+    },
+    "61": {
+        "tier": "C",
+        "comment": "Too many words, too many polygonal numbers. C for cyclical whatever."
+    },
+    "62": {
+        "tier": "B",
+        "comment": "Okay fine, this is technically not brute force."
+    },
+    "63": {
+        "tier": "B",
+        "comment": "B for bounded brute force. Exhilarating."
+    },
+    "64": {
+        "tier": "A",
+        "comment": "The opening to a deeply confusing rabbit hole. A for Alice."
+    },
+    "65": {
+        "tier": "B",
+        "comment": "Slightly more interesting version of Problem 57."
+    },
+    "66": {
+        "tier": "A",
+        "comment": "Solve it properly now, or regret it much later."
+    },
+    "67": {
+        "tier": "B",
+        "comment": "The natural continuation of Problem 18. Who doesn't like DP?"
+    },
+    "68": {
+        "tier": "C",
+        "comment": "It's tempting to solve this by hand, but it's also tempting to just brute force. This indecision will make you waste a lot more time than necessary. C for conflict."
+    },
+    "69": {
+        "tier": "B",
+        "comment": "B-tier only because this is the first occurrence of Euler's totient function. The problem itself is meh."
+    },
+    "70": {
+        "tier": "B",
+        "comment": "Hey, that doesn't mean you need to set 10 totient problems right now."
+    },
+    "71": {
+        "tier": "B",
+        "comment": "The \"intended\" solution is definitely important for future problems, but it doesn't really shine here."
+    },
+    "72": {
+        "tier": "B",
+        "comment": "More reduced fractions. Have you ever considered, I dunno, waiting a few problems?"
+    },
+    "73": {
+        "tier": "C",
+        "comment": "Oh I just love reduced fractions. C for consistency."
+    },
+    "74": {
+        "tier": "B",
+        "comment": "You know it's bad when you find generic number properties interesting again."
+    },
+    "75": {
+        "tier": "A",
+        "comment": "Beefed-up version of Problem 39. You'll see this technique a lot."
+    },
+    "76": {
+        "tier": "B",
+        "comment": "Nice and easy. B for breath of fresh air."
+    },
+    "77": {
+        "tier": "C",
+        "comment": "Reusing the same idea twice in a row is not good problem-setting. C for copycat. I'm tempted to demote Problem 76, but I'm feeling nice."
+    },
+    "78": {
+        "tier": "C",
+        "comment": "C for creativity. You really need it. Sorry."
+    },
+    "79": {
+        "tier": "B",
+        "comment": "At this point, any problem that's wildly different from the one preceding it is already B-tier."
+    },
+    "80": {
+        "tier": "B",
+        "comment": "Eh, sure. It's still trivial with the right libraries though."
+    },
+    "81": {
+        "tier": "B",
+        "comment": "It's fine, but I don't think having..."
+    },
+    "82": {
+        "tier": "B",
+        "comment": "...three different versions was really necessary..."
+    },
+    "83": {
+        "tier": "B",
+        "comment": "...especially since they were each released two weeks apart."
+    },
+    "84": {
+        "tier": "A",
+        "comment": "It's the perfect level of tedium for me. Maybe it's my mind freak."
+    },
+    "85": {
+        "tier": "B",
+        "comment": "Maybe I'm biased toward thinking combinatorics is easy, but this is just brute force, right?"
+    },
+    "86": {
+        "tier": "A",
+        "comment": "I usually don't like 3D problems (because I suck at visualizing), but this one is the first of its kind, and even a fool like me didn't find it too hard. A for approachable."
+    },
+    "87": {
+        "tier": "B",
+        "comment": "Maybe my definition of brute force is too broad? Maybe this isn't brute force? I dunno. B for broad."
+    },
+    "88": {
+        "tier": "B",
+        "comment": "B for brute-force-but-not-really."
+    },
+    "89": {
+        "tier": "C",
+        "comment": "Yeah this one is too tedious even for me. Sorry. C for casework."
+    },
+    "90": {
+        "tier": "B",
+        "comment": "Et tu, Brute?"
+    },
+    "91": {
+        "tier": "B",
+        "comment": "Ehhhh it's still brute force."
+    },
+    "92": {
+        "tier": "B",
+        "comment": "Sorry, that property isn't as amazing as you think it is."
+    },
+    "93": {
+        "tier": "C",
+        "comment": "Eugh, no. This is libraries and permutations and brute force. Stop."
+    },
+    "94": {
+        "tier": "B",
+        "comment": "Knowing what I know now, don't brute force this one."
+    },
+    "95": {
+        "tier": "B",
+        "comment": "\"Smart\" for-loops still count as brute force. Fight me."
+    },
+    "96": {
+        "tier": "B",
+        "comment": "I just don't find pure Sudoku that interesting, unfortunately. B for backtracking."
+    },
+    "97": {
+        "tier": "B",
+        "comment": "Seventeen or bust."
+    },
+    "98": {
+        "tier": "B",
+        "comment": "The brute force is not that tedious. B-tier. Fine."
+    },
+    "99": {
+        "tier": "B",
+        "comment": "This trick is kinda fun the first time you hear it, but it's certainly a classic."
+    },
+    "100": {
+        "tier": "B",
+        "comment": "Nice and easy with the right theory. B for blue discs."
+    },
+    "101": {
+        "tier": "B",
+        "comment": "The exposition is unnecessary, to be honest. It's more confusing than helpful."
+    },
+    "102": {
+        "tier": "B",
+        "comment": "Good geometry practice, despite me being scared of it."
+    },
+    "103": {
+        "tier": "B",
+        "comment": "Apparently the original version had a major error. B for boo-boo."
+    },
+    "104": {
+        "tier": "C",
+        "comment": "You can't just combine two things and expect the problem to be interesting. Hard pass."
+    },
+    "105": {
+        "tier": "B",
+        "comment": "I mean this is just brute force, but it's part of a trio, so I'll allow it."
+    },
+    "106": {
+        "tier": "A",
+        "comment": "I remember being stumped on this one for a non-trivial amount of time. The details have been lost to history."
+    },
+    "107": {
+        "tier": "B",
+        "comment": "If you know, you know. If not, well, you can just Google."
+    },
+    "108": {
+        "tier": "B",
+        "comment": "Nice. It's rare to see an easy Part I and a harder Part II these days."
+    },
+    "109": {
+        "tier": "C",
+        "comment": "I'm good, thanks. C for checkout."
+    },
+    "110": {
+        "tier": "B",
+        "comment": "Part II of Problem 108."
+    },
+    "111": {
+        "tier": "B",
+        "comment": "I'll allow it since the problem number is thematically relevant. That's not easy to time, you know?"
+    },
+    "112": {
+        "tier": "C",
+        "comment": "You could argue that this is a lead-up to Problem 113, but based on the forums, people actually solved that one first, so yeah. Brute force is boring."
+    },
+    "113": {
+        "tier": "B",
+        "comment": "\"Simple\" combinatorics."
+    },
+    "114": {
+        "tier": "B",
+        "comment": "\"Simple\" DP."
+    },
+    "115": {
+        "tier": "B",
+        "comment": "It's interesting to see forum posts referring to what I'd call memoized DP as \"brute force\"."
+    },
+    "116": {
+        "tier": "B",
+        "comment": "DP or brute force or whatever you wanna call it. Words are made up anyway."
+    },
+    "117": {
+        "tier": "B",
+        "comment": "You have to imagine solvers back then must've gotten bored after four weeks of DP."
+    },
+    "118": {
+        "tier": "C",
+        "comment": "The next pandigital problem is getting D-tier. That's not a threat. That's a promise."
+    },
+    "119": {
+        "tier": "B",
+        "comment": "Bounded brute force. Sure. Fine. Whatever."
+    },
+    "120": {
+        "tier": "B",
+        "comment": "One of many \"troll\" problems where you just have to try stuff instead of thinking it through."
+    },
+    "121": {
+        "tier": "B",
+        "comment": "Discrete probability is my passion."
+    },
+    "122": {
+        "tier": "C",
+        "comment": "Half of the forum posts are brute force, and the other half is just Googling the answer."
+    },
+    "123": {
+        "tier": "B",
+        "comment": "Blah. See Problem 120."
+    },
+    "124": {
+        "tier": "B",
+        "comment": "Eh, the brute force for this one is somewhat fun. Somewhat."
+    },
+    "125": {
+        "tier": "C",
+        "comment": "Can we not design problems where the first forum post is literally \"simple brute force\"?"
+    },
+    "126": {
+        "tier": "B",
+        "comment": "Tricky to think about, but unfortunately not in a good way. B for bad at 3D."
+    },
+    "127": {
+        "tier": "F",
+        "comment": "Sorry. It was inevitable. This was a brute force problem if that helps soften the blow."
+    },
+    "128": {
+        "tier": "B",
+        "comment": "Non-trivial brute force. Yeah."
+    },
+    "129": {
+        "tier": "F",
+        "comment": "My memory is starting to get murky, so I'm gonna hand out more F-tiers for plain brute-force problems now. Step it up."
+    },
+    "130": {
+        "tier": "F",
+        "comment": "The sequel to Problem 129. Naturally, it also gets F-tier."
+    },
+    "131": {
+        "tier": "F",
+        "comment": "Yeah, no, I can't remember. I can sense an impending bloodbath."
+    },
+    "132": {
+        "tier": "F",
+        "comment": "Nope."
+    },
+    "133": {
+        "tier": "F",
+        "comment": "If it's so \"remarkable\" then how come I can't remember anything?"
+    },
+    "134": {
+        "tier": "B",
+        "comment": "Eh, no, I can see how to solve it. Consider yourself lucky."
+    },
+    "135": {
+        "tier": "F",
+        "comment": "I wouldn't consider this brute force, but this is just number theory bashing."
+    },
+    "136": {
+        "tier": "F",
+        "comment": "Sequel to Problem 136. More bashing."
+    },
+    "137": {
+        "tier": "A",
+        "comment": "If it manages to stand out within this desolate stretch of problems, it's worthy of A-tier."
+    },
+    "138": {
+        "tier": "F",
+        "comment": "Even Pythagorean triples are not safe from F-tier."
+    },
+    "139": {
+        "tier": "F",
+        "comment": "More Pythagorean triples."
+    },
+    "140": {
+        "tier": "B",
+        "comment": "Rip-off of Problem 137. It'd be unfair to rank it lower than B-tier."
+    },
+    "141": {
+        "tier": "B",
+        "comment": "One of the very few that I first solved before I started the sequential grind, so it deserves a B-tier at least. I have no idea how to solve it anymore though."
+    },
+    "142": {
+        "tier": "F",
+        "comment": "Why is one of the tags \"optimization\"?"
+    },
+    "143": {
+        "tier": "B",
+        "comment": "It was around this point that I had to add \"before: 20XX\" to all my searches to prevent spoilers. The diagram looks nice and that's about as much as I can remember."
+    },
+    "144": {
+        "tier": "A",
+        "comment": "Yes, it's brute force simulation, and no, I don't care. It's lasers."
+    },
+    "145": {
+        "tier": "F",
+        "comment": "\"At least defeat the brute-forcers!\" one forum post reads."
+    },
+    "146": {
+        "tier": "B",
+        "comment": "I remember having to learn a pretty useful primality test for this problem, so I'll begrudgingly give it B-tier."
+    },
+    "147": {
+        "tier": "F",
+        "comment": "A shame. I'm sure it was a neat combinatorics problem based on the pretty shapes."
+    },
+    "148": {
+        "tier": "B",
+        "comment": "I just know how to solve this off the top of my head."
+    },
+    "149": {
+        "tier": "C",
+        "comment": "Making this 2D is unnecessary. It would've been B-tier otherwise."
+    },
+    "150": {
+        "tier": "C",
+        "comment": "Same idea as Problem 149. Triangles make it even less exciting, if anything."
+    },
+    "151": {
+        "tier": "B",
+        "comment": "Sure. Probability's always fun. The title also stuck with me for some reason."
+    },
+    "152": {
+        "tier": "F",
+        "comment": "People seemed to praise this one in the forums. Whoops."
+    },
+    "153": {
+        "tier": "B",
+        "comment": "Gaussian integers are pretty neat, and I think this one has a lot of room for optimization tricks, but I don't remember much beyond that."
+    },
+    "154": {
+        "tier": "F",
+        "comment": "Don't mix combinatorics and brute force."
+    },
+    "155": {
+        "tier": "A",
+        "comment": "Because resistors never appear again. Ever. And also I suck at physics."
+    },
+    "156": {
+        "tier": "B",
+        "comment": "So do almost-instant mind-solves count as me remembering or no?"
+    },
+    "157": {
+        "tier": "F",
+        "comment": "Whoopsie-daisy, F for fractions."
+    },
+    "158": {
+        "tier": "B",
+        "comment": "B for biased toward combinatorics."
+    },
+    "159": {
+        "tier": "B",
+        "comment": "See Problem 141. Obligatory B-tier."
+    },
+    "160": {
+        "tier": "B",
+        "comment": "Yeah, sure. This one's cool."
+    },
+    "161": {
+        "tier": "C",
+        "comment": "Like my least favorite kind of DP."
+    },
+    "162": {
+        "tier": "B",
+        "comment": "Making the answer format hexadecimal is totally thematic and reasonably amusing."
+    },
+    "163": {
+        "tier": "F",
+        "comment": "Somewhat related to Problem 147. Triangles are fun, but not fun enough for me to remember apparently."
+    },
+    "164": {
+        "tier": "B",
+        "comment": "DP. Bleh."
+    },
+    "165": {
+        "tier": "B",
+        "comment": "I'd upset the geometry gods if I gave this anything below B-tier."
+    },
+    "166": {
+        "tier": "F",
+        "comment": "Rhymes with \"flute horse\"."
+    },
+    "167": {
+        "tier": "B",
+        "comment": "I vaguely remember having to read some paper to solve this."
+    },
+    "168": {
+        "tier": "F",
+        "comment": "The idea is alright, but I'm pretty sure the algebra is not that interesting."
+    },
+    "169": {
+        "tier": "B",
+        "comment": "So there's this website called OEIS..."
+    },
+    "170": {
+        "tier": "F",
+        "comment": "I told you I'd do it."
+    },
+    "171": {
+        "tier": "B",
+        "comment": "Can we stop with the brute- oh never mind, it's DP. Sorry. My bad."
+    },
+    "172": {
+        "tier": "B",
+        "comment": "Generic combinatorics problem. At least the code is short."
+    },
+    "173": {
+        "tier": "F",
+        "comment": "Boring brute force. It doesn't help that it's almost identical to the next one. At least the title is somewhat interesting."
+    },
+    "174": {
+        "tier": "F",
+        "comment": "Boring brute force. It doesn't help that it's almost identical to the previous one. At least the title is somewhat interesting."
+    },
+    "175": {
+        "tier": "F",
+        "comment": "Pattern bashing is my specialty, but it's also just about the most forgettable type of problem there is unfortunately."
+    },
+    "176": {
+        "tier": "B",
+        "comment": "Meh, it's easy enough that I can see how to solve it. Why not."
+    },
+    "177": {
+        "tier": "F",
+        "comment": "Geometry and brute force. With precision errors. Yummy."
+    },
+    "178": {
+        "tier": "B",
+        "comment": "Pandigital numbers strike again, but I'll forgive this one since the DP is nice."
+    },
+    "179": {
+        "tier": "B",
+        "comment": "I can solve this in my sleep."
+    },
+    "180": {
+        "tier": "B",
+        "comment": "I have some truly marvelous remarks for this problem, which this text box is too small to contain."
+    },
+    "181": {
+        "tier": "B",
+        "comment": "The first forum post literally just reads \"simple DP\", lol."
+    },
+    "182": {
+        "tier": "B",
+        "comment": "RSA, beloved by crypto nerds everywhere. The problem itself is meh."
+    },
+    "183": {
+        "tier": "B",
+        "comment": "Calculus optimization is for neeerds."
+    },
+    "184": {
+        "tier": "F",
+        "comment": "There are a lot of triangle-circle counting problems, and all of them are equally forgettable."
+    },
+    "185": {
+        "tier": "A",
+        "comment": "I like it. It's unique, and also one of the first few I solved way back then."
+    },
+    "186": {
+        "tier": "B",
+        "comment": "Uh oh, new graph data structure just dropped."
+    },
+    "187": {
+        "tier": "B",
+        "comment": "Yet another prime sieve bait."
+    },
+    "188": {
+        "tier": "B",
+        "comment": "Tetration is one of those things that my brain struggles with for whatever reason."
+    },
+    "189": {
+        "tier": "B",
+        "comment": "To be fair, I don't think DP was as oversaturated back then as it is now. It's objectively fine."
+    },
+    "190": {
+        "tier": "B",
+        "comment": "High-school inequalities are for neeerds."
+    },
+    "191": {
+        "tier": "B",
+        "comment": "\"Straightforward DP\", as per the forum posts."
+    },
+    "192": {
+        "tier": "B",
+        "comment": "Huh, apparently I took a really long hiatus between this one and the last. I guess I was scared of this problem."
+    },
+    "193": {
+        "tier": "B",
+        "comment": "Sub-linear number-theoretic summation, my beloved."
+    },
+    "194": {
+        "tier": "C",
+        "comment": "Annoying graph DP or whatever. C for coloring."
+    },
+    "195": {
+        "tier": "F",
+        "comment": "Yet another triangle-circle counting problem. I told you there'd be a lot."
+    },
+    "196": {
+        "tier": "B",
+        "comment": "Generic prime number bait."
+    },
+    "197": {
+        "tier": "F",
+        "comment": "Troll problem. F-tier because it looked so menacing at first when I didn't remember how to solve it. I was thoroughly disappointed after reading the forum."
+    },
+    "198": {
+        "tier": "F",
+        "comment": "I know the technique itself is very neato, but I literally can't recall anything about this problem other than that."
+    },
+    "199": {
+        "tier": "B",
+        "comment": "Colorful circles and fractals and circles and fractals. My brain likey."
+    },
+    "200": {
+        "tier": "F",
+        "comment": "\"Interestingly\"- no it isn't."
+    },
+    "201": {
+        "tier": "F",
+        "comment": "Brute force? DP? Doesn't matter, I had to re-read the forum."
+    },
+    "202": {
+        "tier": "S",
+        "comment": "The a-ha moment for this one was particularly memorable for some reason. I got giddy about Project Euler all over again. Felt like a big boy that day."
+    },
+    "203": {
+        "tier": "B",
+        "comment": "B for Blaise Pascal. Shout-out."
+    },
+    "204": {
+        "tier": "B",
+        "comment": "So what if it's brute force? I like it. Make your own tier list."
+    },
+    "205": {
+        "tier": "A",
+        "comment": "Yeah I don't really care about the problem, but they need to bring back names like Pyramidal Peter and Cubic Colin. Those were straight fire. It's all Alice and Bob now. Or worse yet, A and B. So uncreative."
+    },
+    "206": {
+        "tier": "B",
+        "comment": "Has anyone solved this by hand?"
+    },
+    "207": {
+        "tier": "F",
+        "comment": "Ehhh I don't really get what the forum posts are talking about and I kinda don't want to."
+    },
+    "208": {
+        "tier": "B",
+        "comment": "I struggle with 2D rotations too. I suck at any form of visualization, basically. But this was manageable."
+    },
+    "209": {
+        "tier": "B",
+        "comment": "B for binary truth table. And also for boring."
+    },
+    "210": {
+        "tier": "F",
+        "comment": "Please stop making me count triangles with integer coordinates."
+    },
+    "211": {
+        "tier": "B",
+        "comment": "Sieve bait."
+    },
+    "212": {
+        "tier": "D",
+        "comment": "So much math-vomit, and even then, it's just a boring data structure problem. It's successfully earned the first D-tier of the list for being such an eyesore. I guess that counts for something, eh?"
+    },
+    "213": {
+        "tier": "B",
+        "comment": "Nice and easy probability problem."
+    },
+    "214": {
+        "tier": "C",
+        "comment": "Worse than sieve bait is recycled sieve bait."
+    },
+    "215": {
+        "tier": "C",
+        "comment": "Yet another tedious DP problem. C for crack-free."
+    },
+    "216": {
+        "tier": "A",
+        "comment": "Read the official problem overview once you've solved it. Trust me."
+    },
+    "217": {
+        "tier": "C",
+        "comment": "I'm already too lazy to solve anything with more than one case, let alone using DP on it. C for casework."
+    },
+    "218": {
+        "tier": "A",
+        "comment": "No comment."
+    },
+    "219": {
+        "tier": "B",
+        "comment": "Easy once you know how."
+    },
+    "220": {
+        "tier": "C",
+        "comment": "I like fractals, but reasoning about them gives me a headache."
+    },
+    "221": {
+        "tier": "F",
+        "comment": "Number theory bait. I don't immediately see how to solve it, so to F-tier it goes."
+    },
+    "222": {
+        "tier": "F",
+        "comment": "I don't remember really struggling with this one. I probably did though. Maybe D-tier is worse than F-tier? Meh, it doesn't matter."
+    },
+    "223": {
+        "tier": "F",
+        "comment": "Forgettable number theory bait I"
+    },
+    "224": {
+        "tier": "F",
+        "comment": "Forgettable number theory bait II"
+    },
+    "225": {
+        "tier": "B",
+        "comment": "Man, I'm just randomly ranking these at this point."
+    },
+    "226": {
+        "tier": "A",
+        "comment": "I love the presentation. It's so cute and I want to put it in my mouth."
+    },
+    "227": {
+        "tier": "B",
+        "comment": "Yet another vanilla probability problem. You can never go wrong with that. Maybe I am just a little biased. It's my comfort topic."
+    },
+    "228": {
+        "tier": "B",
+        "comment": "The shapes be slidin' and stuff."
+    },
+    "229": {
+        "tier": "B",
+        "comment": "Don't let the mention of Euler distract you from the fact that this is just sieve bait."
+    },
+    "230": {
+        "tier": "B",
+        "comment": "Meh, it's alright. Kinda fun even. B for Bonacci."
+    },
+    "231": {
+        "tier": "B",
+        "comment": "Instant solve. B for binomial coefficient."
+    },
+    "232": {
+        "tier": "B",
+        "comment": "Yeah, you know I like probability."
+    },
+    "233": {
+        "tier": "B",
+        "comment": "Normally OEIS + brute force would be an immediate F-tier, but I somewhat remember this problem. Sure."
+    },
+    "234": {
+        "tier": "B",
+        "comment": "Had to re-read the forum for this one. It turns out I'm just a fool."
+    },
+    "235": {
+        "tier": "C",
+        "comment": "...What?"
+    },
+    "236": {
+        "tier": "C",
+        "comment": "Okay, okay, it's Simpson's paradox. I get it."
+    },
+    "237": {
+        "tier": "C",
+        "comment": "C for... combinatorics? Oh, the humanity."
+    },
+    "238": {
+        "tier": "B",
+        "comment": "Blum Blum Shub. Blum Blum Shub. I didn't read anything beyond that but Blum Blum Shub. B for Blum Blum Shub."
+    },
+    "239": {
+        "tier": "B",
+        "comment": "Straightforward combinatorics. Fun title."
+    },
+    "240": {
+        "tier": "B",
+        "comment": "B for brute force. There's combinatorics too, I guess."
+    },
+    "241": {
+        "tier": "B",
+        "comment": "There's a page with all the numbers, but I distinctly remember not wanting to look at it because that'd just be lame. Good work, past me."
+    },
+    "242": {
+        "tier": "B",
+        "comment": "Do you like pattern bashing?"
+    },
+    "243": {
+        "tier": "B",
+        "comment": "Ehhh, it's not really a good sign if the first few forum posts involve guessing..."
+    },
+    "244": {
+        "tier": "C",
+        "comment": "\"You probably know the game Fifteen Puzzle.\" Yes I do, but please don't make me implement it for no reason other than busywork, thank you very much."
+    },
+    "245": {
+        "tier": "F",
+        "comment": "Spiritual successor to Problem 243, now with more forgettable brute force. F for fractions."
+    },
+    "246": {
+        "tier": "F",
+        "comment": "Look, I have nothing against ellipses, but this just doesn't look that exciting. Sorry."
+    },
+    "247": {
+        "tier": "B",
+        "comment": "Fine, I kind of remember this one. Whatever. I don't think I liked it that much anyway."
+    },
+    "248": {
+        "tier": "B",
+        "comment": "My guy Robert in the forums has been running pure brute force on most of the last few problems. Respect."
+    },
+    "249": {
+        "tier": "B",
+        "comment": "My guy Robert can easily clear DP too. He's a jack-of-all-trades."
+    },
+    "250": {
+        "tier": "B",
+        "comment": "Rip-off of Problem 249, but hey, 250 problems is a milestone worth celebrating."
+    },
+    "251": {
+        "tier": "B",
+        "comment": "My guy Robert can even clear number theory. I should've noticed him earlier."
+    },
+    "252": {
+        "tier": "B",
+        "comment": "DP and geometry, a rare pairing indeed."
+    },
+    "253": {
+        "tier": "B",
+        "comment": "I like probability and I have no shame about that."
+    },
+    "254": {
+        "tier": "B",
+        "comment": "B for borderline F-tier. Maybe I should've gone with F for factorial."
+    },
+    "255": {
+        "tier": "B",
+        "comment": "Yeah, this one's fine, and I remember it. There you go."
+    },
+    "256": {
+        "tier": "B",
+        "comment": "Proof by Google."
+    },
+    "257": {
+        "tier": "F",
+        "comment": "Triangles are for neeerds."
+    },
+    "258": {
+        "tier": "B",
+        "comment": "Instant solve for me, but I'm sure this technique wasn't well-known back in the day."
+    },
+    "259": {
+        "tier": "C",
+        "comment": "No thanks."
+    },
+    "260": {
+        "tier": "B",
+        "comment": "I can't think of a word beginning with B."
+    },
+    "261": {
+        "tier": "F",
+        "comment": "Number theory bait."
+    },
+    "262": {
+        "tier": "A",
+        "comment": "The formula is so ugly but so cool. I don't care that it's 3D either."
+    },
+    "263": {
+        "tier": "F",
+        "comment": "Hehe, sex."
+    },
+    "264": {
+        "tier": "F",
+        "comment": "What did I tell you about triangle-circle problems? Have you not learned anything?"
+    },
+    "265": {
+        "tier": "B",
+        "comment": "Robert coming in hot with the brute force. No really, it actually is just brute force."
+    },
+    "266": {
+        "tier": "B",
+        "comment": "Honestly kinda sick, not gonna lie. Or maybe my bar is way too low now."
+    },
+    "267": {
+        "tier": "B",
+        "comment": "Probability. Sorry not sorry."
+    },
+    "268": {
+        "tier": "B",
+        "comment": "That's a very long title. I wonder if it's one of the longest."
+    },
+    "269": {
+        "tier": "F",
+        "comment": "Oh this one's long too. Not as long as the last one, but yeah. Sorry, where was I? Right, F-tier."
+    },
+    "270": {
+        "tier": "F",
+        "comment": "Your lowly cute diagrams will not save you from the hands of a god. Fear me."
+    },
+    "271": {
+        "tier": "B",
+        "comment": "The strange modulus immediately made me suspicious. Top 10 numbers."
+    },
+    "272": {
+        "tier": "B",
+        "comment": "Related to Problem 271, but also completely different. Originality is fun."
+    },
+    "273": {
+        "tier": "B",
+        "comment": "Squarefree bait. Sure, why not."
+    },
+    "274": {
+        "tier": "F",
+        "comment": "I yearn for the day there's good number theory bait."
+    },
+    "275": {
+        "tier": "C",
+        "comment": "Cool in theory, painful in practice."
+    },
+    "276": {
+        "tier": "B",
+        "comment": "I keep instant-solving number theory bait. I wanna give out more F-tiers. Agh."
+    },
+    "277": {
+        "tier": "B",
+        "comment": "uuUUUuuuUUDddddDDDUUuuUUddddUUUddUUDUDUUUUUUUUUUUUUUUUUUUU"
+    },
+    "278": {
+        "tier": "B",
+        "comment": "Pattern bait. I'm losing my mind, dude."
+    },
+    "279": {
+        "tier": "F",
+        "comment": "Next integer-sided triangle problem immediately gets F-tier. I'm, like, so done. I need a nap."
+    },
+    "280": {
+        "tier": "B",
+        "comment": "Probability! All is good again :D"
+    },
+    "281": {
+        "tier": "B",
+        "comment": "B for you-know-what."
+    },
+    "282": {
+        "tier": "B",
+        "comment": "Not interesting enough to get \"A for Ackermann function\". Unlucky."
+    },
+    "283": {
+        "tier": "F",
+        "comment": "I'm taking a nap."
+    },
+    "284": {
+        "tier": "F",
+        "comment": "Base 14, huh? Now that's something. F for fourteen."
+    },
+    "285": {
+        "tier": "B",
+        "comment": "Meh, it's not really probability."
+    },
+    "286": {
+        "tier": "B",
+        "comment": "Stop calling it probability >:("
+    },
+    "287": {
+        "tier": "C",
+        "comment": "I wouldn't exactly describe it as a \"simple algorithm\". C for compression."
+    },
+    "288": {
+        "tier": "F",
+        "comment": "If you had mentioned the name Blum Blum Shub, I would've ignored everything else and you would've gotten at least a B-tier. Sorry, but this is all on you."
+    },
+    "289": {
+        "tier": "C",
+        "comment": "Name-dropping Euler ain't gonna help if it's just boring DP."
+    },
+    "290": {
+        "tier": "C",
+        "comment": "Not name-dropping anything ain't gonna help either, especially if it's just boring DP."
+    },
+    "291": {
+        "tier": "B",
+        "comment": "The lore behind the title was enough to pull this out of F-tier. Take that as a lesson, all of you."
+    },
+    "292": {
+        "tier": "B",
+        "comment": "*Pythagorean. Uppercase."
+    },
+    "293": {
+        "tier": "F",
+        "comment": "*pseudo-fortunate. Are we just randomly capitalizing and not capitalizing things now? What is pseudo-Fortunate? What are we even doing? F for Fortunate. I'm annoyed. Not like I wasn't already."
+    },
+    "294": {
+        "tier": "C",
+        "comment": "You're trying too hard with the title. It would've been B-tier otherwise."
+    },
+    "295": {
+        "tier": "A",
+        "comment": "\"Lenticular\" is such a scrumptious word. A-tier for that alone. I don't care what the problem's about."
+    },
+    "296": {
+        "tier": "B",
+        "comment": "Retroactively B-tier because it gets referenced much, much later."
+    },
+    "297": {
+        "tier": "B",
+        "comment": "Sure wish there was a Z-tier."
+    },
+    "298": {
+        "tier": "B",
+        "comment": "It's probability. You know the rules. Also, \"selective amnesia\" is basically what I'm going through right now."
+    },
+    "299": {
+        "tier": "B",
+        "comment": "Not eligible for F-tier because I remember whipping out GeoGebra for this. Sigh."
+    },
+    "300": {
+        "tier": "F",
+        "comment": "Can I just say that the new GeoGebra online UI looks horrible? I swear it's gone through several changes by now, and each one has made it worse. It's almost unusable in its current state. Is this a sign I should just install GeoGebra instead of using the web version? Maybe it's like WolframAlpha vs. Mathematica, you know? Maybe. We'll see. Online GeoGebra is still sufficient for my use cases, but just barely. I mean, I honestly only use GeoGebra for Project Euler anyway, so. Yeah. This problem literally has nothing to do with GeoGebra, by the way. I'm just using this cell as a placeholder."
+    },
+    "301": {
+        "tier": "A",
+        "comment": "The first problem to mention Nim, and oh boy, are we in for a ride."
+    },
+    "302": {
+        "tier": "F",
+        "comment": "You can't just name something after Achilles and expect it to automatically be more interesting."
+    },
+    "303": {
+        "tier": "B",
+        "comment": "The curse of the instant solve."
+    },
+    "304": {
+        "tier": "C",
+        "comment": "The classic problem-setting technique of combining two totally unrelated things. I'm not encouraging this."
+    },
+    "305": {
+        "tier": "C",
+        "comment": "You've made one of my least favorite types of DP even worse. Ew."
+    },
+    "306": {
+        "tier": "A",
+        "comment": "I'm ranking all the combinatorial game theory ones at least B-tier, just so you know. A new comfort topic has entered the game."
+    },
+    "307": {
+        "tier": "B",
+        "comment": "Probability, lol."
+    },
+    "308": {
+        "tier": "A",
+        "comment": "Conway was simply a genius."
+    },
+    "309": {
+        "tier": "F",
+        "comment": "Surely you should've learned not to begin your title with \"Integer\" by now?"
+    },
+    "310": {
+        "tier": "B",
+        "comment": "Standard Nim practice."
+    },
+    "311": {
+        "tier": "F",
+        "comment": "\"Biclinic\" is... no, it doesn't roll off the tongue, sorry. Also, you put \"Integer\" in the title again."
+    },
+    "312": {
+        "tier": "A",
+        "comment": "Cyclic Paths on Sierpinski Graphs. It rhymes. I love it. I also enjoy the occasional special character in my title, like the 'n' in Sierpinski. Though, I don't dare to mess around with that in this text box."
+    },
+    "313": {
+        "tier": "B",
+        "comment": "Inoffensive pattern bashing."
+    },
+    "314": {
+        "tier": "A",
+        "comment": "A good story is all it takes for me to enjoy geometric optimization."
+    },
+    "315": {
+        "tier": "F",
+        "comment": "Oh, we're playing with GIFs now? That's kinda fun. Still F-tier though. No mercy."
+    },
+    "316": {
+        "tier": "B",
+        "comment": "tfw \"choosing a random real number from the interval [0, 1) is equivalent to choosing an infinite sequence of random digits\", measure theory mfs shaking and crying rn"
+    },
+    "317": {
+        "tier": "A",
+        "comment": "3D geometry is fun as long as I can solve it :)"
+    },
+    "318": {
+        "tier": "A",
+        "comment": "Simple but surprising problem. What else if not A-tier?"
+    },
+    "319": {
+        "tier": "B",
+        "comment": "I remember solving this while waiting for my food order. I got a burger and fries that day. I practically have savant syndrome, not gonna lie. Okay, but, I always get a burger and fries. B for burger. I'm hungry. It's closed right now. I'm sad. I want my burger :("
+    },
+    "320": {
+        "tier": "F",
+        "comment": "so-called \"huge number\" mfs when busy beaver shows up"
+    },
+    "321": {
+        "tier": "B",
+        "comment": "Pattern-bashers gonna pattern-bash."
+    },
+    "322": {
+        "tier": "F",
+        "comment": "Anyone who uses that notation for binomial coefficients is a psychopath. F-tier. Get out."
+    },
+    "323": {
+        "tier": "B",
+        "comment": "It's a probability problem. Anyway, the worst part about Sundays is that pretty much everything around here is closed. Including the burger place. Especially the burger place. It doesn't open until 6 PM. The buses only come every 30 minutes instead of the usual 5. The burgers aren't even that good. It's just reheated shoe leather. And yet I still want them. But I can't. So I'm just stuck here, rotting in my room. Alone. Hungry. Heartbroken. And, most devastating of all, burgerless."
+    },
+    "324": {
+        "tier": "F",
+        "comment": "Fine, I'll stop being such a buzzkill. I'm gonna go grab something to eat. Something that isn't a burger. Sigh. Be right back."
+    },
+    "325": {
+        "tier": "A",
+        "comment": "Oh, it's that cool Nim problem. Ayyy. Tier."
+    },
+    "326": {
+        "tier": "F",
+        "comment": "Sike, I WILL be eating a burger, and there's nothing you can do to stop me. I'm waiting for the bus now. I'm going to a proper burger place too. I want Shake Shack."
+    },
+    "327": {
+        "tier": "C",
+        "comment": "Oof, that's a lot of words. C for... cards? Yeah, I think that's one of them."
+    },
+    "328": {
+        "tier": "D",
+        "comment": "Aw hell nah. I remember pulling an all-nighter for this. It wasn't worth it at all. D for DP optimization. Stinky."
+    },
+    "329": {
+        "tier": "B",
+        "comment": "Yet another probability problem. 4 more stations to go. I can smell the burgers already."
+    },
+    "330": {
+        "tier": "A",
+        "comment": "I honestly don't remember much, but it looks scary. But like, the good kind of scary. Also, it's Euler's number. I couldn't put it below A-tier even if I wanted to."
+    },
+    "331": {
+        "tier": "A",
+        "comment": "This was the first problem I solved with a 100% difficulty rating, back when that was still a thing. It's actually much tamer than I expected."
+    },
+    "332": {
+        "tier": "B",
+        "comment": "Painful enough to remember, but not enough for C-tier. I suck at spherical geometry."
+    },
+    "333": {
+        "tier": "F",
+        "comment": "Ladies and gentlemen, I've arrived at Shake Shack. I repeat: I've arrived at Shake Shack. The order is in. Burger consumption is nigh, folks."
+    },
+    "334": {
+        "tier": "B",
+        "comment": "Challenging, but not exactly my cup of tea. I respect it though."
+    },
+    "335": {
+        "tier": "B",
+        "comment": "Another bean-related problem. B for beans, of course."
+    },
+    "336": {
+        "tier": "B",
+        "comment": "Brute force, but I like the trains. Also, Simple Simon is such an adorable name."
+    },
+    "337": {
+        "tier": "B",
+        "comment": "Classic data structure problem. We haven't had those in a while. Robert probably would've brute-forced it."
+    },
+    "338": {
+        "tier": "A",
+        "comment": "Another 100%-rated problem for the books. Just for a brief moment, I thought, \"Hey, I might be able to solve everything, you know?\""
+    },
+    "339": {
+        "tier": "B",
+        "comment": "I like the story, but apparently this exact set-up was taken from an old math textbook. So I guess it kinda cancels out."
+    },
+    "340": {
+        "tier": "C",
+        "comment": "Less \"crazy\" and more of an eyesore. Sorry."
+    },
+    "341": {
+        "tier": "B",
+        "comment": "See Problem 341."
+    },
+    "342": {
+        "tier": "F",
+        "comment": "Man, that hit the spot. I had a burger, some nuggies, and a vanilla shake. I have no regrets. Well, maybe just a little. My wallet is hurting right now. But it was worth it. F for financially irresponsible."
+    },
+    "343": {
+        "tier": "F",
+        "comment": "OEIS bait."
+    },
+    "344": {
+        "tier": "A",
+        "comment": "Combinatorial game theory is back. This one's a real stumper."
+    },
+    "345": {
+        "tier": "C",
+        "comment": "Bro, we're at 300+ problems already, why is this still here?"
+    },
+    "346": {
+        "tier": "F",
+        "comment": "Repunit. Now that's a word I haven't seen in a hot minute."
+    },
+    "347": {
+        "tier": "B",
+        "comment": "Uninspiring prime bait."
+    },
+    "348": {
+        "tier": "C",
+        "comment": "??? Are we regressing or something"
+    },
+    "349": {
+        "tier": "B",
+        "comment": "New category just dropped, it's Numberphile bait."
+    },
+    "350": {
+        "tier": "F",
+        "comment": "The title almost gave me a stroke."
+    },
+    "351": {
+        "tier": "A",
+        "comment": "A rite of passage for many more problems down the line. We finally found good number theory bait."
+    },
+    "352": {
+        "tier": "B",
+        "comment": "Another instance of a statement being retroactively fixed because the developers made a mistake. Again, B for boo-boo."
+    },
+    "353": {
+        "tier": "C",
+        "comment": "Unfortunately, this is beyond my tolerance of 3D geometry. I didn't like this one."
+    },
+    "354": {
+        "tier": "B",
+        "comment": "Decent number theory bait. B for... well, bee."
+    },
+    "355": {
+        "tier": "A",
+        "comment": "A-tier only because my method was cool as heck."
+    },
+    "356": {
+        "tier": "F",
+        "comment": "Yeah I have no idea what's going on in the forums. F for floor function?"
+    },
+    "357": {
+        "tier": "B",
+        "comment": "Straightforward sieve bait."
+    },
+    "358": {
+        "tier": "F",
+        "comment": "Still regressing, huh? I see how it is."
+    },
+    "359": {
+        "tier": "F",
+        "comment": "Pattern bait. F for floor. As in, hotel floor. Not the... whatever."
+    },
+    "360": {
+        "tier": "F",
+        "comment": "if the sphere is so \"scary\" then why can't i remember anything??? checkmate, sphere-truthers!!!"
+    },
+    "361": {
+        "tier": "F",
+        "comment": "Yeah this straight-up just looks unfun, to be honest."
+    },
+    "362": {
+        "tier": "F",
+        "comment": "Squarefree bait. F for factorization."
+    },
+    "363": {
+        "tier": "F",
+        "comment": "Oof, we're really on a hot streak, huh? This is not looking good."
+    },
+    "364": {
+        "tier": "B",
+        "comment": "Typical combinatorics problem."
+    },
+    "365": {
+        "tier": "B",
+        "comment": "so-called \"huge binomial coefficient\" mfs when i recycle the same joke"
+    },
+    "366": {
+        "tier": "B",
+        "comment": "More pattern bashing. Then again, that's basically most combinatorial game theory problems. I don't see an issue with that."
+    },
+    "367": {
+        "tier": "A",
+        "comment": "Tricky enough that I nearly missed an exam over this."
+    },
+    "368": {
+        "tier": "C",
+        "comment": "Paper-reading Simulator"
+    },
+    "369": {
+        "tier": "B",
+        "comment": "DP, but with cards. B for Badugi."
+    },
+    "370": {
+        "tier": "F",
+        "comment": "I saw the word \"integer-sided\" and my brain just shut down."
+    },
+    "371": {
+        "tier": "B",
+        "comment": "I remember people were crashing out in the forums over the \"poor\" wording of the problem. Well, I got it first try, so. Seems like a skill issue to me, to be honest."
+    },
+    "372": {
+        "tier": "F",
+        "comment": "F for floor function. Again."
+    },
+    "373": {
+        "tier": "F",
+        "comment": "Have you ever thought about triangles with non-integer sides? Huh? How do you think they feel about being left out?"
+    },
+    "374": {
+        "tier": "F",
+        "comment": "What makes a problem pattern bash? What makes a problem pattern bait? How are they different? These are the questions that keep me up at night."
+    },
+    "375": {
+        "tier": "C",
+        "comment": "Justice for Blum Blum Shub ;_;"
+    },
+    "376": {
+        "tier": "B",
+        "comment": "Numberphile bait. Didn't think there'd be another one."
+    },
+    "377": {
+        "tier": "C",
+        "comment": "Spiritual successor to Problem 294, pretentious title and all."
+    },
+    "378": {
+        "tier": "C",
+        "comment": "I wonder what Robert's up to these days."
+    },
+    "379": {
+        "tier": "B",
+        "comment": "Typical number theory bait. Or bash. I... I don't know."
+    },
+    "380": {
+        "tier": "B",
+        "comment": "So amazing, they even used an exclamation point! Wow!"
+    },
+    "381": {
+        "tier": "F",
+        "comment": "\\$-\\infty\\$ points for the unnecessary MathJax in the title. Eugh."
+    },
+    "382": {
+        "tier": "F",
+        "comment": "Pattern... bait. It's pattern bait. Yeah. Stop looking at me like that."
+    },
+    "383": {
+        "tier": "F",
+        "comment": "Okay, so, it's bait when there's a high chance it'll work, and it's bash when there's seemingly a lower chance, right? Like, bait, fish bait, the fish are likely to go for it, you know what I mean? And then bash is just throwing stuff against the wall and hoping for the best, right? Like, if all you have is a hammer, everything looks like a nail, right? You- you bash with the hammer. The fish take the bait. Bash. Bait. They're different. Does that make sense? Am I crazy? Hey, where are you going?"
+    },
+    "384": {
+        "tier": "F",
+        "comment": "Yeah, so this one is pattern bait. I'm telling you, I got this."
+    },
+    "385": {
+        "tier": "F",
+        "comment": "average triangle-circle hater vs average triangle-ellipse disliker"
+    },
+    "386": {
+        "tier": "F",
+        "comment": "Wait I kinda zoned out why are there so many F-tiers"
+    },
+    "387": {
+        "tier": "F",
+        "comment": "Wait what's going on huh"
+    },
+    "388": {
+        "tier": "B",
+        "comment": "Oh, thank goodness. Generic number theory bait."
+    },
+    "389": {
+        "tier": "B",
+        "comment": "average quant interview be like"
+    },
+    "390": {
+        "tier": "F",
+        "comment": "Oh, you actually have a problem involving triangles with non-integer sides. Huh. A shame that it's F-tier, eh? This is awkward."
+    },
+    "391": {
+        "tier": "F",
+        "comment": "Ah. This is combinatorial game theory. I can't seem to remember anything. Oh dear."
+    },
+    "392": {
+        "tier": "C",
+        "comment": "Area optimization is for neeerds."
+    },
+    "393": {
+        "tier": "A",
+        "comment": "I have to respect a problem that already gives you f(4) but only asks for f(10). Problems with threatening auras."
+    },
+    "394": {
+        "tier": "S",
+        "comment": "My very first non-trivial use of Mathematica. I felt like a mad scientist when I solved it."
+    },
+    "395": {
+        "tier": "A",
+        "comment": "Such pretty fractals."
+    },
+    "396": {
+        "tier": "F",
+        "comment": "Pattern. Just- just pattern."
+    },
+    "397": {
+        "tier": "F",
+        "comment": "Move over, triangle-circle. Triangle-parabola is where it's at."
+    },
+    "398": {
+        "tier": "B",
+        "comment": "Pattern, but it's probability, so yeah. Deal with it."
+    },
+    "399": {
+        "tier": "F",
+        "comment": "Proof by unproven conjecture."
+    },
+    "400": {
+        "tier": "B",
+        "comment": "A pattern is a regularity in the world, in human-made design, or in abstract ideas. As such, the elements of a pattern repeat in a predictable and logical manner. There exists countless kinds of unclassified patterns, present in everyday nature, fashion, many artistic areas, as well as a connection with mathematics."
+    },
+    "401": {
+        "tier": "B",
+        "comment": "Kicking off a new grid with some routine number theory."
+    },
+    "402": {
+        "tier": "B",
+        "comment": "Patterns galore."
+    },
+    "403": {
+        "tier": "F",
+        "comment": "Eh, it looks tedious more than anything else."
+    },
+    "404": {
+        "tier": "F",
+        "comment": "The ellipse be spinnin' and stuff."
+    },
+    "405": {
+        "tier": "C",
+        "comment": "Spot pattern, find formula, optimize formula. This recipe is getting dull now."
+    },
+    "406": {
+        "tier": "A",
+        "comment": "Somewhat reminiscent of Problem 328, but actually good this time. A-tier for the solid redemption arc."
+    },
+    "407": {
+        "tier": "F",
+        "comment": "Hear me out. What if we called it sievemaxxing instead?"
+    },
+    "408": {
+        "tier": "B",
+        "comment": "There's a new guy in town. My guy Stimmer straight-up brute-forced it. I'll observe him with great interest."
+    },
+    "409": {
+        "tier": "F",
+        "comment": "It's combinatorics. Combinatorial game theory, even. Maybe if you gave me 20 minutes, I could re-derive it. But rules are rules, so I have to pull the trigger ;_;"
+    },
+    "410": {
+        "tier": "F",
+        "comment": "You've heard of integer triplets. Now get ready for... integer quadruplets."
+    },
+    "411": {
+        "tier": "B",
+        "comment": "I can't find Stimmer anywhere. Step it up."
+    },
+    "412": {
+        "tier": "B",
+        "comment": "Either you know it or you don't."
+    },
+    "413": {
+        "tier": "C",
+        "comment": "Yet another DP problem. I'm running out of synonyms for \"boring\"."
+    },
+    "414": {
+        "tier": "F",
+        "comment": "I feel like I'm back to the first 100 problems again. So nostalgic."
+    },
+    "415": {
+        "tier": "B",
+        "comment": "I also remember solving this while waiting for another food order. Let's not open that can of worms again."
+    },
+    "416": {
+        "tier": "A",
+        "comment": "Froggy :)"
+    },
+    "417": {
+        "tier": "B",
+        "comment": "Number-theory-maxxing. Yes I'm serious about this."
+    },
+    "418": {
+        "tier": "B",
+        "comment": "Brute-force-maxxing."
+    },
+    "419": {
+        "tier": "B",
+        "comment": "Patternmaxxing. I have seen the light."
+    },
+    "420": {
+        "tier": "F",
+        "comment": "Forgettable number-theory-maxxing. It's so easy to categorize things now. Why couldn't I have done this earlier?"
+    },
+    "421": {
+        "tier": "F",
+        "comment": "Also forgettable number-theory-maxxing."
+    },
+    "422": {
+        "tier": "D",
+        "comment": "Oh, uh, this one just sucks. Sorry."
+    },
+    "423": {
+        "tier": "F",
+        "comment": "combinatorics but i forgor :skull:"
+    },
+    "424": {
+        "tier": "A",
+        "comment": "Now I *really* feel like I'm back to the first 100 problems, and I genuinely feel nostalgic. Nice."
+    },
+    "425": {
+        "tier": "F",
+        "comment": "Uh, primemaxxing, I guess?"
+    },
+    "426": {
+        "tier": "C",
+        "comment": "Reminds me of Problem 334. Unfortunately, I have slightly less respect for this one."
+    },
+    "427": {
+        "tier": "F",
+        "comment": "tfw combinatorics but you forgor again :skull:"
+    },
+    "428": {
+        "tier": "C",
+        "comment": "C for circles. Sorry. At least it's not triangles."
+    },
+    "429": {
+        "tier": "F",
+        "comment": "i am incapable of firing even a single neuron >w<"
+    },
+    "430": {
+        "tier": "C",
+        "comment": "There's been a nice alternating pattern of F's and C's, so sure. Better than F-tier, I guess."
+    },
+    "431": {
+        "tier": "C",
+        "comment": "C-C-C-C-COMBO BREAKER!"
+    },
+    "432": {
+        "tier": "F",
+        "comment": "sublinear-number-theoretic-summation but i forgor :skull:"
+    },
+    "433": {
+        "tier": "F",
+        "comment": "It's a good thing Euclid invented the GCD algorithm and not Euler, or I'd be flamed for this."
+    },
+    "434": {
+        "tier": "C",
+        "comment": "What on earth is that forum post, Lucy?"
+    },
+    "435": {
+        "tier": "C",
+        "comment": "They really did Fibonacci dirty with this one. Gross."
+    },
+    "436": {
+        "tier": "S",
+        "comment": "The first time I successfully used \"university-level\" calculus to solve a problem. I'm such a calculator!"
+    },
+    "437": {
+        "tier": "F",
+        "comment": "Give my man Fibonacci a break."
+    },
+    "438": {
+        "tier": "S",
+        "comment": "I cackled like a maniac when my spaghetti code (split across 10+ separate files) actually worked after almost a day of running it. I don't care if the forum posts run well under a minute. I earned this."
+    },
+    "439": {
+        "tier": "F",
+        "comment": "tfw sublinear-number-theoretic-summation but you forgor again :skull:"
+    },
+    "440": {
+        "tier": "B",
+        "comment": "I fired a single neuron just so this could be B-tier. B for brain damage."
+    },
+    "441": {
+        "tier": "F",
+        "comment": "F for firing none neurons."
+    },
+    "442": {
+        "tier": "C",
+        "comment": "Call me a neural network the way I be firing them neurons :sunglasses:"
+    },
+    "443": {
+        "tier": "F",
+        "comment": "F for firing none neurons... wait I already did this"
+    },
+    "444": {
+        "tier": "B",
+        "comment": "I still have enough neurons to tell this is a probability problem."
+    },
+    "445": {
+        "tier": "F",
+        "comment": "nvm the math-vomit made my brain shut down again :relaxed:"
+    },
+    "446": {
+        "tier": "F",
+        "comment": "The sequel to Problem 445 we didn't need. Math-vomit 2: Vomit Harder."
+    },
+    "447": {
+        "tier": "F",
+        "comment": "lol i actually forgot there were 3 parts to this mess, i've genuinely had a huge headache all day"
+    },
+    "448": {
+        "tier": "F",
+        "comment": "god i should go home i'm so tired"
+    },
+    "449": {
+        "tier": "A",
+        "comment": "Mmm, chocolate covered candy. But, 3D geometry? What a conundrum!"
+    },
+    "450": {
+        "tier": "F",
+        "comment": "If I need to scroll to read the whole problem, you're doing it wrong."
+    },
+    "451": {
+        "tier": "F",
+        "comment": "number-theory-maxxers in shambles after i forgor :skull:"
+    },
+    "452": {
+        "tier": "B",
+        "comment": "I mean, I see how to solve it, so uhhh"
+    },
+    "453": {
+        "tier": "B",
+        "comment": "Tedious, but my kind of tedious."
+    },
+    "454": {
+        "tier": "F",
+        "comment": "Does sublinear-number-theoretic-summation count as number theory? I mean, it's literally in the name, but does it really?"
+    },
+    "455": {
+        "tier": "C",
+        "comment": "Bruh."
+    },
+    "456": {
+        "tier": "B",
+        "comment": "Hey, I'd take some 2D geometry practice any day."
+    },
+    "457": {
+        "tier": "F",
+        "comment": "Is primemaxxing a subcategory of number-theory-maxxing? Isn't everything technically number-theory-maxxing if you think about it?"
+    },
+    "458": {
+        "tier": "B",
+        "comment": "The curse of the almost-instant solve."
+    },
+    "459": {
+        "tier": "A",
+        "comment": "It feels great to rediscover a pattern on your own, even if it turns out to be \"well-known\"."
+    },
+    "460": {
+        "tier": "C",
+        "comment": "Path optimization is for neeerds."
+    },
+    "461": {
+        "tier": "B",
+        "comment": "Classic technique. No complaints."
+    },
+    "462": {
+        "tier": "B",
+        "comment": "Sure."
+    },
+    "463": {
+        "tier": "B",
+        "comment": "Patternmaxxing. Get patternmogged."
+    },
+    "464": {
+        "tier": "F",
+        "comment": "I got number-theory-mogged ;_;"
+    },
+    "465": {
+        "tier": "B",
+        "comment": "You thought this was geometry, but it was me, sublinear-number-theoretic-summation!"
+    },
+    "466": {
+        "tier": "C",
+        "comment": "I distinctly remember this sublinear-number-theoretic-summation problem being unfun, so eat it."
+    },
+    "467": {
+        "tier": "B",
+        "comment": "Classic DP problem. I don't think it deserves to be called boring."
+    },
+    "468": {
+        "tier": "B",
+        "comment": "Yeah, this one's cute. B for binomial coefficient, of course."
+    },
+    "469": {
+        "tier": "F",
+        "comment": "Get patternmogged, nerd."
+    },
+    "470": {
+        "tier": "B",
+        "comment": "I would turn a blind eye to any annoyances, as long as it's a probability problem."
+    },
+    "471": {
+        "tier": "F",
+        "comment": "Return of the triangle-ellipse."
+    },
+    "472": {
+        "tier": "F",
+        "comment": "Let me repeat myself loud and clear: Get patternmogged, nerd."
+    },
+    "473": {
+        "tier": "B",
+        "comment": "Crunchy problem. B for base-phi."
+    },
+    "474": {
+        "tier": "B",
+        "comment": "DP-maxxers rise up."
+    },
+    "475": {
+        "tier": "B",
+        "comment": "mmm combinatorics :drooling_face:"
+    },
+    "476": {
+        "tier": "F",
+        "comment": "Oh my goodness, three circles in a triangle?"
+    },
+    "477": {
+        "tier": "B",
+        "comment": "Solved this one at the dentist."
+    },
+    "478": {
+        "tier": "B",
+        "comment": "My neurons are sure being activated! I'm such a neuron activator!"
+    },
+    "479": {
+        "tier": "F",
+        "comment": "Get... polynomialmogged? Ah, no, polymogged. Get polymogged. Nerd."
+    },
+    "480": {
+        "tier": "A",
+        "comment": "They had the rare opportunity to make the answer alphabetic instead of numeric, and I think they executed it flawlessly."
+    },
+    "481": {
+        "tier": "B",
+        "comment": "Hah, they really *cooked* with this one. Get it? Because there are chefs and they... whatever. It's a probability problem. Shut up."
+    },
+    "482": {
+        "tier": "F",
+        "comment": "Integer-sided triangles! Long time no see! The door's over there."
+    },
+    "483": {
+        "tier": "A",
+        "comment": "A-tier purely for my galaxy brain solution."
+    },
+    "484": {
+        "tier": "F",
+        "comment": "How fast can you say sublinear-number-theoretic-summation?"
+    },
+    "485": {
+        "tier": "B",
+        "comment": "Stimmer! You mad genius!"
+    },
+    "486": {
+        "tier": "B",
+        "comment": "At this point, I think a neural network would do a better job ranking these."
+    },
+    "487": {
+        "tier": "F",
+        "comment": "[humorous comment involving patterns]"
+    },
+    "488": {
+        "tier": "F",
+        "comment": "Good news: It's Nim! Bad news: I forgor :skull:"
+    },
+    "489": {
+        "tier": "F",
+        "comment": "[humorous comment involving number theory]"
+    },
+    "490": {
+        "tier": "A",
+        "comment": "Froggy :D"
+    },
+    "491": {
+        "tier": "F",
+        "comment": "P-pandigital?!"
+    },
+    "492": {
+        "tier": "A",
+        "comment": "Yeah this one's cool :3"
+    },
+    "493": {
+        "tier": "B",
+        "comment": "If probability has a million fans, I'm one of them. If probability has ten fans, I'm one of them. If probability has one fan, that's me. If probability has no fans, I am dead. If the world is against probability, I am against the world."
+    },
+    "494": {
+        "tier": "A",
+        "comment": "Tricky one. I don't remember much else unfortunately."
+    },
+    "495": {
+        "tier": "B",
+        "comment": "Overrated in difficulty, tbh. Maybe I'm just combinatorics-carried."
+    },
+    "496": {
+        "tier": "F",
+        "comment": "trongl"
+    },
+    "497": {
+        "tier": "B",
+        "comment": "Solved this one at the hospital."
+    },
+    "498": {
+        "tier": "B",
+        "comment": "Also solved this one at the hospital."
+    },
+    "499": {
+        "tier": "A",
+        "comment": "Couldn't solve this one at the hospital. I was too tired :("
+    },
+    "500": {
+        "tier": "B",
+        "comment": "Good to see you again, Stimmer."
+    },
+    "501": {
+        "tier": "F",
+        "comment": "Does it count if I just remember the name? Nah, probably not."
+    },
+    "502": {
+        "tier": "B",
+        "comment": "I'm hungry again. It is time to consume."
+    },
+    "503": {
+        "tier": "B",
+        "comment": "It's a public holiday. Everything is probably closed. I might be cooked."
+    },
+    "504": {
+        "tier": "B",
+        "comment": "Hold on, let me just scout the surroundings. Be right back."
+    },
+    "505": {
+        "tier": "A",
+        "comment": "Wait, this one's actually so cool."
+    },
+    "506": {
+        "tier": "C",
+        "comment": "Sorry, you just got clockblocked."
+    },
+    "507": {
+        "tier": "D",
+        "comment": "I've never had such a visceral reaction upon re-reading a problem."
+    },
+    "508": {
+        "tier": "F",
+        "comment": "B(L)? Did you just say BL? Oh my gosh, I love BL!!!"
+    },
+    "509": {
+        "tier": "F",
+        "comment": "Nim-maxxing."
+    },
+    "510": {
+        "tier": "F",
+        "comment": "cirgl"
+    },
+    "511": {
+        "tier": "F",
+        "comment": "Just ordered hotpot. We are so back."
+    },
+    "512": {
+        "tier": "F",
+        "comment": "I mean, it's a public holiday so hardly anyone's here. Anyway, can I just rant about hotpot etiquette? Like, I have friends (allegedly), and whenever we go out for hotpot together, we order one single bowl for all of us. But like... that's just not enough for me. I know the whole point is that we split the bill so it's \"cheaper\", I know. But I'm a tall, growing boy! I need my nutrients! Hotpot is just soup with pieces of meat and veg floating around. Splitting that between 3-4 people doesn't help. Why don't we just get one bowl each? You know, every time I go for one of these  \"solo sessions\", I order one bowl for myself. Am I the selfish one? Do I just look like a lonely loser when I eat an entire bowl of hotpot all by myself? What's going on? Am I seriously the crazy one here?"
+    },
+    "513": {
+        "tier": "F",
+        "comment": "You know what? No. Screw you. I'm out here, eating my bowl of hotpot, laptop out, ranking my Project Euler problems. And no one can stop me."
+    },
+    "514": {
+        "tier": "A",
+        "comment": "It's geometry, but it's also probability, and the numeric answer looks neat."
+    },
+    "515": {
+        "tier": "F",
+        "comment": "Most people would go for the standard yellowish brick of ramen in their hotpot. But not me. I'm more of a purple brick kind of guy. I have no idea what it's made of."
+    },
+    "516": {
+        "tier": "F",
+        "comment": "No really, can someone tell me what the purple bricks are made of?"
+    },
+    "517": {
+        "tier": "B",
+        "comment": "B for brick of mysterious purple ramen."
+    },
+    "518": {
+        "tier": "F",
+        "comment": "Google is proving unhelpful. Imagine it's just a regular ramen brick but with food coloring, lol."
+    },
+    "519": {
+        "tier": "F",
+        "comment": "F for fountain, I think? I'm too busy thinking about purple ramen, sorry."
+    },
+    "520": {
+        "tier": "C",
+        "comment": "Not busy enough to miss boring DP, apparently."
+    },
+    "521": {
+        "tier": "A",
+        "comment": "I finally got around to learning and implementing \"the trick\" because of this problem."
+    },
+    "522": {
+        "tier": "B",
+        "comment": "Weee, combinatorics. B for blackout, naturally."
+    },
+    "523": {
+        "tier": "B",
+        "comment": "I always wear a black shirt so no one notices the soup stains."
+    },
+    "524": {
+        "tier": "B",
+        "comment": "How do people slurp noodles without making a mess?"
+    },
+    "525": {
+        "tier": "C",
+        "comment": "It doesn't count as 2D geometry if it involves motion, right? I don't suck at 2D geometry. I don't."
+    },
+    "526": {
+        "tier": "C",
+        "comment": "Boring brute force. Dude, I hate it when you drop the food you're holding into the soup and it splashes everywhere."
+    },
+    "527": {
+        "tier": "C",
+        "comment": "More of a numerical exercise than a probability problem. C for copium."
+    },
+    "528": {
+        "tier": "B",
+        "comment": "combinatorics... >w<"
+    },
+    "529": {
+        "tier": "C",
+        "comment": "boring dp... :<"
+    },
+    "530": {
+        "tier": "F",
+        "comment": "You know, the other day my coworker/school friend told me I use way too much Gen-Z language. I couldn't possibly imagine why they'd think that. Anyway, this problem is just number-theory-maxxing."
+    },
+    "531": {
+        "tier": "A",
+        "comment": "A-tier for the shameless title pun."
+    },
+    "532": {
+        "tier": "C",
+        "comment": "I just whacked Mathematica until it spat out something coherent. Spherical geometry is for neeerds."
+    },
+    "533": {
+        "tier": "B",
+        "comment": "I'm sorry, but Carmichael is such an unintentionally funny name though. Car Michael. No offense to my guy, I promise."
+    },
+    "534": {
+        "tier": "C",
+        "comment": "Why yes, I would love another backtracking problem."
+    },
+    "535": {
+        "tier": "B",
+        "comment": "Spooky problem. Reminds me of Problem 535."
+    },
+    "536": {
+        "tier": "F",
+        "comment": "The sun is shining directly on my laptop screen and holy moly is it dusty. I can't see anything."
+    },
+    "537": {
+        "tier": "F",
+        "comment": "Okay let me just finish the rest of the soup, then let's get out of here."
+    },
+    "538": {
+        "tier": "C",
+        "comment": "Least contrived Project Euler set-up"
+    },
+    "539": {
+        "tier": "B",
+        "comment": "i be patternmogging on all the haters :sunglasses:"
+    },
+    "540": {
+        "tier": "A",
+        "comment": "A-tier for the development team's gigabrain approach."
+    },
+    "541": {
+        "tier": "A",
+        "comment": "Another paper-reading problem, but I felt cool solving it."
+    },
+    "542": {
+        "tier": "F",
+        "comment": "Burp."
+    },
+    "543": {
+        "tier": "B",
+        "comment": "Prime bait- no, prime bash- nope, primemaxxing. My bad."
+    },
+    "544": {
+        "tier": "C",
+        "comment": "You kinda cursed yourself by making the title two C-words. C for curse, ha."
+    },
+    "545": {
+        "tier": "F",
+        "comment": "Again, with the two F-words. These rankings just write themselves."
+    },
+    "546": {
+        "tier": "F",
+        "comment": "See, the title is cool enough to be promoted from F-tier, but like, D-tier is worse than F-tier in my mind."
+    },
+    "547": {
+        "tier": "A",
+        "comment": "Math-vomit, but probability. I just wear my heart on my sleeve."
+    },
+    "548": {
+        "tier": "F",
+        "comment": "Your feeble puns will not save you, dear child."
+    },
+    "549": {
+        "tier": "B",
+        "comment": "The curse of the almost-instant solve returns yet again."
+    },
+    "550": {
+        "tier": "F",
+        "comment": "...Am I really a true combinatorial game theory fan?"
+    },
+    "551": {
+        "tier": "F",
+        "comment": "mog them patterns or smth"
+    },
+    "552": {
+        "tier": "F",
+        "comment": "No. You already made that pun 21 problems ago. You can't just slap a \"II\" on it and call it a day."
+    },
+    "553": {
+        "tier": "B",
+        "comment": "combinatorics!!! :D :D :D"
+    },
+    "554": {
+        "tier": "F",
+        "comment": "Combi- wait, no, this some pattern BS. Gross."
+    },
+    "555": {
+        "tier": "C",
+        "comment": "I'm sure the original function is historically significant, but this problem is just a pain to analyze."
+    },
+    "556": {
+        "tier": "F",
+        "comment": "Ever heard of spacing? What am I even reading?"
+    },
+    "557": {
+        "tier": "F",
+        "comment": "g r a i n y i m a g e"
+    },
+    "558": {
+        "tier": "F",
+        "comment": "Like a more scuffed version of Problem 473."
+    },
+    "559": {
+        "tier": "B",
+        "comment": "Me when I permute the matrices."
+    },
+    "560": {
+        "tier": "B",
+        "comment": "Nim is merely the sauce for this problem."
+    },
+    "561": {
+        "tier": "F",
+        "comment": "pleaselearnspacingibegofyou"
+    },
+    "562": {
+        "tier": "F",
+        "comment": "Triangle-circle is back, and it's not messing around."
+    },
+    "563": {
+        "tier": "F",
+        "comment": "TL;DR"
+    },
+    "564": {
+        "tier": "C",
+        "comment": "More geometry than probability. That's my copium right there."
+    },
+    "565": {
+        "tier": "F",
+        "comment": "It wasn't even 2017 yet, why'd you choose that number?"
+    },
+    "566": {
+        "tier": "A",
+        "comment": "Yeah, you know I had to rank this one high. It seems so innocuous, but it's a real beast of a problem. The only reason it's not S-tier is because I solved it too quickly? At least, I didn't find it as difficult as many other experienced solvers claimed. But anyway, cake, mmm..."
+    },
+    "567": {
+        "tier": "B",
+        "comment": "Just barely enough probability for me to give it B-tier."
+    },
+    "568": {
+        "tier": "B",
+        "comment": "Sequel to Problem 567, so B-tier by proxy."
+    },
+    "569": {
+        "tier": "B",
+        "comment": "Solved this one while walking around a lake, back when I was healthier :/"
+    },
+    "570": {
+        "tier": "B",
+        "comment": "I'm not overweight by any means, but yeah, I should really start exercising again."
+    },
+    "571": {
+        "tier": "F",
+        "comment": "There's just no time, you know? There's just no time. At least, that's the excuse I always make. Sigh."
+    },
+    "572": {
+        "tier": "F",
+        "comment": "Sorry for being a buzzkill, we gotta lock back in."
+    },
+    "573": {
+        "tier": "F",
+        "comment": "This is not a probability problem. This is a pattern problem. What do you mean I'm cherry picking?"
+    },
+    "574": {
+        "tier": "F",
+        "comment": "Wow, those primes sure are getting verified. Yep."
+    },
+    "575": {
+        "tier": "A",
+        "comment": "I specifically remember that one guy crashing out in the forums because the story was \"verbose\" and left him \"disgusted\". Cry harder, lol."
+    },
+    "576": {
+        "tier": "C",
+        "comment": "Eh, I just don't like dealing with circle wraparounds."
+    },
+    "577": {
+        "tier": "B",
+        "comment": "Hexagon :)"
+    },
+    "578": {
+        "tier": "C",
+        "comment": "Come on, bring something new to the table."
+    },
+    "579": {
+        "tier": "A",
+        "comment": "This problem sucked, but it's getting A-tier. Turns out I was the one sucking. Not like that."
+    },
+    "580": {
+        "tier": "C",
+        "comment": "Don't rope my man Hilbert into this."
+    },
+    "581": {
+        "tier": "F",
+        "comment": "Stop picking random prime numbers. F for forty-seven."
+    },
+    "582": {
+        "tier": "F",
+        "comment": "I had to Google whether \"forty-seven\" was hyphenated for the last comment, and apparently Merriam-Webster simply defines it as \"being one more than 46\". That has a lot of existential implications that I'm not ready to think about."
+    },
+    "583": {
+        "tier": "F",
+        "comment": "Wait, why does Merriam-Webster have an entry for 47? How far up does it go? What about negative numbers? Oh god."
+    },
+    "584": {
+        "tier": "B",
+        "comment": "Reading comprehension exercise, but it's probability, so, you know the drill."
+    },
+    "585": {
+        "tier": "A",
+        "comment": "All of us were smoking something when we solved this."
+    },
+    "586": {
+        "tier": "F",
+        "comment": "Oopsie woopsie! The dev team made a huge boo-boo!"
+    },
+    "587": {
+        "tier": "B",
+        "comment": "Triangle-circle, but I'm pretty sure a smart middle schooler could solve this, so I physically and emotionally can't put this below B-tier."
+    },
+    "588": {
+        "tier": "F",
+        "comment": "Quintinomial? Now you're just making up words. I could never."
+    },
+    "589": {
+        "tier": "A",
+        "comment": "Oh, bother!"
+    },
+    "590": {
+        "tier": "F",
+        "comment": "Having two italicized capital letters as a function name is DISGUSTING"
+    },
+    "591": {
+        "tier": "C",
+        "comment": "I was briefly considering F-tier, but I remember just enough to give it C-tier. Also, there's like this huge ugly splotch of blue F's forming in the bottom-left corner, so I'm trying to make a border to keep it from leaking into the next grid."
+    },
+    "592": {
+        "tier": "B",
+        "comment": "What did I give the first one? B-tier? Wow, I was so generous back then. \"Back then\", as if I wasn't doing all this in just a few weeks."
+    },
+    "593": {
+        "tier": "B",
+        "comment": "Good news: the splotch has been contained. I repeat: the splotch has been contained. We have everything under control now."
+    },
+    "594": {
+        "tier": "D",
+        "comment": "My eyes rolled back into my head. D for delete this problem. Please."
+    },
+    "595": {
+        "tier": "B",
+        "comment": "probability? cards? shuffles? b :3"
+    },
+    "596": {
+        "tier": "F",
+        "comment": "hyperball :D lattice points D:"
+    },
+    "597": {
+        "tier": "A",
+        "comment": "My method was pretty messy and all over the place, but I enjoyed solving this problem, and that's all that really matters. Boat :)"
+    },
+    "598": {
+        "tier": "F",
+        "comment": "Apparently, \"combinatorics\" is one of the tags. That's just fake news."
+    },
+    "599": {
+        "tier": "B",
+        "comment": "Tedious, but it matches my mind freak."
+    },
+    "600": {
+        "tier": "B",
+        "comment": "Hexagon :D"
+    },
+    "601": {
+        "tier": "F",
+        "comment": "Another grid, another F-tier. It's so over."
+    },
+    "602": {
+        "tier": "B",
+        "comment": "Probability. You know it, I know it, we all know it. B-tier."
+    },
+    "603": {
+        "tier": "C",
+        "comment": "fym the first tag is \"combinatorics\""
+    },
+    "604": {
+        "tier": "C",
+        "comment": "Solved this one at the supermarket. Unfortunately, this one's just not that interesting. C for consumerism."
+    },
+    "605": {
+        "tier": "B",
+        "comment": "prob"
+    },
+    "606": {
+        "tier": "F",
+        "comment": "Do you think repeating the same pun will spare you from condemnation? You are such a simple-minded child."
+    },
+    "607": {
+        "tier": "C",
+        "comment": "The hell's a marsh?"
+    },
+    "608": {
+        "tier": "F",
+        "comment": "Apparently there are only around 40 sublinear-number-theoretic-summation problems in total, but it feels like I've seen twice as many."
+    },
+    "609": {
+        "tier": "F",
+        "comment": "I expected a transcendental constant, but instead I got a lame prime-counting function."
+    },
+    "610": {
+        "tier": "B",
+        "comment": "Oh, I actually rated the original C-tier. Guess I've always had standards, huh? B for blast in the past."
+    },
+    "611": {
+        "tier": "F",
+        "comment": "Bruh why are the first two forum posts just brute force"
+    },
+    "612": {
+        "tier": "F",
+        "comment": "Friend numbers? More like freaky numbers, am I right? Because they, uh, they kinda get a little *freaky* sometimes, you know what I mean? Why are you staring at me like that?"
+    },
+    "613": {
+        "tier": "B",
+        "comment": "Continuous probability is my passion."
+    },
+    "614": {
+        "tier": "F",
+        "comment": "Apparently I ranked the original during my burger meltdown. So there's that."
+    },
+    "615": {
+        "tier": "B",
+        "comment": "Ah, no, this title is definitely longer. Surely we can't get even longer, right? There's no way."
+    },
+    "616": {
+        "tier": "F",
+        "comment": "Creative numbers? More like creaky numbers, am I right? Because they, uh, they kinda get a little *creaky* sometimes, you know what I mean? Why are you staring at me like that?"
+    },
+    "617": {
+        "tier": "F",
+        "comment": "I should go brush my teeth. I have work tomorrow .-."
+    },
+    "618": {
+        "tier": "C",
+        "comment": "Was I not clear the first time? Leave my man Fibonacci out of this."
+    },
+    "619": {
+        "tier": "B",
+        "comment": "Bleh, I probably shouldn't have brute-forced this one."
+    },
+    "620": {
+        "tier": "C",
+        "comment": "My solution was funny, but underwhelming."
+    },
+    "621": {
+        "tier": "F",
+        "comment": "I am allergic to all kinds of triangles. Including triangular numbers."
+    },
+    "622": {
+        "tier": "B",
+        "comment": "Probab- wait, no it isn't. Could've fooled me there, huh?"
+    },
+    "623": {
+        "tier": "B",
+        "comment": "Boring DP, but I found this surprisingly tolerable."
+    },
+    "624": {
+        "tier": "B",
+        "comment": "Now That's What I Call Probability!"
+    },
+    "625": {
+        "tier": "B",
+        "comment": "Look, I have nothing against sublinear-number-theoretic-summation, but I'm too lazy for it. Straight up."
+    },
+    "626": {
+        "tier": "B",
+        "comment": "B for you-know-what."
+    },
+    "627": {
+        "tier": "F",
+        "comment": "Bruh I just re-read the forums :nauseated_face:"
+    },
+    "628": {
+        "tier": "B",
+        "comment": "Google en passant."
+    },
+    "629": {
+        "tier": "F",
+        "comment": "Where my Nimmers at?"
+    },
+    "630": {
+        "tier": "C",
+        "comment": "I am happy Blum Blum Shub is back, but I am devastated that it wasn't named. Justice for Blum Blum Shub ;_;"
+    },
+    "631": {
+        "tier": "C",
+        "comment": "I guess some combinatorics problems really are irredeemable, huh?"
+    },
+    "632": {
+        "tier": "F",
+        "comment": "cool table bro"
+    },
+    "633": {
+        "tier": "F",
+        "comment": "wtf there's two of them tables??"
+    },
+    "634": {
+        "tier": "F",
+        "comment": "wtf there's THREE- nah nah jkjk"
+    },
+    "635": {
+        "tier": "F",
+        "comment": "cool subsets bro"
+    },
+    "636": {
+        "tier": "F",
+        "comment": "I don't care if it's a British website, it's factoriZations."
+    },
+    "637": {
+        "tier": "B",
+        "comment": "B for B (the variable)."
+    },
+    "638": {
+        "tier": "C",
+        "comment": "Combi- oh, wait, never mind, you forgot a period at the end of your sentence. Sorry"
+    },
+    "639": {
+        "tier": "C",
+        "comment": "Well, sublinear-number-theoretic-summation, at least this problem is unforgettable. Congrats? I guess?"
+    },
+    "640": {
+        "tier": "B",
+        "comment": "I saw \"expected\" and I immediately Alt-Tabbed back to the tier list."
+    },
+    "641": {
+        "tier": "C",
+        "comment": "Why is *that* a real tag?"
+    },
+    "642": {
+        "tier": "F",
+        "comment": "To their credit, this was released in 2018. But in November. So they should've used 2019. Sorry."
+    },
+    "643": {
+        "tier": "F",
+        "comment": "2-friendly? More like 2-freaky, am I right?"
+    },
+    "644": {
+        "tier": "A",
+        "comment": "Now THIS is combinatorial game theory, and THIS is epic."
+    },
+    "645": {
+        "tier": "B",
+        "comment": "Probability, but like, who names a planet just J??"
+    },
+    "646": {
+        "tier": "F",
+        "comment": "No offense to my guy, but Liouville is such an unintuitive spelling and I hate it."
+    },
+    "647": {
+        "tier": "F",
+        "comment": "Triangular numbers weren't enough, huh? You just had the bring the whole zoo."
+    },
+    "648": {
+        "tier": "F",
+        "comment": "\"Skipping\"? Well, don't mind if I do."
+    },
+    "649": {
+        "tier": "F",
+        "comment": "This is like the tenth time I've seen Alice and Bob. I told you."
+    },
+    "650": {
+        "tier": "F",
+        "comment": "If you're gonna use MathJax, have some consistency. Please."
+    },
+    "651": {
+        "tier": "C",
+        "comment": "C for cylinder. Easy."
+    },
+    "652": {
+        "tier": "F",
+        "comment": "What &nbsp; on &nbsp; &nbsp; earth &nbsp; is &nbsp; &nbsp; &nbsp; this &nbsp; spacing?"
+    },
+    "653": {
+        "tier": "B",
+        "comment": "I would've had way less fun if I hadn't seen something like this before."
+    },
+    "654": {
+        "tier": "B",
+        "comment": "Your typical run-of-the-mill combinatorics problem."
+    },
+    "655": {
+        "tier": "F",
+        "comment": "Project Euler is down for maintenance :("
+    },
+    "656": {
+        "tier": "F",
+        "comment": "It's back online :D"
+    },
+    "657": {
+        "tier": "F",
+        "comment": "Not a combinatorics problem. I don't remember it. Shut up. Cry about it."
+    },
+    "658": {
+        "tier": "F",
+        "comment": "F%@$ THERE'S A SEQUEL"
+    },
+    "659": {
+        "tier": "F",
+        "comment": "\"Largest Prime\"? Tch, there's no such thing, you silly goose!"
+    },
+    "660": {
+        "tier": "F",
+        "comment": "The blue mold is spreading like wildfire, and yet here you are with your pandigital triangles?!"
+    },
+    "661": {
+        "tier": "F",
+        "comment": "F-tier for A and B. You even had the audacity to MathJax their names."
+    },
+    "662": {
+        "tier": "F",
+        "comment": "Speaking of professionalism, when is it professional to publicly bash someone who is going through a hard time?! LEAVE FIBONACCI ALONE!!! PLEASE!!!"
+    },
+    "663": {
+        "tier": "B",
+        "comment": "The Instant Solve Strikes Back"
+    },
+    "664": {
+        "tier": "A",
+        "comment": "Crispy problem."
+    },
+    "665": {
+        "tier": "F",
+        "comment": "Enough is enough! I have had it with these monkey-fighting piles of stones on this Monday through Friday website!"
+    },
+    "666": {
+        "tier": "B",
+        "comment": "Probability. Yep. B for bacteria."
+    },
+    "667": {
+        "tier": "A",
+        "comment": "I drunkenly stumbled through this problem with GeoGebra, and it was so worth it. By the way, can I just say that the new GeoGebra online UI looks horrible? I swear it's gone through several changes by now, and each one has made it worse..."
+    },
+    "668": {
+        "tier": "F",
+        "comment": "The answer looks nice, I'll give you that. I guess."
+    },
+    "669": {
+        "tier": "B",
+        "comment": "Solved this one while babysitting a \"competitive programming\" class for high schoolers. Not that I was much older than them."
+    },
+    "670": {
+        "tier": "A",
+        "comment": "This problem and its sequel were submitted by griff, and I've just had the horrifying realization that of all the problems they've submitted which I've ranked so far, two of them were F-tier, and none of them got any serious comments from me. I'm so, so sorry griff. It completely slipped my mind. I was just trying (and failing) to be funny. I really didn't mean to. I promise."
+    },
+    "671": {
+        "tier": "A",
+        "comment": "These two problems are good, okay? I mean it. Im' not trying to make yoou feel better.. I just reallly like combinatorrics, ookay? I know yoou'err aan adminnbut please don;'t ba,n, ..me fromm  thhe Di;sscor,d,, ,pleasee pleasse plee;;ase please phlease"
+    },
+    "672": {
+        "tier": "F",
+        "comment": "I like the modulus, and that's about it."
+    },
+    "673": {
+        "tier": "C",
+        "comment": "This... belongs on Codeforces? C for Codeforces."
+    },
+    "674": {
+        "tier": "D",
+        "comment": "I hate this problem. I hate it. I hate it. I hate it. I HATE IT."
+    },
+    "675": {
+        "tier": "B",
+        "comment": "Real ballsy move making the title entirely MathJax. I gotta respect that."
+    },
+    "676": {
+        "tier": "F",
+        "comment": "Hehe, Problem Six Seven Six. Seven. Six-Seven!"
+    },
+    "677": {
+        "tier": "B",
+        "comment": "Tedious DP, but I've seen much worse in competitive programming."
+    },
+    "678": {
+        "tier": "F",
+        "comment": "You know, I mentioned to one of my good friends today that I was making a Project Euler tier list. Then I got told I was psychotic."
+    },
+    "679": {
+        "tier": "B",
+        "comment": "B-tier only because the title nearly gave me a stroke. Freefarea."
+    },
+    "680": {
+        "tier": "B",
+        "comment": "Tneced Atad Erutcurts Melborp"
+    },
+    "681": {
+        "tier": "F",
+        "comment": "Close enough, welcome back number-theory-maxxers."
+    },
+    "682": {
+        "tier": "F",
+        "comment": "5-smooth? More like, uh, more like uhhhhh"
+    },
+    "683": {
+        "tier": "B",
+        "comment": "Probability :)"
+    },
+    "684": {
+        "tier": "B",
+        "comment": "Return of the Almost-Instant Solve"
+    },
+    "685": {
+        "tier": "B",
+        "comment": "Return of the Almost-Instant Solve II"
+    },
+    "686": {
+        "tier": "B",
+        "comment": "Brute-force-maxxers rise up."
+    },
+    "687": {
+        "tier": "B",
+        "comment": "hehe cards shuffle weee"
+    },
+    "688": {
+        "tier": "B",
+        "comment": "I vaguely remember the set-up, so good job, sublinear-number-theoretic-summation."
+    },
+    "689": {
+        "tier": "B",
+        "comment": "Thought about this one on a plane, but I couldn't solve it :("
+    },
+    "690": {
+        "tier": "B",
+        "comment": "I left this running while I went out, as you do. But to my horror, my laptop was out of power when I got back. Luckily, it had finished running before that, so everything was fine. B for battery consumption."
+    },
+    "691": {
+        "tier": "B",
+        "comment": "Rare string problem."
+    },
+    "692": {
+        "tier": "B",
+        "comment": "Can someone tell me what Siegbert and Jo are references to? I genuinely have no idea."
+    },
+    "693": {
+        "tier": "C",
+        "comment": "Blah, I just whacked brute-force until it worked."
+    },
+    "694": {
+        "tier": "F",
+        "comment": "*cubeful"
+    },
+    "695": {
+        "tier": "B",
+        "comment": "probee :3"
+    },
+    "696": {
+        "tier": "B",
+        "comment": "combee :3"
+    },
+    "697": {
+        "tier": "B",
+        "comment": "probee :D"
+    },
+    "698": {
+        "tier": "B",
+        "comment": "deepee :/"
+    },
+    "699": {
+        "tier": "F",
+        "comment": "uh"
+    },
+    "700": {
+        "tier": "A",
+        "comment": "Invest in Eulercoin! To the moon!"
+    },
+    "701": {
+        "tier": "B",
+        "comment": "deepee? probee, attack! >:3"
+    },
+    "702": {
+        "tier": "B",
+        "comment": "Solved this while waiting for my stats class to start."
+    },
+    "703": {
+        "tier": "C",
+        "comment": "Generic Codeforces problem."
+    },
+    "704": {
+        "tier": "B",
+        "comment": "Patternmaxxers rise up."
+    },
+    "705": {
+        "tier": "B",
+        "comment": "combee! >w<"
+    },
+    "706": {
+        "tier": "F",
+        "comment": "[humorous comment involving the word \"freaky\"]"
+    },
+    "707": {
+        "tier": "B",
+        "comment": "paddie? o_o"
+    },
+    "708": {
+        "tier": "B",
+        "comment": "sublemmie? o_0"
+    },
+    "709": {
+        "tier": "B",
+        "comment": "deepee? combee, attack! >:D"
+    },
+    "710": {
+        "tier": "F",
+        "comment": "Listen, I'm happy that Project Euler's membership has grown so much, but I literally don't remember anything about this problem."
+    },
+    "711": {
+        "tier": "F",
+        "comment": "Consolation brownie points for at least naming them Oscar and Eric."
+    },
+    "712": {
+        "tier": "B",
+        "comment": "Primemaxxers rise up."
+    },
+    "713": {
+        "tier": "C",
+        "comment": "You got the accent right in the title, but not in the actual statement?"
+    },
+    "714": {
+        "tier": "B",
+        "comment": "INSTANT solve, ts too easy :wilted_rose:"
+    },
+    "715": {
+        "tier": "F",
+        "comment": "Hehe, sex!"
+    },
+    "716": {
+        "tier": "B",
+        "comment": "graff :P"
+    },
+    "717": {
+        "tier": "F",
+        "comment": "Please stop inlining your MathJax."
+    },
+    "718": {
+        "tier": "F",
+        "comment": "The only thing \"unreachable\" about these numbers is my brain's inability to reach them, amirite?"
+    },
+    "719": {
+        "tier": "C",
+        "comment": "NOT an instant solve, ts pmo :sob: :wilted_rose:"
+    },
+    "720": {
+        "tier": "F",
+        "comment": "The only thing \"unpredictable\" about these permutations is my brain's inability to remember making the same joke two problems ago, amirite?"
+    },
+    "721": {
+        "tier": "F",
+        "comment": "Do people even find my jokes funny? Do *you* find them funny?"
+    },
+    "722": {
+        "tier": "F",
+        "comment": "Actually, do people even read these? Or do they just care about my thoughts on the \"famous\" ones?"
+    },
+    "723": {
+        "tier": "F",
+        "comment": "Okay, I wanna try an experiment. If you (yes, you) are reading this, ping me in the Project Euler Discord and ask for my thoughts on waffles with no further context."
+    },
+    "724": {
+        "tier": "B",
+        "comment": "We interrupt your regularly scheduled rambling to bring you this probability problem."
+    },
+    "725": {
+        "tier": "F",
+        "comment": "But anyway, if you're not reading these sequentially and you're just hovering over random cells, you are seriously missing out."
+    },
+    "726": {
+        "tier": "B",
+        "comment": "Once again, we interrupt your regularly scheduled rambling to bring you this combinatorics problem."
+    },
+    "727": {
+        "tier": "F",
+        "comment": "The unfunny jokes! The callbacks! The running gags! The narrative! And the lore! Oh my gosh, the lore!"
+    },
+    "728": {
+        "tier": "B",
+        "comment": "coinee combee :)"
+    },
+    "729": {
+        "tier": "D",
+        "comment": "I got rage-baited so hard, lol."
+    },
+    "730": {
+        "tier": "F",
+        "comment": "My man Pythagoras must be so disappointed in me :pensive:"
+    },
+    "731": {
+        "tier": "B",
+        "comment": "My guy Stoneham don't even have a Wiki page, his link is red :sob:"
+    },
+    "732": {
+        "tier": "C",
+        "comment": "I got \"troll\"-ed by this problem, heh. Get it? C for comedic mastermind."
+    },
+    "733": {
+        "tier": "C",
+        "comment": "Another Codeforces problem."
+    },
+    "734": {
+        "tier": "C",
+        "comment": "Yet another Codeforces problem."
+    },
+    "735": {
+        "tier": "F",
+        "comment": "sublemmie! stop biting me >.<"
+    },
+    "736": {
+        "tier": "C",
+        "comment": "broofers 0_0"
+    },
+    "737": {
+        "tier": "A",
+        "comment": "coinee :D"
+    },
+    "738": {
+        "tier": "F",
+        "comment": "*factorizations"
+    },
+    "739": {
+        "tier": "F",
+        "comment": "tfw the first forum post is just a link to some sequence on OEIS"
+    },
+    "740": {
+        "tier": "B",
+        "comment": "christmas probee ^w^"
+    },
+    "741": {
+        "tier": "B",
+        "comment": "B for you-know-what."
+    },
+    "742": {
+        "tier": "C",
+        "comment": "Polygon optimization is for neeerds."
+    },
+    "743": {
+        "tier": "B",
+        "comment": "fym the first tag is NOT \"combinatorics\""
+    },
+    "744": {
+        "tier": "C",
+        "comment": "C-tier for nerd-sniping me while I was hanging out with my good friend. I pulled out my laptop and everything. I mean, my friend was cool with it, but still."
+    },
+    "745": {
+        "tier": "F",
+        "comment": "Wait, this is a sequel? What was the first one?"
+    },
+    "746": {
+        "tier": "B",
+        "comment": "Wait a minute, it was 2021 and they weren't social distancing!"
+    },
+    "747": {
+        "tier": "D",
+        "comment": "I let my program run for nearly a week because I was *that* hellbent on solving this. Then I had a \"eureka moment\" in the shower. I quickly coded something up, and it ran in 6 minutes. Must've felt real smart after that, huh?"
+    },
+    "748": {
+        "tier": "F",
+        "comment": "My man Diophantine must be so disappointed in me :pensive:"
+    },
+    "749": {
+        "tier": "F",
+        "comment": "Wait his name's not even Diophantine"
+    },
+    "750": {
+        "tier": "C",
+        "comment": "They managed to set a problem as boring as solitaire. I guess it's on theme, eh?"
+    },
+    "751": {
+        "tier": "C",
+        "comment": "People in the forums were concerned about the lack of proof. It's been 5 years. Is anyone up for it?"
+    },
+    "752": {
+        "tier": "F",
+        "comment": "F-tier because I'm too dumb to understand the forums."
+    },
+    "753": {
+        "tier": "F",
+        "comment": "I have some truly marvelous remarks for this problem, which my brain is too small to contain."
+    },
+    "754": {
+        "tier": "F",
+        "comment": "Oh they're just name-dropping everyone at this point, huh? First it was Fermat, and now it's Gauss. Who's next? Zeckendorf?"
+    },
+    "755": {
+        "tier": "F",
+        "comment": "Ah s%@$"
+    },
+    "756": {
+        "tier": "F",
+        "comment": "It's numerical analysis, not probability. I will die on this hill."
+    },
+    "757": {
+        "tier": "F",
+        "comment": "Stealthy numbers? More like- ow! What was that for?"
+    },
+    "758": {
+        "tier": "F",
+        "comment": "It's not a good sign when the first forum post begins with \"Under careful scrutiny...\" Really now."
+    },
+    "759": {
+        "tier": "F",
+        "comment": "This website is somehow gonna exhaust the infinite number of sequences out there."
+    },
+    "760": {
+        "tier": "F",
+        "comment": "...and the infinite number of possible summations too, I guess."
+    },
+    "761": {
+        "tier": "D",
+        "comment": "No comment. Experience it yourself."
+    },
+    "762": {
+        "tier": "B",
+        "comment": "Brace yourselves..."
+    },
+    "763": {
+        "tier": "S",
+        "comment": "I was sitting mindlessly in some boring class, daydreaming about amoebas. Well, not exactly daydreaming. And not exactly amoebas either. Just dots, floating around in 3D space. It had only been a few days, but I'd already spent so many hours on this problem. I was frustrated. None of my ideas were working. I even wrote a blog post complaining about it. But no one was there to listen except me. I had to solve this problem. And just like that, I saw it. The faint light at the end of the tunnel. I sketched out some drawings after class. I tested my hypothesis on my laptop. It was correct. I rushed home and finished the job. There it was. The man with the green tick. And for a brief moment, the faceless figure looked at me with his crooked thumbs-up and said, \"You've done well, kid. You've done well.\" But yeah, anyway, this problem isn't too difficult. You should give it a try :)"
+    },
+    "764": {
+        "tier": "F",
+        "comment": "Aaand back to number-theory-maxxing."
+    },
+    "765": {
+        "tier": "B",
+        "comment": "probee want money >:3"
+    },
+    "766": {
+        "tier": "B",
+        "comment": "You know, I genuinely don't mind a plain old backtracking implementation problem. I need to reset my brain."
+    },
+    "767": {
+        "tier": "B",
+        "comment": "nvm, combee! >w< >w<"
+    },
+    "768": {
+        "tier": "A",
+        "comment": "Okay, now THIS is actually epic."
+    },
+    "769": {
+        "tier": "F",
+        "comment": "This is NOT epic."
+    },
+    "770": {
+        "tier": "B",
+        "comment": "Solved this while eating a waffle. Speaking of which..."
+    },
+    "771": {
+        "tier": "F",
+        "comment": "You-hyphenated-it-in-the-problem-statement-but-not-in-the-title."
+    },
+    "772": {
+        "tier": "F",
+        "comment": "Problem-setting tip: Out of ideas? Just pick some random adjectives from the dictionary!"
+    },
+    "773": {
+        "tier": "F",
+        "comment": "Oh, you're real funny, huh. Ruff. Rough. Genius."
+    },
+    "774": {
+        "tier": "C",
+        "comment": "C for conjunctive. Maybe next time pick something from the A section?"
+    },
+    "775": {
+        "tier": "F",
+        "comment": "Yoooo the cubes got shadows and reflections and stuff"
+    },
+    "776": {
+        "tier": "F",
+        "comment": "Is this how Eric Wastl feels when he's hiding his easter eggs"
+    },
+    "777": {
+        "tier": "C",
+        "comment": "The curves were pretty, but I didn't like solving it, unfortunately. C for curves."
+    },
+    "778": {
+        "tier": "F",
+        "comment": "Why would you pick something that looks like a Unicode error to represent your operator?"
+    },
+    "779": {
+        "tier": "F",
+        "comment": "p-adic? more like pee-adic am I ri- [tomato] ow stop- [tomato] [tomato] [tomato] hey that hurts ow- [tomato] [tomato] [tomato] i'm sorry- [tomato] [tomato] [tomato] [tomato] please stop- [tomato] [tomato] [tomato] [tomato] [tomato]"
+    },
+    "780": {
+        "tier": "C",
+        "comment": "You know, despite its reputation as one of the hardest problems on Project Euler, it genuinely wasn't that bad. If anything, it was just an exercise in patience."
+    },
+    "781": {
+        "tier": "B",
+        "comment": "Surely you're joking, Mr. Feynman!"
+    },
+    "782": {
+        "tier": "C",
+        "comment": "Solved this one on the train. Would not recommend. It was a headache without scratch paper."
+    },
+    "783": {
+        "tier": "B",
+        "comment": "probee want ball :D"
+    },
+    "784": {
+        "tier": "F",
+        "comment": "Why is the answer so big like wtf?"
+    },
+    "785": {
+        "tier": "F",
+        "comment": "What is it with Project Euler and big answers?"
+    },
+    "786": {
+        "tier": "A",
+        "comment": "WHAT IS IT WITH- oh wait wait wait this one is A-tier my bad"
+    },
+    "787": {
+        "tier": "F",
+        "comment": "Ah, there we go. WHAT IS IT WITH PROJECT EULER AND BIG ANSWERS?"
+    },
+    "788": {
+        "tier": "C",
+        "comment": "Problem-setting tip: Is your answer too big? Just whack a modulo!"
+    },
+    "789": {
+        "tier": "B",
+        "comment": "broofers ^_^"
+    },
+    "790": {
+        "tier": "C",
+        "comment": "I will not STAND for this Blum Blum Shub ERASURE, you %@\\$#*\\$@*#%\\$@*#\\$"
+    },
+    "791": {
+        "tier": "F",
+        "comment": "\"Hmm, that modulus looks kinda strange, let me just Google- bruh it's a Fibonacci prime\""
+    },
+    "792": {
+        "tier": "A",
+        "comment": "Solved this one in the middle of a lecture. Sorry prof. It was too interesting to leave for later."
+    },
+    "793": {
+        "tier": "F",
+        "comment": "Nah nah, they're doing this on purpose. WE BLUM BLUM SHUBBERS WILL NOT BE SILENCED YOU @\\$#%\\$#*\\$@*%#%@\\$"
+    },
+    "794": {
+        "tier": "B",
+        "comment": "I remember seeing this fact on YouTube. Neat."
+    },
+    "795": {
+        "tier": "F",
+        "comment": "It's all a conspiracy. Big Answer is behind this. Wake up, people."
+    },
+    "796": {
+        "tier": "B",
+        "comment": "probee, do the shuffle! >w<"
+    },
+    "797": {
+        "tier": "A",
+        "comment": "Cyclogenic is NOT a word and you can't convince me otherwise, but I'll allow it. This one's pretty good."
+    },
+    "798": {
+        "tier": "C",
+        "comment": "It's just unfun pattern-spotting. Sorry combee :<"
+    },
+    "799": {
+        "tier": "F",
+        "comment": "Pentagon?? >_<"
+    },
+    "800": {
+        "tier": "B",
+        "comment": "Solved this while eating a sandwich. 200 problems to go."
+    },
+    "801": {
+        "tier": "B",
+        "comment": "Also solved this one on the train. No scratch paper needed. I'm a big boy."
+    },
+    "802": {
+        "tier": "A",
+        "comment": "Niiice."
+    },
+    "803": {
+        "tier": "A",
+        "comment": "Rare moment where the dev team got creative again. You love to see it."
+    },
+    "804": {
+        "tier": "F",
+        "comment": "This is the 63rd problem tagged with diophantine-equation."
+    },
+    "805": {
+        "tier": "C",
+        "comment": "The idea is *fine*, alright? I just feel like I've seen this problem five times already."
+    },
+    "806": {
+        "tier": "A",
+        "comment": "Solved this just a few hours before an estimathon. Funky problem."
+    },
+    "807": {
+        "tier": "C",
+        "comment": "Solved this after we lost the estimathon. Unfunky problem."
+    },
+    "808": {
+        "tier": "C",
+        "comment": "We're back to the first 100 problems again, huh? Contractually, I have to give C-tier, but you know, I'm not complaining."
+    },
+    "809": {
+        "tier": "B",
+        "comment": "Not A-tier only because I'm bad at recursion. B for bad at recursion."
+    },
+    "810": {
+        "tier": "B",
+        "comment": "I don't know how to describe it, but this problem is kinda yummy?"
+    },
+    "811": {
+        "tier": "F",
+        "comment": "I don't know how to describe it, but this problem is kinda yucky?"
+    },
+    "812": {
+        "tier": "S",
+        "comment": "D for dynami- nah jk, I could never. Despite the Mathematica-whacking and pattern-spotting and paper-reading, it was an oddly satisfying experience throughout."
+    },
+    "813": {
+        "tier": "B",
+        "comment": "Yummy problem."
+    },
+    "814": {
+        "tier": "C",
+        "comment": "Why are the people screaming? Are they okay? Do they need help? I'm so confused and concerned."
+    },
+    "815": {
+        "tier": "B",
+        "comment": "probee!!! :D"
+    },
+    "816": {
+        "tier": "F",
+        "comment": "JUSTICE FOR BLUM BLUM SHUB!!! :rage: :rage: :rage: :rage: :rage:"
+    },
+    "817": {
+        "tier": "F",
+        "comment": "hehe square"
+    },
+    "818": {
+        "tier": "C",
+        "comment": "SET is a registered trademark of Cannei, LLC. All rights reserved. Used with permission from PlayMonster, LLC."
+    },
+    "819": {
+        "tier": "B",
+        "comment": "fuzzy probee... :3"
+    },
+    "820": {
+        "tier": "F",
+        "comment": "tfw the first forum post begins with \"well, basically...\""
+    },
+    "821": {
+        "tier": "C",
+        "comment": "griff, I love that your research led to this problem, but this is just insane."
+    },
+    "822": {
+        "tier": "B",
+        "comment": "This problem folded INSTANTLY because it was simply too scared of my aura."
+    },
+    "823": {
+        "tier": "C",
+        "comment": "shuff- wait no this isn't probee get tf out nerd!!"
+    },
+    "824": {
+        "tier": "D",
+        "comment": "D-tier for the unnecessary stinky modulus. It would've been C-tier otherwise. Hell, maybe even B-tier."
+    },
+    "825": {
+        "tier": "C",
+        "comment": "oh, probee... what did i tell you about numerical analysis?"
+    },
+    "826": {
+        "tier": "B",
+        "comment": "ah, probee, that tickles! i'm sorry!"
+    },
+    "827": {
+        "tier": "F",
+        "comment": "Pythagoras is back and he wants his BEANS"
+    },
+    "828": {
+        "tier": "B",
+        "comment": "If the ID only had two digits, it would've been C-tier. But you know, it's been a while. B for brute-force."
+    },
+    "829": {
+        "tier": "C",
+        "comment": "You can't put \"integral\" in the title and then make the problem not calculus. That's against the law."
+    },
+    "830": {
+        "tier": "D",
+        "comment": "No more stinky moduli!! Stop it!!"
+    },
+    "831": {
+        "tier": "C",
+        "comment": "tfw the first forum post begins with \"empirically...\""
+    },
+    "832": {
+        "tier": "F",
+        "comment": "I'm gonna go get some cereal. Brb."
+    },
+    "833": {
+        "tier": "C",
+        "comment": "I have obtained a bowl of cereal. It is time to consume. It is time to crunch. C for cereal."
+    },
+    "834": {
+        "tier": "F",
+        "comment": "Cereal is kind of a strange food. Like, it's basically flavorless, but the textural sensation is pretty decent. Probably the most mid food imaginable. Maybe that's why it's a breakfast food. Not like I'm eating it during breakfast hours, but still."
+    },
+    "835": {
+        "tier": "B",
+        "comment": "Number-theory-maxxers when I finally give one of their problems B-tier again"
+    },
+    "836": {
+        "tier": "S",
+        "comment": "Truly one of the problems of all time."
+    },
+    "837": {
+        "tier": "B",
+        "comment": "spooky ghost combee ooooo"
+    },
+    "838": {
+        "tier": "B",
+        "comment": "Yeah, sure."
+    },
+    "839": {
+        "tier": "F",
+        "comment": "If I see ONE (1) more Blum Blum Shub erasure I am going to LOSE it"
+    },
+    "840": {
+        "tier": "B",
+        "comment": "combee probably :p"
+    },
+    "841": {
+        "tier": "C",
+        "comment": "Don't stare at the stars for too long. You'll get hypnotized."
+    },
+    "842": {
+        "tier": "C",
+        "comment": "Oh, you can stare at these ones for however long you wish."
+    },
+    "843": {
+        "tier": "A",
+        "comment": "Surprisingly deep problem. You know it's gonna be fire when the statement starts off by referring to itself in the third person: \"This problem involves...\""
+    },
+    "844": {
+        "tier": "F",
+        "comment": "...What do you do with the rest of the milk in the bowl? I pour it into a cup and drink it. Am I crazy for this? Surely not, right?"
+    },
+    "845": {
+        "tier": "B",
+        "comment": "Despite its shortcomings, I just like when a statement is short enough to fit on a sticky note."
+    },
+    "846": {
+        "tier": "C",
+        "comment": "C for cycles. Good to have a straightforward comment every now and then, huh?"
+    },
+    "847": {
+        "tier": "B",
+        "comment": "Solved this one at a Burger King. B for Burger King."
+    },
+    "848": {
+        "tier": "C",
+        "comment": "Do you like patternmaxxing?"
+    },
+    "849": {
+        "tier": "C",
+        "comment": "Let me ask again: Do you like patternmaxxing?"
+    },
+    "850": {
+        "tier": "F",
+        "comment": "Did you know corn flakes were originally invented as an anti-aphrodisiac? Not to brag, but I don't really think they're doing much for me, to be honest with you."
+    },
+    "851": {
+        "tier": "A",
+        "comment": "The solution came to me in a dream."
+    },
+    "852": {
+        "tier": "B",
+        "comment": "coinee probee :)"
+    },
+    "853": {
+        "tier": "B",
+        "comment": "Yooo, my man Fibonacci is back..."
+    },
+    "854": {
+        "tier": "B",
+        "comment": "...for TWO problems!"
+    },
+    "855": {
+        "tier": "B",
+        "comment": "Also solved this while eating a waffle. Huh."
+    },
+    "856": {
+        "tier": "B",
+        "comment": "probee, do the shuffle again! >w<"
+    },
+    "857": {
+        "tier": "C",
+        "comment": "paddie! stop barking at combee >:("
+    },
+    "858": {
+        "tier": "B",
+        "comment": "The best thing about saying I've seen something like this one before is that now you have 850+ problems to dig through. Mwahahaha."
+    },
+    "859": {
+        "tier": "S",
+        "comment": "I solved this without knowing the relevant combinatorial game theory knowledge. And my god, when I reinvented it, I felt like I was one with the cookies."
+    },
+    "860": {
+        "tier": "A",
+        "comment": "Yeah, we're getting back to stuff I can easily remember now. All combinatorial game theory problems from now on will surely get at least B-tier. Unless they're particularly bad for some reason."
+    },
+    "861": {
+        "tier": "C",
+        "comment": "It's sublinear-number-theoretic-summation, and it's NOT an instant F-tier. Oh yeah, we're in the endgame now."
+    },
+    "862": {
+        "tier": "C",
+        "comment": "Even boring DP is getting C-tier now. Nature is healing."
+    },
+    "863": {
+        "tier": "B",
+        "comment": "Probability, and I will just close my eyes and pretend that one math-vomit paragraph doesn't exist."
+    },
+    "864": {
+        "tier": "C",
+        "comment": "Yep, number theory is worthy of C-tier now. It's a miracle, folks."
+    },
+    "865": {
+        "tier": "B",
+        "comment": "Slightly annoying DP. Just slightly."
+    },
+    "866": {
+        "tier": "B",
+        "comment": "Textbook probability problem."
+    },
+    "867": {
+        "tier": "C",
+        "comment": "C-tier for making me almost zone out at some boring dorm event."
+    },
+    "868": {
+        "tier": "B",
+        "comment": "Nice heterogram, \"NOW PICK BELFRY MATHS\"."
+    },
+    "869": {
+        "tier": "B",
+        "comment": "Rare combo of probability and data structures."
+    },
+    "870": {
+        "tier": "C",
+        "comment": "It's combinatorial game theory, I know. C-tier only because I was solving this in the computer lab and someone (very sensibly) asked me, \"What on earth are you doing?\""
+    },
+    "871": {
+        "tier": "C",
+        "comment": "One more Codeforces problem for the books, but hey, I'll gladly take it at this point."
+    },
+    "872": {
+        "tier": "B",
+        "comment": "I drew some pretty figures and spotted some pretty patterns. B-tier."
+    },
+    "873": {
+        "tier": "B",
+        "comment": "Textbook combinatorics problem."
+    },
+    "874": {
+        "tier": "B",
+        "comment": "Textbook DP problem."
+    },
+    "875": {
+        "tier": "B",
+        "comment": "My school friend saw me working on this one and asked how many Project Euler problems I'd solved. I said I had just under 100 left and he was like o_0"
+    },
+    "876": {
+        "tier": "A",
+        "comment": "Got distracted by this one during an intro linear algebra class. Finally, a good use for MATLAB."
+    },
+    "877": {
+        "tier": "B",
+        "comment": "XOR-products are back!"
+    },
+    "878": {
+        "tier": "B",
+        "comment": "XOR-products are back! Again!"
+    },
+    "879": {
+        "tier": "B",
+        "comment": "Damn, the fastest solvers are QUICK."
+    },
+    "880": {
+        "tier": "B",
+        "comment": "Oh, I didn't remember making a forum post on this. Heh."
+    },
+    "881": {
+        "tier": "C",
+        "comment": "Somewhat boring number theory problem."
+    },
+    "882": {
+        "tier": "A",
+        "comment": "Combinatorial game theory. Oh yeah."
+    },
+    "883": {
+        "tier": "C",
+        "comment": "Triangle-circle! Buddy! How have you been?"
+    },
+    "884": {
+        "tier": "B",
+        "comment": "Straightforward DP. Or recursion. Whatever floats your boat."
+    },
+    "885": {
+        "tier": "B",
+        "comment": "Combi- no, wait, DP. Actually, well, hmm... Meh, doesn't really matter. It's easy."
+    },
+    "886": {
+        "tier": "C",
+        "comment": "Annoying brute-force. Sorry."
+    },
+    "887": {
+        "tier": "B",
+        "comment": "Significantly tamer version of Problem 328. I'm just glad I didn't have to burn several hours on this."
+    },
+    "888": {
+        "tier": "B",
+        "comment": "You know it, you love it, it's Nim."
+    },
+    "889": {
+        "tier": "B",
+        "comment": "Welcome back, blancmange :)"
+    },
+    "890": {
+        "tier": "C",
+        "comment": "Somewhat unremarkable pattern problem."
+    },
+    "891": {
+        "tier": "A",
+        "comment": "A bit of busywork, but hey, it's a fresh idea imo."
+    },
+    "892": {
+        "tier": "C",
+        "comment": "Another somewhat unremarkable pattern problem."
+    },
+    "893": {
+        "tier": "A",
+        "comment": "Again, mostly busywork, but it really feels like I'm back in the double-digit problems again."
+    },
+    "894": {
+        "tier": "A",
+        "comment": "So what if I think the spirals are pretty? Sue me."
+    },
+    "895": {
+        "tier": "A",
+        "comment": "The sequel to Problem 860. Of course it's a banger."
+    },
+    "896": {
+        "tier": "C",
+        "comment": "Ehhh, I'm good."
+    },
+    "897": {
+        "tier": "C",
+        "comment": "You already know what's coming. Geometric optimization is for neeerds."
+    },
+    "898": {
+        "tier": "A",
+        "comment": "My sympathies go out to the confused forum user who asked what \"Claire Voyant\" meant. Lol."
+    },
+    "899": {
+        "tier": "C",
+        "comment": "It's Nim but I kinda forgor the pattern :skull:"
+    },
+    "900": {
+        "tier": "A",
+        "comment": "Sequel to Problem 899. A-tier for the pleasant surprise at the end."
+    },
+    "901": {
+        "tier": "B",
+        "comment": "Last grid. Lock in."
+    },
+    "902": {
+        "tier": "A",
+        "comment": "A pair of combinatorics problems..."
+    },
+    "903": {
+        "tier": "A",
+        "comment": "...with menacing auras."
+    },
+    "904": {
+        "tier": "C",
+        "comment": "My man Pythagoras just can't catch a break, can he?"
+    },
+    "905": {
+        "tier": "A",
+        "comment": "I don't know how to solve this. I don't know how to solve this. I don't know how to solve this. I don't know how to solve this. I don't know how to solve this. I don't know how to solve this. I don't know how to solve this. I don't know how to solve this. I don't know how to solve this. I don't know how to solve this. Now I know how to solve this!"
+    },
+    "906": {
+        "tier": "B",
+        "comment": "Yet another combinatorics problem."
+    },
+    "907": {
+        "tier": "C",
+        "comment": "Struggled to solve this one during a lecture. Multitasking is hard."
+    },
+    "908": {
+        "tier": "C",
+        "comment": "Sorry, you just got clockblocked. Again."
+    },
+    "909": {
+        "tier": "S",
+        "comment": "Lambda calculus is a horror beyond my comprehension..."
+    },
+    "910": {
+        "tier": "S",
+        "comment": "...and yet, I somehow managed to comprehend it. Icy, you evil genius."
+    },
+    "911": {
+        "tier": "C",
+        "comment": "Paper-reading Simulator II"
+    },
+    "912": {
+        "tier": "C",
+        "comment": "\"Where are the Odds?\" Tch, between the Evens, you silly goose!"
+    },
+    "913": {
+        "tier": "C",
+        "comment": "Tedious pattern problem."
+    },
+    "914": {
+        "tier": "C",
+        "comment": "Triangle-circle. I'm just glad C-tier is now the de facto F-tier. It's a better color honestly."
+    },
+    "915": {
+        "tier": "B",
+        "comment": "Spooky number theory problem."
+    },
+    "916": {
+        "tier": "B",
+        "comment": "Not-so-spooky pattern problem."
+    },
+    "917": {
+        "tier": "C",
+        "comment": "Did you really think I wouldn't notice Blum Blum Shub? Hmm? You're lucky I've softened up now, kiddo."
+    },
+    "918": {
+        "tier": "C",
+        "comment": "Why is the answer so small like wtf?"
+    },
+    "919": {
+        "tier": "C",
+        "comment": "It's almost the big 2025, and integer-sided triangles are making a comeback. Huge."
+    },
+    "920": {
+        "tier": "C",
+        "comment": "Yes, yes, I know. It's the last grid. I should be more serious. But I'm genuinely getting hungry, and it's Saturday, so let's just order food."
+    },
+    "921": {
+        "tier": "B",
+        "comment": "Pattern problem, but there's no way I'm slandering my man Fibonacci."
+    },
+    "922": {
+        "tier": "A",
+        "comment": "Combinatorial game theory..."
+    },
+    "923": {
+        "tier": "A",
+        "comment": "...is magic."
+    },
+    "924": {
+        "tier": "C",
+        "comment": "Oh hey, food's here. I got pasta :)"
+    },
+    "925": {
+        "tier": "C",
+        "comment": "I also got dinner for later too, so you know I'm properly locked in now."
+    },
+    "926": {
+        "tier": "C",
+        "comment": "C for counting zeros."
+    },
+    "927": {
+        "tier": "C",
+        "comment": "Hah, prime-ary. I exhaled through my nose."
+    },
+    "928": {
+        "tier": "B",
+        "comment": "Okay, you can tone it down with the backtracking now."
+    },
+    "929": {
+        "tier": "B",
+        "comment": "I don't exactly remember how to solve this, but it definitely wasn't nearly as elegant as some of the forum posts. Oh well."
+    },
+    "930": {
+        "tier": "D",
+        "comment": "D-tier because I *still* don't understand any of the first few forum posts, and I refuse to."
+    },
+    "931": {
+        "tier": "C",
+        "comment": "Wait a minute, that graph looks familiar..."
+    },
+    "932": {
+        "tier": "B",
+        "comment": "A bit late to celebrate 2025, eh?"
+    },
+    "933": {
+        "tier": "B",
+        "comment": "My neurons are being activated, and yep, this sure is combinatorial game theory. No doubt about it."
+    },
+    "934": {
+        "tier": "B",
+        "comment": "Yet another number theory problem."
+    },
+    "935": {
+        "tier": "A",
+        "comment": "Your lonely rolling square..."
+    },
+    "936": {
+        "tier": "A",
+        "comment": "Groovy combinatorics problem."
+    },
+    "937": {
+        "tier": "B",
+        "comment": "Equiproduct is NOT a word and you can't convince me otherwise, but I'll allow it. This one's alright."
+    },
+    "938": {
+        "tier": "B",
+        "comment": "Guess who's back, back again? Probee's back. Tell a friend >:3"
+    },
+    "939": {
+        "tier": "B",
+        "comment": "It's Nimmin' time."
+    },
+    "940": {
+        "tier": "B",
+        "comment": "My man Fibonacci always delivers."
+    },
+    "941": {
+        "tier": "B",
+        "comment": "*de Bruijn has entered the chat*"
+    },
+    "942": {
+        "tier": "S",
+        "comment": "S-tier solely for how I solved it. No further comment."
+    },
+    "943": {
+        "tier": "B",
+        "comment": "Overrated in difficulty, tbh. I'm just that good."
+    },
+    "944": {
+        "tier": "B",
+        "comment": "Okay but elevisor is not an actual word for real this time. It just isn't."
+    },
+    "945": {
+        "tier": "B",
+        "comment": "XOR-products are back? Again?"
+    },
+    "946": {
+        "tier": "B",
+        "comment": "Tricky problem problem."
+    },
+    "947": {
+        "tier": "B",
+        "comment": "He just never misses."
+    },
+    "948": {
+        "tier": "B",
+        "comment": "They don't call me the..."
+    },
+    "949": {
+        "tier": "A",
+        "comment": "...combinatorial game theory expert for no reason."
+    },
+    "950": {
+        "tier": "A",
+        "comment": "A fresh twist on a classic problem. What's not to like?"
+    },
+    "951": {
+        "tier": "B",
+        "comment": "Pattern problem in a probability trench coat."
+    },
+    "952": {
+        "tier": "C",
+        "comment": "\"this absolute yap session\" is a fire line for the forums btw"
+    },
+    "953": {
+        "tier": "B",
+        "comment": "The unholy love child of combinatorial game theory and sublinear-number-theoretic-summation."
+    },
+    "954": {
+        "tier": "C",
+        "comment": "No really, you can tone it down with the backtracking now. Thanks."
+    },
+    "955": {
+        "tier": "C",
+        "comment": "Triangular numbers ARE triangles, and I am STILL kind of allergic to them."
+    },
+    "956": {
+        "tier": "B",
+        "comment": "Super duper insane notation btw"
+    },
+    "957": {
+        "tier": "S",
+        "comment": "The last mental hurdle before I achieved Perfection. I finally rejoined the Project Euler Discord for some much-needed morale support after months of soloing this journey. I probably should've done that ages ago. But then again, maybe I wouldn't have been as efficient. He who travels fastest travels alone, he who travels furthest travels with others, all that jazz. But well, it's in the past now. Lesson learned, perhaps. This problem is a fierce dragon, but you know full well by now that no dragon is too big for me to tame. Even if it's geometry."
+    },
+    "958": {
+        "tier": "C",
+        "comment": "Oh, is this penance for dissing Euclid all those problems ago?"
+    },
+    "959": {
+        "tier": "A",
+        "comment": "Froggy! You're back!"
+    },
+    "960": {
+        "tier": "A",
+        "comment": "Combee too? Aw, you guys..."
+    },
+    "961": {
+        "tier": "A",
+        "comment": "Deepee! Long time no see, you little rascal."
+    },
+    "962": {
+        "tier": "A",
+        "comment": "Integer-sided triangles! My guy."
+    },
+    "963": {
+        "tier": "A",
+        "comment": "Combinatorial game theory! There you are."
+    },
+    "964": {
+        "tier": "A",
+        "comment": "And last but not least, Probee! Looks like everyone's here, huh? I guess there's only one thing left to do..."
+    },
+    "965": {
+        "tier": "S",
+        "comment": "On October 22, 2025, I completed all 965 problems on Project Euler after 2 years of pretty much nonstop grinding. I don't think I'll ever experience anything else as euphoric as seeing that big green tick for the very last time. I wrote a blog post about it and everything. I got updoots, praise, congratulations and all that... It was a great moment. This grind took up most (if not all) of my free time for a good long while. The closer I got to the end, the less it felt like a pipe dream, and the more tantalizing the finish line became. Now, was it difficult? Well no duh. Was it worth it? Eh, debatable. I don't know if the spirit of Euler himself possessed me to push through such an insane goal, but hey, it's certainly a chapter of my life that I'll look back on fondly for years to come. Though, honestly, I'm just glad I can now sit back, relax, and enjoy new Project Euler releases at a normal pace. It's what I look forward to every weekend, really."
+    },
+    "966": {
+        "tier": "C",
+        "comment": "I just completed Project Euler and now I get rewarded with geometry implementation hell? You can NOT be serious bruh :sob: :wilted_rose:"
+    },
+    "967": {
+        "tier": "B",
+        "comment": "Solved this one in a hotel room just a couple hours before a programming competition. We didn't do well. No idea why."
+    },
+    "968": {
+        "tier": "C",
+        "comment": "Got rage-baited hard when I saw the fastest solve was 10 minutes."
+    },
+    "969": {
+        "tier": "B",
+        "comment": "New animal just dropped. Well, hopped, I guess. It's Kangaroo!"
+    },
+    "970": {
+        "tier": "C",
+        "comment": "Don't let the 'roo distract you from the fact that this is just numerical analysis, which is, in fact, for neeerds."
+    },
+    "971": {
+        "tier": "B",
+        "comment": "It was around this point in time that a controversy sparked in the Project Euler community over AI-assisted cheating. Things were getting spicy."
+    },
+    "972": {
+        "tier": "B",
+        "comment": "Hyperbolic geometry is a mess, and I'm glad this problem just barely scratched the surface."
+    },
+    "973": {
+        "tier": "B",
+        "comment": "Yet another pattern problem. I probably could've gotten 1st on the fastest solvers table instead of 4th if I hadn't been screwing around at the start. B for bitter, but just a little."
+    },
+    "974": {
+        "tier": "B",
+        "comment": "My hands are not fast enough. 7th :("
+    },
+    "975": {
+        "tier": "B",
+        "comment": "My brain is not fast enough. 9th :("
+    },
+    "976": {
+        "tier": "A",
+        "comment": "It's combinatorial game theory, and we are so back."
+    },
+    "977": {
+        "tier": "B",
+        "comment": "My mom told me to \"hurry up\", which was apparently all the motivation my brain needed to solve this problem. Thanks mom!"
+    },
+    "978": {
+        "tier": "A",
+        "comment": "Solved this one on a plane. Live. 19th. Beat that. A for airplane, obviously."
+    },
+    "979": {
+        "tier": "B",
+        "comment": "More hyperbolic geometry, featuring our friend Froggy :)"
+    },
+    "980": {
+        "tier": "B",
+        "comment": "cool quaternion bro"
+    },
+    "981": {
+        "tier": "B",
+        "comment": "omg there's two of them quaternions!"
+    },
+    "982": {
+        "tier": "A",
+        "comment": "Dice? Probability? We're in for a good time."
+    },
+    "983": {
+        "tier": "A",
+        "comment": "I am SEEING things that weren't meant to be SEEN. What am I even SEEING"
+    },
+    "984": {
+        "tier": "B",
+        "comment": "Horsey :)"
+    },
+    "985": {
+        "tier": "C",
+        "comment": "Everyone in the Discord was making fun of me because I couldn't solve this quickly ;_;"
+    },
+    "986": {
+        "tier": "C",
+        "comment": "bro just spot the pattern bro just do it bro just trust me bro"
+    },
+    "987": {
+        "tier": "C",
+        "comment": "Another counting problem involving cards. I feel like I've seen this problem ten times already."
+    },
+    "988": {
+        "tier": "C",
+        "comment": "oh god the frogs are attacking each other. stop it! >_<"
+    },
+    "989": {
+        "tier": "A",
+        "comment": "I made the horrible blunder of claiming on Discord that this problem seemed approachable. Then one of the authors HARASSED me in my DMs asking about my progress. I confidently replied that it was \"standard\" sublinear-number-theoretic-summation, like the simple-minded FOOL that I was. Little did I know that this was all a cunning RUSE, an attempt to HUMILIATE me. This sublinear-number-theoretic-summation wasn't even remotely STANDARD. It was oh so much WORSE. I am PATHETIC. I am a JOKE. This problem SUCKS and I freaking HATE it!!!"
+    },
+    "990": {
+        "tier": "B",
+        "comment": "The AI cheater slop is real, chat..."
+    },
+    "991": {
+        "tier": "A",
+        "comment": "95% of people cannot solve this!"
+    },
+    "992": {
+        "tier": "B",
+        "comment": "Even Froggy isn't safe from the AI cheater slop :sob:"
+    },
+    "993": {
+        "tier": "C",
+        "comment": "Couldn't solve this one on the bus. Massive skill issue :("
+    },
+    "994": {
+        "tier": "B",
+        "comment": "I sure do be countin' those triangles."
+    },
+    "995": {
+        "tier": "C",
+        "comment": "Man, I keep coming up with the most unintelligent solutions imaginable."
+    },
+    "996": {
+        "tier": "C",
+        "comment": "Man, I keep overthinking things... am I actually cooked?"
+    },
+    "997": {
+        "tier": "D",
+        "comment": "Lol, I genuinely got tilted solving this. D for dice box. It's actually so over for me. Unless..."
+    },
+    "998": {
+        "tier": "S",
+        "comment": "Fwah! 2nd place! I did not see that coming at all. Seriously. I'd stopped caring about the fastest solvers table ever since they removed the Gold Medal achievement, and especially after they announced they'd be sunsetting the table entirely after Problem 1000. This was genuinely a pleasant surprise. I guess the best things really do come when you're not looking for them, huh? Who cares whether or not 1st place was AI slop? I simply did a thing. Fast. On an integer-sided triangle problem, of all things. My weakness. My kryptonite. My mortal enemy turned tolerable friend. And yet, against all odds, I somehow pulled it off. I don't think I could've possibly asked for a better ending. What a way to go. Unc still got it."
+    },
+    "999": {
+        "tier": "A",
+        "comment": "I hope you don't mind me using this cell as a placeholder for my rambling. Well, I mean, I've already done it dozens of times by now, so... Anyway, before we get to the big One Thousand, I want to gradually start wrapping things up with a little meta note about this tier list. Whether you read through the whole thing (god I hope you didn't) or just randomly skimmed through a few text boxes here and there, I appreciate you spending your time on this silly little blog post by this silly little boy. This \"project\" ended up being more of a creative writing exercise than anything else, and my god, was it way more ambitious and complex than I anticipated. All things considered, though, it was just fun (and nostalgic at times) to take a trip down my own memory lane. To watch a confused, lonely boy grow into a slightly less confused and slightly less lonely boy. I hope you yourself found some value in all of this. And with that, thank you for reading my Project Euler tier list, and... well, I guess there's just one more problem left to go, huh?"
+    },
+    "1000": {
+        "tier": "S",
+        "comment": "It's not even out yet, but I just *know* for a fact it's gonna be an INSTANT S-tier, no questions asked. Thank you to all the wonderful people involved with Project Euler: the problem-setters, the development team, the community members, and everyone in between. You've all played a meaningful part in shaping who I am today, and you've added a vibrant splash of color to the landscape I call my life. Poetic, eh? I'm such a smart boy with my smart words. Now, if you'll excuse me, I'm going to gently close this JSON file and never look at it again. 12 THOUSAND words. I am FREE. I never wanna look at a grid cell EVER AGAIN. I am SO DONE. RRRAAAAAAAAAAAAAAAHHHHH"
+    }
+}
