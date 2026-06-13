@@ -2,6 +2,8 @@
 title: "Until Proven Otherwise"
 ---
 
+### [*AO3 Mirror*](https://archiveofourown.org/works/86641276)
+
 <p style="margin-bottom:3rem">Happy Pride Month! Here's some vampire yaoi. That's all I have to say :3</p>
 
 ---
