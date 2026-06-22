@@ -18,7 +18,7 @@ title: Unrequited?
 
 I bring you not one, but TWO (2) yaois this blessed Pride Month.
 
-This one takes place in the same universe as [Unreadable]({% post_url 2025-11-16-unreadable %}), but it can be read on its own.
+This fic takes place in the same universe as [Unreadable]({% post_url 2025-11-16-unreadable %}), but it can be read on its own.
 
 The premise is simple: hanahaki, but funny.
 
