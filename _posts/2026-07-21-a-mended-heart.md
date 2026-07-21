@@ -2,6 +2,10 @@
 title: A Mended Heart
 ---
 
+> *Based on a true story.*
+> 
+> *For Little Leo. You deserve the world.*
+
 The man slowly approached the little boy at the school playground.
 
 The boy's face was expressionless. Unmoving. In shock.
@@ -12,9 +16,9 @@ He was holding onto something.
 
 A paper heart for Mother's Day.
 
-Brutally torn in half.
+Brutally torn in half by his teacher.
 
-The boy's teacher had scolded him for not following the instructions.
+He had been scolded for not following the instructions.
 
 The man remembers.
 
