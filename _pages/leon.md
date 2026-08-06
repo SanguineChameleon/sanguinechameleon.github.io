@@ -11,7 +11,7 @@ This is my website, where I write about whatever I like, whenever I like.
 
 This section is here for you to decide whether or not I'm qualified to say what I say.
 
-- <span id="age"></span> My pronouns are he/him.
+- <span id="age"></span> My pronouns are he/they.
 - I'm from Vietnam, but my English is much better than my Vietnamese.
 - My real name is almost impossible to pronounce, so I just go by Leo online.
 - I'm a <span id="uni-year"></span> Computer Science student at the National University of Singapore.
