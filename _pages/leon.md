@@ -33,9 +33,9 @@ Sometimes I will stumble across a stranger's blog, read a few posts, be mildly e
 
 Here's a list of my interests, in (roughly) descending order of relevance.
 
-- **Competitive Programming**
+- **Puzzle Hunts**
 
-  I'm not nearly as competitive anymore, so these days, you're more likely to find me as a problem setter than as a contestant.
+  Hunts I've (seriously) participated in and finished: [Galactic Puzzle Hunt 2024](https://2024.galacticpuzzlehunt.com/), [Paradox Puzzlehunt 2](https://2026.paradoxpuzzlehunt.com/), [Galactic Puzzle Hunt 2026](https://2026.galacticpuzzlehunt.com/). I hope this list grows longer over time. Puzzle hunts are wonderful.
 
 - **Project Euler**
 
@@ -43,7 +43,7 @@ Here's a list of my interests, in (roughly) descending order of relevance.
 
 - **Drawing**
 
-  I recently started learning how to draw! You can browse my work on [Instagram](https://www.instagram.com/sanguinechameleon/) or right [here]({% link _pages/art.md %}) on this site. I try to post when I'm not busy with other things :P
+  You can browse my work on [Instagram](https://www.instagram.com/sanguinechameleon/) or right [here]({% link _pages/art.md %}) on this site. I try to post when I'm not busy with other things :P
 
 - **Archive of Our Own**
   
@@ -60,6 +60,10 @@ Here's a list of my interests, in (roughly) descending order of relevance.
 - **Rhythm Games**
 
   I used to be obsessed with them, but now I just play whenever. You might spot me at the nearest arcade playing PIU, DDR, Taiko, or maimai. I also play osu!.
+
+- **Competitive Programming**
+
+  I'm not nearly as competitive anymore, so these days, you're more likely to find me as a problem setter than as a contestant, if at all.
 
 ## Contact Me
 
