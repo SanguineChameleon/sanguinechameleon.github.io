@@ -3,11 +3,7 @@ layout: post
 title: "My YouTube Videos"
 ---
 
-This post contains behind-the-scenes content for all the [YouTube videos](https://www.youtube.com/@SanguineChameleon) I've made so far. Commentaries for earlier videos were written much later after their release, so I might not remember everything about them.
-
-Some videos have their own write-up in a separate post. That doesn't necessarily mean that they're better. They just deserve their own space where I can write in more detail. The rest of the videos are listed here, in chronological order.
-
----
+> **Update** (<span class="mono">18-Oct-2026</span>): Some videos have since been unlisted and removed from this page. They are far below my current standards and I just don't like having them public anymore. As with all me-related things, you are free to dig at your own risk.
 
 {% for post in site.posts reversed %}
 
@@ -20,6 +16,8 @@ Some videos have their own write-up in a separate post. That doesn't necessarily
 {% endfor %}
 
 ---
+
+Future videos will continue to be in separate blog posts. The rest of this page is for older ones that didn't quite make the cut. They are still pretty good though, don't worry.
 
 ## [F0UR1ER](https://www.youtube.com/watch?v=ByXFCtlFo0Q) {#fourier}
 
@@ -96,56 +94,6 @@ I remember lying on the pad for a good minute or two afterward. To finish my cre
 
 To be honest, I have no idea how I pulled this off.
 
-## [clean.str](https://www.youtube.com/watch?v=_ZLL53Uq26k) {#clean}
-
-I set up a tripod in my room and started recording a live feed with my phone, plus a bunch of filters in OBS.
-
-I overlaid some stock VHS footage to get the scanline/static-y effect. The huge timer in the middle is another overlay with a script that tracks the current time. The audio is a reversed and slowed-down version of a signal from the Lincolnshire Poacher numbers station (disc one, track 6 of the The Conet Project).
-
-The title is straightforward: I was recording myself cleaning my room! You can't really see it because of the quality of the footage, but you'll have to trust me on that. I also didn't want a high-quality feed of my room for obvious privacy reasons.
-
-Most of the 12-hour stream is just the timer on a black background. That was when I turned my phone off to go outside.
-
-There used to be another stream (debut_stream.str), but I assume it wasn't archived due to its ~40-hour length. The premise was the same, but it also included some grainy footage outdoors and at an arcade.
-
-I like the vibe the stream gives off. Mildly disturbing, like there's a hidden secret waiting to be uncovered. Like I'm some sort of test subject. But there isn't. Sorry :P
-
-## [cereal.mp4](https://www.youtube.com/watch?v=qzw7Q_v0-t8) {#cereal}
-
-It was dinner time and I wanted cereal. That's it. That's the whole video.
-
-All the grunting, screaming, and cries of anguish are half-genuine. For safety reasons, I cannot recommend eating cereal with your hands while coughing profusely.
-
-Okay, but what do I mean by "half-genuine"? Not sure. "Eating cereal painfully" was an idea that I definitely had, and an idea I definitely went with. It's definitely one of the videos on my channel.
-
-Maybe there's something surreal about watching someone struggle to eat cereal. Maybe there isn't. I dunno, it's not really that deep.
-
-The only valuable thing I can offer is that the video itself was recorded in the same way as clean.str. All the weird filters and effects are added live; I don't have the raw footage.
-
-Clean-up was not fun.
-
-## [mac_and_cheese.mp4](https://www.youtube.com/watch?v=fsRwvvQjUeM) {#mac-and-cheese}
-
-Another food-related video. I went for something more meta this time.
-
-For the sake of overexplaining, here's a summary of the (hopefully straightforward) storyline:
-
-- The main character (from now on referred to as MC, and not to be confused with the actual me) starts a screen recording on his phone.
-- MC opens the camera app and shows his room, along with his newest creation: a video of himself eating mac and cheese.
-- He takes photos of his laptop screen (presumably for the thumbnail), when an unknown user, `@SufficientGuest9553` (SG), messages him on Discord.
-- The messages start out innocuously as compliments of MC's videos, but they quickly become stalker-ish.
-- SG says they have MC's passport, and this is confirmed when he checks his drawer and sees that it's gone. Oh no!
-- Thinking this is just a prank, MC is about to send an insult... when SG says they can see everything he types.
-- Oh dear, SG is in MC's room. MC fails to escape and is presumably ambushed at the end. Whether or not he dies is up to you.
-
-Whew, that sure was a story. It's not that good or scary, and it feels like something a grade schooler would come up with.
-
-That being said, I had a reasonable amount of fun dealing with the technical side of things. Remember that this was a one-man effort. While MC's messages were typed by me, SG's messages were sent using a Python script. The script typed messages in a separate Discord window on my laptop, which is not visible in the video. It was a bit annoying to figure out how to hide it.
-
-The time displayed on the phone is real. I recorded this at 2 in the morning. Sometimes you get the dumbest ideas at night.
-
-**Side note**: You may be wondering how SG messaged MC in the first place. That's because they're both in the official Genshin Impact Discord server. FYI, I don't play that game, but I do read fan fiction. No further comment.
-
 ## [Lost Signal](https://www.youtube.com/watch?v=nBxwonLImac) {#lost-signal}
 
 Like I wrote in the description, this song was rotting on my laptop for over a year. Originally, it was just called "Signal", was much faster (200 BPM), and was a lot punchier (think drum and bass). Unfortunately, after finishing the first drop, I didn't know how to finish the rest of the song and left it there. Every now and then I'd come back to brainstorm, but it never really went anywhere.
@@ -154,4 +102,6 @@ I'd say the addition of the word "lost" reflects that. The song is a somber acce
 
 I'm getting too sentimental.
 
-For the melody, I used 3x Osc with some basic effects. It's amazing how much the quality of a song improves just by adding some reverb and echo. The vocals are taken from The Lincolnshire Poacher, same as in clean.str. The thumbnail is a picture I took of a sunset, run through an SSTV transmission. The original version also sampled the startup sound of an SSTV signal.
+For the melody, I used 3x Osc with some basic effects. It's amazing how much the quality of a song improves just by adding some reverb and echo. The vocals are taken from The Lincolnshire Poacher. The thumbnail is a picture I took of a sunset, run through an SSTV transmission. The original version also sampled the startup sound of an SSTV signal.
+
+> **Update** (<span class="mono">18-Oct-2026</span>): You'll be glad to know that I *have* released Signal. See [this]({% post_url 2026-08-18-signal %}).
